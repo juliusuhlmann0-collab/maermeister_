@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Rechnungen &amp; Abrechnung</title>
+<style>
+:root{--bg:#f4f5f7;--flaeche:#fff;--rand:#dcdfe4;--text:#16181d;--leise:#666d78}
+@media (prefers-color-scheme:dark){
+  :root{--bg:#111318;--flaeche:#1a1d23;--rand:#31363f;--text:#eceef2;--leise:#9aa2ae}
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);
+     font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif}
+.wrap{max-width:560px;margin:0 auto;padding:40px 18px 60px}
+h1{font-size:24px;margin:0 0 6px;letter-spacing:-.02em}
+p.unter{margin:0 0 28px;color:var(--leise);font-size:14.5px}
+a.karte{display:block;text-decoration:none;color:inherit;background:var(--flaeche);
+        border:1px solid var(--rand);border-left:5px solid var(--farbe);border-radius:14px;
+        padding:18px 20px;margin-bottom:14px;box-shadow:0 1px 2px rgba(0,0,0,.05)}
+a.karte h2{margin:0 0 4px;font-size:17px}
+a.karte span{color:var(--leise);font-size:14px}
+ol{color:var(--leise);font-size:14.5px;padding-left:22px;margin-top:32px}
+ol li{margin-bottom:8px}
+ol b{color:var(--text)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Rechnungen &amp; Abrechnung</h1>
+  <p class="unter">Zwei Wochen lang alle gemeinsamen Ausgaben sammeln – am Ende rechnet die Seite aus, wer wem was schuldet.</p>
+
+  <a class="karte" href="rechnungen-alle.html" style="--farbe:#2f6f4f">
+    <h2>Gemeinsame Kasse – alle fünf</h2>
+    <span>Sina · Alex · Chiara · Julius · Marian</span>
+  </a>
+
+  <a class="karte" href="abrechnung-julius-marian-chiara.html" style="--farbe:#3a5a9b">
+    <h2>Abrechnung – Julius, Marian, Chiara</h2>
+    <span>Julius · Marian · Chiara</span>
+  </a>
+
+  <ol>
+    <li><b>Auf dem Handy:</b> Seite öffnen und zum Startbildschirm hinzufügen – dann startet sie wie eine App.</li>
+    <li><b>Rechnung erfassen:</b> unten rechts auf <b>+</b>, Beleg fotografieren, Betrag eintippen, auswählen wer bezahlt hat und für wen es war.</li>
+    <li><b>Zusammenführen:</b> Die Daten liegen auf dem jeweiligen Gerät. Am Ende exportiert jeder unter <em>Einstellungen</em> seine Datei, einer importiert alle – doppelte Einträge werden dabei erkannt.</li>
+    <li><b>Abrechnen:</b> Reiter <em>Abrechnung</em> zeigt Salden und die kürzeste Liste an Überweisungen.</li>
+  </ol>
+</div>
+</body>
+</html>

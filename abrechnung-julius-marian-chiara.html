@@ -1,0 +1,1219 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Abrechnung – Julius, Marian, Chiara</title>
+<meta name="theme-color" content="#3a5a9b">
+<style>
+:root{
+  --akzent:#3a5a9b;
+  --akzent-weich:#e6ecf8;
+  --bg:#f4f5f7;
+  --flaeche:#ffffff;
+  --flaeche-2:#eceef1;
+  --rand:#dcdfe4;
+  --text:#16181d;
+  --text-leise:#666d78;
+  --gut:#0f7a4a;
+  --gut-bg:#e3f5ea;
+  --schlecht:#b3261e;
+  --schlecht-bg:#fdeceb;
+  --radius:14px;
+  --schatten:0 1px 2px rgba(15,18,25,.06), 0 4px 16px rgba(15,18,25,.06);
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#111318;
+    --flaeche:#1a1d23;
+    --flaeche-2:#23272f;
+    --rand:#31363f;
+    --text:#eceef2;
+    --text-leise:#9aa2ae;
+    --gut:#5fd39a;
+    --gut-bg:#12301f;
+    --schlecht:#ff8a80;
+    --schlecht-bg:#3a1a17;
+    --schatten:0 1px 2px rgba(0,0,0,.4), 0 4px 16px rgba(0,0,0,.3);
+  }
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:var(--bg);color:var(--text);
+  font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  -webkit-text-size-adjust:100%;
+  padding-bottom:calc(96px + env(safe-area-inset-bottom));
+}
+h1,h2,h3{margin:0;font-weight:650;letter-spacing:-.01em}
+button{font:inherit;color:inherit}
+.wrap{max-width:760px;margin:0 auto;padding:0 16px}
+
+/* Kopf */
+.topbar{background:var(--akzent);color:#fff;padding:calc(14px + env(safe-area-inset-top)) 0 14px}
+.topbar h1{font-size:19px}
+.topbar p{margin:2px 0 0;font-size:13px;opacity:.85}
+.topbar .kopfzeile{display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+.topbar .gesamt{font-size:19px;font-weight:650;white-space:nowrap}
+
+/* Reiter */
+.tabs{position:sticky;top:0;z-index:20;background:var(--flaeche);border-bottom:1px solid var(--rand)}
+.tabs .wrap{display:flex;gap:4px}
+.tab{flex:1;padding:12px 6px;background:none;border:0;border-bottom:2px solid transparent;
+     color:var(--text-leise);font-weight:600;font-size:14px;cursor:pointer}
+.tab[aria-selected="true"]{color:var(--akzent);border-bottom-color:var(--akzent)}
+
+main{padding-top:16px}
+section[hidden]{display:none}
+
+/* Bausteine */
+.karte{background:var(--flaeche);border:1px solid var(--rand);border-radius:var(--radius);box-shadow:var(--schatten)}
+.karte + .karte{margin-top:14px}
+.karte-kopf{padding:14px 16px 0;font-size:13px;font-weight:650;color:var(--text-leise);text-transform:uppercase;letter-spacing:.05em}
+.kacheln{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:16px}
+.kachel{background:var(--flaeche);border:1px solid var(--rand);border-radius:var(--radius);padding:12px;text-align:center;box-shadow:var(--schatten)}
+.kachel .wert{font-size:19px;font-weight:680;letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.kachel .label{font-size:11px;color:var(--text-leise);text-transform:uppercase;letter-spacing:.05em;margin-top:2px}
+
+.hinweis{background:var(--flaeche-2);border:1px solid var(--rand);border-radius:var(--radius);
+         padding:12px 14px;font-size:13.5px;color:var(--text-leise);margin-bottom:16px}
+.hinweis b{color:var(--text)}
+.leer{text-align:center;padding:40px 20px;color:var(--text-leise)}
+.leer .gross{font-size:40px;line-height:1;margin-bottom:10px}
+
+/* Tagesliste */
+.tag{margin-bottom:14px}
+.tag-kopf{display:flex;align-items:baseline;justify-content:space-between;gap:10px;
+          padding:0 4px 6px;font-size:13px;font-weight:650;color:var(--text-leise)}
+.tag-kopf .summe{font-variant-numeric:tabular-nums}
+.tag.heute .tag-kopf{color:var(--akzent)}
+/* Tage ohne Rechnung: eine schlanke Zeile statt einer leeren Karte */
+.tag.leerer-tag{margin-bottom:4px}
+.leer-zeile{display:flex;align-items:center;justify-content:space-between;gap:10px;width:100%;
+            background:none;border:0;border-bottom:1px dashed var(--rand);
+            padding:9px 4px;font-size:13px;font-weight:600;color:var(--text-leise);cursor:pointer}
+.leer-zeile .plus{font-size:15px;opacity:.55}
+.tag.leerer-tag.heute .leer-zeile{color:var(--akzent);border-bottom-color:var(--akzent)}
+.wochen-trenner{display:flex;align-items:center;gap:10px;margin:22px 4px 12px;
+                font-size:12px;font-weight:700;color:var(--text-leise);text-transform:uppercase;letter-spacing:.08em}
+.wochen-trenner::after{content:"";flex:1;height:1px;background:var(--rand)}
+
+.eintrag{display:flex;gap:12px;align-items:center;width:100%;text-align:left;
+         background:var(--flaeche);border:1px solid var(--rand);border-radius:var(--radius);
+         padding:10px 12px;margin-bottom:8px;cursor:pointer;box-shadow:var(--schatten)}
+.eintrag:active{transform:scale(.995)}
+.eintrag .bild{width:46px;height:46px;flex:0 0 46px;border-radius:10px;object-fit:cover;background:var(--flaeche-2);
+               display:flex;align-items:center;justify-content:center;font-size:18px;color:var(--text-leise);overflow:hidden}
+.eintrag .bild img{width:100%;height:100%;object-fit:cover;display:block}
+.eintrag .mitte{flex:1;min-width:0}
+.eintrag .zweck{font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.eintrag .meta{font-size:12.5px;color:var(--text-leise);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.eintrag .betrag{font-weight:680;font-variant-numeric:tabular-nums;white-space:nowrap}
+
+/* Personen-Chips / Filter */
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{border:1px solid var(--rand);background:var(--flaeche);border-radius:999px;
+      padding:7px 13px;font-size:14px;font-weight:600;cursor:pointer;color:var(--text-leise)}
+.chip[aria-pressed="true"]{background:var(--akzent);border-color:var(--akzent);color:#fff}
+.chip.klein{padding:5px 11px;font-size:13px}
+.filterzeile{display:flex;gap:8px;overflow-x:auto;padding:0 0 14px;-webkit-overflow-scrolling:touch}
+.filterzeile::-webkit-scrollbar{display:none}
+.filterzeile .chip{flex:0 0 auto}
+
+/* Abrechnung */
+table.saldo{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
+table.saldo th,table.saldo td{padding:10px 16px;text-align:right;font-size:14.5px;border-top:1px solid var(--rand)}
+table.saldo th{font-size:11.5px;color:var(--text-leise);text-transform:uppercase;letter-spacing:.05em;font-weight:650}
+table.saldo thead th{border-top:0}
+table.saldo th:first-child,table.saldo td:first-child{text-align:left;font-weight:640}
+.betrag-gut{color:var(--gut);font-weight:680}
+.betrag-schlecht{color:var(--schlecht);font-weight:680}
+.betrag-null{color:var(--text-leise)}
+
+.transfer{display:flex;align-items:center;gap:10px;padding:12px 16px;border-top:1px solid var(--rand);font-size:15px}
+.transfer:first-of-type{border-top:0}
+.transfer .von{font-weight:650}
+.transfer .pfeil{color:var(--text-leise)}
+.transfer .an{font-weight:650}
+.transfer .wieviel{margin-left:auto;font-weight:680;font-variant-numeric:tabular-nums;white-space:nowrap}
+.fertig{padding:18px 16px;text-align:center;color:var(--gut);font-weight:640}
+
+.zeile{display:flex;align-items:center;gap:10px;padding:12px 16px;border-top:1px solid var(--rand)}
+.zeile:first-of-type{border-top:0}
+.zeile .rechts{margin-left:auto;font-variant-numeric:tabular-nums;color:var(--text-leise)}
+
+/* Formular */
+.feld{margin-bottom:16px}
+.feld > label{display:block;font-size:12.5px;font-weight:650;color:var(--text-leise);
+              text-transform:uppercase;letter-spacing:.05em;margin-bottom:7px}
+input[type=text],input[type=number],input[type=date],input[type=search],select,textarea{
+  width:100%;padding:11px 13px;border:1px solid var(--rand);border-radius:11px;
+  background:var(--flaeche);color:var(--text);font:inherit}
+input:focus,select:focus,textarea:focus{outline:2px solid var(--akzent);outline-offset:-1px;border-color:var(--akzent)}
+input.betrag-eingabe{font-size:26px;font-weight:680;text-align:center;letter-spacing:-.02em}
+.knopf{display:inline-flex;align-items:center;justify-content:center;gap:8px;
+       padding:12px 18px;border-radius:12px;border:1px solid var(--rand);background:var(--flaeche);
+       font-weight:650;cursor:pointer;text-decoration:none}
+.knopf.voll{width:100%}
+.knopf.primaer{background:var(--akzent);border-color:var(--akzent);color:#fff}
+.knopf.gefahr{color:var(--schlecht);border-color:var(--rand)}
+.knopf:disabled{opacity:.5;cursor:not-allowed}
+.knopfreihe{display:flex;gap:10px}
+.knopfreihe > *{flex:1}
+
+.fab{position:fixed;right:max(16px,calc(50% - 380px + 16px));bottom:calc(20px + env(safe-area-inset-bottom));
+     width:60px;height:60px;border-radius:50%;border:0;background:var(--akzent);color:#fff;
+     font-size:30px;line-height:1;box-shadow:0 6px 20px rgba(0,0,0,.28);cursor:pointer;z-index:30}
+
+dialog{border:0;padding:0;background:transparent;max-width:100%;width:100%;max-height:100%}
+dialog::backdrop{background:rgba(0,0,0,.55)}
+.blatt{background:var(--bg);border-radius:18px 18px 0 0;max-width:760px;margin:0 auto;
+       width:100%;max-height:92vh;overflow-y:auto;-webkit-overflow-scrolling:touch}
+dialog{position:fixed;inset:auto 0 0 0;margin:0}
+.blatt-kopf{position:sticky;top:0;background:var(--bg);display:flex;align-items:center;
+            gap:12px;padding:14px 16px;border-bottom:1px solid var(--rand);z-index:2}
+.blatt-kopf h2{font-size:17px;flex:1}
+.blatt-inhalt{padding:16px}
+.x{background:none;border:0;font-size:22px;line-height:1;color:var(--text-leise);cursor:pointer;padding:4px 8px}
+
+.fotos{display:flex;gap:10px;flex-wrap:wrap}
+.foto-vorschau{position:relative;width:84px;height:84px;border-radius:11px;overflow:hidden;border:1px solid var(--rand)}
+.foto-vorschau img{width:100%;height:100%;object-fit:cover;display:block;cursor:zoom-in}
+.foto-vorschau .weg{position:absolute;top:3px;right:3px;width:22px;height:22px;border-radius:50%;
+                    border:0;background:rgba(0,0,0,.65);color:#fff;font-size:13px;line-height:22px;padding:0;cursor:pointer}
+.foto-knopf{width:84px;height:84px;border-radius:11px;border:1.5px dashed var(--rand);background:var(--flaeche);
+            display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;
+            font-size:11px;color:var(--text-leise);cursor:pointer}
+.foto-knopf .icon{font-size:21px}
+
+#lupe{background:rgba(0,0,0,.94);inset:0;width:100%;height:100%;max-height:100%;display:none;place-items:center}
+#lupe[open]{display:grid}
+#lupe img{max-width:100%;max-height:100vh;object-fit:contain}
+#lupe .zu{position:fixed;top:calc(10px + env(safe-area-inset-top));right:14px;background:rgba(255,255,255,.15);
+          color:#fff;border:0;border-radius:50%;width:40px;height:40px;font-size:20px;cursor:pointer}
+
+#toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(90px + env(safe-area-inset-bottom));
+       background:#000;color:#fff;padding:10px 16px;border-radius:999px;font-size:14px;z-index:60;
+       opacity:0;pointer-events:none;transition:opacity .2s;max-width:88vw;text-align:center}
+#toast.an{opacity:.92}
+
+.warnung{background:var(--schlecht-bg);color:var(--schlecht);border:1px solid var(--schlecht);
+         border-radius:var(--radius);padding:12px 14px;font-size:13.5px;margin-bottom:16px}
+.fusszeile{text-align:center;font-size:12px;color:var(--text-leise);padding:26px 16px 10px}
+
+@media print{
+  .tabs,.fab,.topbar,.filterzeile,.hinweis,#toast,.nicht-drucken{display:none !important}
+  body{background:#fff;padding:0}
+  .karte{box-shadow:none;break-inside:avoid}
+  section[hidden]{display:none}
+}
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap kopfzeile">
+    <div>
+      <h1>Abrechnung – Julius, Marian, Chiara</h1>
+      <p id="zeitraumLabel">&nbsp;</p>
+    </div>
+    <div class="gesamt" id="kopfGesamt">0,00 €</div>
+  </div>
+</header>
+
+<nav class="tabs">
+  <div class="wrap" role="tablist">
+    <button class="tab" role="tab" data-view="rechnungen" aria-selected="true">Rechnungen</button>
+    <button class="tab" role="tab" data-view="abrechnung" aria-selected="false">Abrechnung</button>
+    <button class="tab" role="tab" data-view="einstellungen" aria-selected="false">Einstellungen</button>
+  </div>
+</nav>
+
+<main class="wrap">
+  <div id="speicherWarnung" class="warnung" hidden></div>
+
+  <!-- ============ RECHNUNGEN ============ -->
+  <section id="view-rechnungen">
+    <div class="kacheln">
+      <div class="kachel"><div class="wert" id="kGesamt">–</div><div class="label">Gesamt</div></div>
+      <div class="kachel"><div class="wert" id="kAnzahl">–</div><div class="label">Rechnungen</div></div>
+      <div class="kachel"><div class="wert" id="kProKopf">–</div><div class="label">Ø pro Kopf</div></div>
+    </div>
+    <div class="filterzeile" id="filterPersonen"></div>
+    <div id="tageListe"></div>
+  </section>
+
+  <!-- ============ ABRECHNUNG ============ -->
+  <section id="view-abrechnung" hidden>
+    <div class="hinweis nicht-drucken">
+      <b>So wird gerechnet:</b> Jede Rechnung wird gleichmäßig auf die Leute aufgeteilt,
+      für die sie war. <b>Saldo</b> = selbst bezahlt minus eigener Anteil.
+      Grün heißt: bekommt Geld zurück. Rot heißt: muss noch zahlen.
+    </div>
+
+    <div class="karte">
+      <div class="karte-kopf" style="padding-bottom:10px">Wer wie viel bekommt / zahlt</div>
+      <table class="saldo">
+        <thead>
+          <tr><th>Person</th><th>Bezahlt</th><th>Eigener Anteil</th><th>Saldo</th></tr>
+        </thead>
+        <tbody id="saldoTabelle"></tbody>
+      </table>
+    </div>
+
+    <div class="karte">
+      <div class="karte-kopf" style="padding-bottom:10px">Ausgleich – so wenig Überweisungen wie möglich</div>
+      <div id="transfers"></div>
+    </div>
+
+    <div class="karte">
+      <div class="karte-kopf" style="padding-bottom:10px">Ausgaben nach Person</div>
+      <div id="proPerson"></div>
+    </div>
+
+    <div class="knopfreihe nicht-drucken" style="margin-top:16px">
+      <button class="knopf" id="btnDrucken">Drucken / PDF</button>
+      <button class="knopf" id="btnTextKopieren">Als Text kopieren</button>
+    </div>
+  </section>
+
+  <!-- ============ EINSTELLUNGEN ============ -->
+  <section id="view-einstellungen" hidden>
+    <div class="karte" style="padding:16px">
+      <div class="feld">
+        <label for="feldStart">Erster Tag des Zeitraums</label>
+        <input type="date" id="feldStart">
+      </div>
+      <div class="feld" style="margin-bottom:0">
+        <label for="feldTage">Länge in Tagen</label>
+        <input type="number" id="feldTage" min="1" max="90" step="1">
+      </div>
+    </div>
+
+    <div class="karte">
+      <div class="karte-kopf" style="padding-bottom:10px">Wer ist dabei</div>
+      <div id="personenListe"></div>
+      <div style="padding:12px 16px;border-top:1px solid var(--rand);display:flex;gap:10px">
+        <input type="text" id="feldNeuePerson" placeholder="Name hinzufügen">
+        <button class="knopf" id="btnPersonAdd" style="flex:0 0 auto">Hinzufügen</button>
+      </div>
+    </div>
+
+    <div class="karte">
+      <div class="karte-kopf" style="padding-bottom:10px">Daten teilen &amp; sichern</div>
+      <div style="padding:12px 16px 16px">
+        <p style="margin:0 0 14px;font-size:13.5px;color:var(--text-leise)">
+          Die Daten liegen nur in diesem Browser auf diesem Gerät. Zum Zusammenführen:
+          jeder exportiert seine Datei, einer importiert alle – doppelte Einträge werden dabei erkannt.
+        </p>
+        <div class="knopfreihe" style="margin-bottom:10px">
+          <button class="knopf" id="btnExportFoto">Export mit Fotos</button>
+          <button class="knopf" id="btnExportOhne">Export ohne Fotos</button>
+        </div>
+        <div class="knopfreihe">
+          <button class="knopf" id="btnImport">Datei importieren</button>
+          <button class="knopf" id="btnCsv">CSV (Excel)</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="karte">
+      <div class="karte-kopf" style="padding-bottom:10px">Gefahrenzone</div>
+      <div style="padding:12px 16px 16px">
+        <button class="knopf gefahr voll" id="btnReset">Alle Rechnungen löschen</button>
+      </div>
+    </div>
+
+    <p class="fusszeile" id="speicherInfo"></p>
+  </section>
+</main>
+
+<button class="fab" id="btnNeu" aria-label="Neue Rechnung">+</button>
+
+<!-- ============ DIALOG: EINTRAG ============ -->
+<dialog id="dlgEintrag">
+  <div class="blatt">
+    <div class="blatt-kopf">
+      <h2 id="dlgTitel">Neue Rechnung</h2>
+      <button class="x" id="dlgZu" aria-label="Schließen">✕</button>
+    </div>
+    <form class="blatt-inhalt" id="formEintrag" method="dialog">
+      <div class="feld">
+        <label>Rechnung fotografieren</label>
+        <div class="fotos" id="fotoBereich"></div>
+        <input type="file" id="dateiKamera" accept="image/*" capture="environment" multiple hidden>
+        <input type="file" id="dateiGalerie" accept="image/*" multiple hidden>
+      </div>
+
+      <div class="feld">
+        <label for="feldBetrag">Betrag</label>
+        <input type="text" id="feldBetrag" class="betrag-eingabe" inputmode="decimal"
+               placeholder="0,00" autocomplete="off">
+        <p style="margin:6px 0 0;font-size:12px;color:var(--text-leise);text-align:center">
+          Mehrere Posten gehen auch: <code>12,90+4,50</code>
+        </p>
+      </div>
+
+      <div class="feld">
+        <label for="feldZweck">Wofür</label>
+        <input type="text" id="feldZweck" placeholder="z. B. Einkauf Rewe" autocomplete="off">
+        <div class="chips" style="margin-top:8px" id="zweckVorschlaege"></div>
+      </div>
+
+      <div class="feld">
+        <label for="feldDatum">Datum</label>
+        <input type="date" id="feldDatum">
+      </div>
+
+      <div class="feld">
+        <label>Bezahlt von</label>
+        <div class="chips" id="zahlerChips"></div>
+      </div>
+
+      <div class="feld">
+        <label>Für wen war die Ausgabe</label>
+        <div class="chips" id="fuerChips"></div>
+        <div style="margin-top:8px"><button type="button" class="chip klein" id="btnAlleFuer">Alle auswählen</button></div>
+        <p style="margin:8px 0 0;font-size:12.5px;color:var(--text-leise)" id="splitInfo"></p>
+      </div>
+
+      <div class="knopfreihe">
+        <button type="button" class="knopf gefahr" id="btnLoeschen" hidden>Löschen</button>
+        <button type="button" class="knopf primaer" id="btnSpeichern">Speichern</button>
+      </div>
+      <div style="height:20px"></div>
+    </form>
+  </div>
+</dialog>
+
+<dialog id="lupe">
+  <button class="zu" id="lupeZu" aria-label="Schließen">✕</button>
+  <img id="lupeBild" alt="Rechnung">
+</dialog>
+
+<input type="file" id="importDatei" accept="application/json,.json" hidden>
+<div id="toast" role="status" aria-live="polite"></div>
+
+<script>
+"use strict";
+/* =======================================================================
+   Konfiguration (wird beim Bauen aus src/vorlage.html eingesetzt)
+   ======================================================================= */
+const CONFIG = {
+  id: "jmc",
+  titel: "Abrechnung – Julius, Marian, Chiara",
+  personen: ["Julius","Marian","Chiara"]
+};
+const ZWECK_VORSCHLAEGE = ["Einkauf","Restaurant","Getränke","Sprit","Tickets","Unterkunft","Sonstiges"];
+
+/* =======================================================================
+   Speicher: IndexedDB, sonst localStorage, sonst nur Arbeitsspeicher
+   ======================================================================= */
+const DB_NAME = "abrechnung_" + CONFIG.id;
+const LS_KEY  = "abrechnung_" + CONFIG.id;
+let db = null;
+let modus = "speicher";           // "idb" | "ls" | "speicher"
+let fotoCache = new Map();        // fotoId -> objectURL
+let fotoNotfall = new Map();      // fotoId -> dataURL  (Fallback ohne IndexedDB)
+
+function idbOeffnen(){
+  return new Promise((ok, fehler) => {
+    if(!("indexedDB" in window)) return fehler(new Error("kein IndexedDB"));
+    let a;
+    try { a = indexedDB.open(DB_NAME, 1); } catch(e){ return fehler(e); }
+    a.onupgradeneeded = e => {
+      const d = e.target.result;
+      if(!d.objectStoreNames.contains("kv")) d.createObjectStore("kv");
+      if(!d.objectStoreNames.contains("fotos")) d.createObjectStore("fotos");
+    };
+    a.onsuccess = () => ok(a.result);
+    a.onerror   = () => fehler(a.error || new Error("IndexedDB blockiert"));
+    a.onblocked = () => fehler(new Error("IndexedDB blockiert"));
+    setTimeout(() => fehler(new Error("IndexedDB Zeitüberschreitung")), 3000);
+  });
+}
+function idb(store, art, arbeit){
+  return new Promise((ok, fehler) => {
+    const t = db.transaction(store, art);
+    const anfrage = arbeit(t.objectStore(store));
+    t.onerror = () => fehler(t.error);
+    t.oncomplete = () => ok(anfrage ? anfrage.result : undefined);
+  });
+}
+
+const speicher = {
+  async start(){
+    try {
+      db = await idbOeffnen();
+      modus = "idb";
+    } catch(e){
+      try {
+        localStorage.setItem(LS_KEY + "_test", "1");
+        localStorage.removeItem(LS_KEY + "_test");
+        modus = "ls";
+      } catch(e2){ modus = "speicher"; }
+    }
+  },
+  async standLesen(){
+    if(modus === "idb"){
+      const roh = await idb("kv","readonly", s => s.get("state"));
+      return roh ? JSON.parse(roh) : null;
+    }
+    if(modus === "ls"){
+      const roh = localStorage.getItem(LS_KEY);
+      if(roh){
+        const s = JSON.parse(roh);
+        (s.fotosInline || []).forEach(f => fotoNotfall.set(f.id, f.data));
+        delete s.fotosInline;
+        return s;
+      }
+      return null;
+    }
+    return null;
+  },
+  async standSchreiben(s){
+    if(modus === "idb") return idb("kv","readwrite", st => st.put(JSON.stringify(s), "state"));
+    if(modus === "ls"){
+      const kopie = JSON.parse(JSON.stringify(s));
+      kopie.fotosInline = [...fotoNotfall].map(([id,data]) => ({id,data}));
+      try { localStorage.setItem(LS_KEY, JSON.stringify(kopie)); }
+      catch(e){ toast("Speicher voll – bitte alte Fotos löschen oder exportieren"); }
+    }
+  },
+  async fotoSchreiben(id, blob){
+    if(modus === "idb") return idb("fotos","readwrite", s => s.put(blob, id));
+    fotoNotfall.set(id, await blobZuDataUrl(blob));
+  },
+  async fotoLesen(id){
+    if(modus === "idb") return idb("fotos","readonly", s => s.get(id));
+    const d = fotoNotfall.get(id);
+    return d ? await dataUrlZuBlob(d) : null;
+  },
+  async fotoLoeschen(id){
+    const url = fotoCache.get(id);
+    if(url){ URL.revokeObjectURL(url); fotoCache.delete(id); }
+    if(modus === "idb") return idb("fotos","readwrite", s => s.delete(id));
+    fotoNotfall.delete(id);
+  },
+  async alleFotoIds(){
+    if(modus === "idb") return idb("fotos","readonly", s => s.getAllKeys());
+    return [...fotoNotfall.keys()];
+  }
+};
+
+async function fotoUrl(id){
+  if(fotoCache.has(id)) return fotoCache.get(id);
+  const blob = await speicher.fotoLesen(id);
+  if(!blob) return null;
+  const url = URL.createObjectURL(blob);
+  fotoCache.set(id, url);
+  return url;
+}
+function blobZuDataUrl(blob){
+  return new Promise(ok => { const r = new FileReader(); r.onload = () => ok(r.result); r.readAsDataURL(blob); });
+}
+async function dataUrlZuBlob(d){ return await (await fetch(d)).blob(); }
+
+/* =======================================================================
+   Zustand
+   ======================================================================= */
+let stand = null;
+let filterPerson = null;          // null = alle
+let entwurf = null;               // Eintrag im Dialog
+
+function heuteIso(){
+  const d = new Date();
+  return new Date(d.getTime() - d.getTimezoneOffset()*60000).toISOString().slice(0,10);
+}
+function neueId(){
+  return Date.now().toString(36) + "-" + Math.random().toString(36).slice(2,9);
+}
+function standardStand(){
+  return {
+    version: 1,
+    id: CONFIG.id,
+    startDatum: heuteIso(),
+    tage: 14,
+    personen: CONFIG.personen.slice(),
+    eintraege: []
+  };
+}
+
+/* =======================================================================
+   Rechnen – alles in Cent, damit nichts verloren geht
+   ======================================================================= */
+function textZuCent(text){
+  if(!text) return 0;
+  const teile = String(text).replace(/\s|€/g, "").match(/[+-]?[0-9]*[.,]?[0-9]+/g);
+  if(!teile) return 0;
+  let summe = 0;
+  for(const t of teile){
+    const zahl = parseFloat(t.replace(",", "."));
+    if(!isNaN(zahl)) summe += Math.round(zahl * 100);
+  }
+  return summe;
+}
+const eur = new Intl.NumberFormat("de-DE", { style:"currency", currency:"EUR" });
+function geld(cent){ return eur.format((cent || 0) / 100); }
+
+// Cent-genaue Aufteilung: der Rest wandert der Reihe nach an die ersten Personen
+function anteileVon(cent, personen){
+  const ergebnis = {};
+  const n = personen.length;
+  if(n === 0) return ergebnis;
+  const basis = Math.trunc(cent / n);
+  let rest = cent - basis * n;
+  const vor = rest >= 0 ? 1 : -1;
+  rest = Math.abs(rest);
+  personen.forEach((p, i) => { ergebnis[p] = basis + (i < rest ? vor : 0); });
+  return ergebnis;
+}
+
+function auswertung(){
+  const personen = stand.personen;
+  const bezahlt = {}, anteil = {};
+  personen.forEach(p => { bezahlt[p] = 0; anteil[p] = 0; });
+
+  let gesamt = 0;
+  for(const e of stand.eintraege){
+    gesamt += e.betrag;
+    if(bezahlt[e.bezahltVon] !== undefined) bezahlt[e.bezahltVon] += e.betrag;
+    // Reihenfolge aus der Personenliste -> stabile Restverteilung
+    const empfaenger = personen.filter(p => e.fuer.includes(p));
+    const teile = anteileVon(e.betrag, empfaenger.length ? empfaenger : [e.bezahltVon]);
+    for(const p in teile) if(anteil[p] !== undefined) anteil[p] += teile[p];
+  }
+
+  const salden = personen.map(p => ({ person:p, bezahlt:bezahlt[p], anteil:anteil[p], saldo:bezahlt[p] - anteil[p] }));
+  return { gesamt, salden, transfers: ausgleich(salden) };
+}
+
+// Möglichst wenige Überweisungen: größter Schuldner zahlt an größten Gläubiger
+function ausgleich(salden){
+  const schuldner = salden.filter(s => s.saldo < -0).map(s => ({ person:s.person, offen:-s.saldo }))
+                          .sort((a,b) => b.offen - a.offen);
+  const glaeubiger = salden.filter(s => s.saldo > 0).map(s => ({ person:s.person, offen:s.saldo }))
+                           .sort((a,b) => b.offen - a.offen);
+  const transfers = [];
+  let i = 0, j = 0, schutz = 0;
+  while(i < schuldner.length && j < glaeubiger.length && schutz++ < 1000){
+    const betrag = Math.min(schuldner[i].offen, glaeubiger[j].offen);
+    if(betrag > 0) transfers.push({ von: schuldner[i].person, an: glaeubiger[j].person, betrag });
+    schuldner[i].offen -= betrag;
+    glaeubiger[j].offen -= betrag;
+    if(schuldner[i].offen <= 0) i++;
+    if(glaeubiger[j].offen <= 0) j++;
+  }
+  return transfers;
+}
+
+/* =======================================================================
+   Datums-Helfer
+   ======================================================================= */
+const WOCHENTAG = ["So","Mo","Di","Mi","Do","Fr","Sa"];
+function isoPlus(iso, tage){
+  const d = new Date(iso + "T12:00:00");
+  d.setDate(d.getDate() + tage);
+  return d.toISOString().slice(0,10);
+}
+function datumLang(iso){
+  const d = new Date(iso + "T12:00:00");
+  return WOCHENTAG[d.getDay()] + ", " + d.getDate() + ". " +
+         ["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"][d.getMonth()];
+}
+function datumKurz(iso){
+  const d = new Date(iso + "T12:00:00");
+  return String(d.getDate()).padStart(2,"0") + "." + String(d.getMonth()+1).padStart(2,"0") + "." + d.getFullYear();
+}
+function zeitraumTage(){
+  const liste = [];
+  for(let i = 0; i < stand.tage; i++) liste.push(isoPlus(stand.startDatum, i));
+  return liste;
+}
+
+/* =======================================================================
+   Anzeige
+   ======================================================================= */
+const $ = s => document.querySelector(s);
+const $$ = s => [...document.querySelectorAll(s)];
+
+function toast(text){
+  const t = $("#toast");
+  t.textContent = text;
+  t.classList.add("an");
+  clearTimeout(t._timer);
+  t._timer = setTimeout(() => t.classList.remove("an"), 2400);
+}
+
+function zeichneAlles(){
+  zeichneKopf();
+  zeichneFilter();
+  zeichneListe();
+  zeichneAbrechnung();
+  zeichneEinstellungen();
+}
+
+function zeichneKopf(){
+  const { gesamt } = auswertung();
+  const letzter = isoPlus(stand.startDatum, stand.tage - 1);
+  $("#zeitraumLabel").textContent = datumKurz(stand.startDatum) + " – " + datumKurz(letzter);
+  $("#kopfGesamt").textContent = geld(gesamt);
+  $("#kGesamt").textContent = geld(gesamt);
+  $("#kAnzahl").textContent = stand.eintraege.length;
+  $("#kProKopf").textContent = stand.personen.length ? geld(Math.round(gesamt / stand.personen.length)) : "–";
+}
+
+function zeichneFilter(){
+  const box = $("#filterPersonen");
+  box.innerHTML = "";
+  const alle = document.createElement("button");
+  alle.className = "chip";
+  alle.textContent = "Alle";
+  alle.setAttribute("aria-pressed", filterPerson === null);
+  alle.onclick = () => { filterPerson = null; zeichneFilter(); zeichneListe(); };
+  box.appendChild(alle);
+  for(const p of stand.personen){
+    const c = document.createElement("button");
+    c.className = "chip";
+    c.textContent = p;
+    c.setAttribute("aria-pressed", filterPerson === p);
+    c.onclick = () => { filterPerson = (filterPerson === p ? null : p); zeichneFilter(); zeichneListe(); };
+    box.appendChild(c);
+  }
+}
+
+function zeichneListe(){
+  const ziel = $("#tageListe");
+  ziel.innerHTML = "";
+
+  const sichtbar = stand.eintraege.filter(e => !filterPerson || e.bezahltVon === filterPerson);
+  if(stand.eintraege.length === 0){
+    ziel.insertAdjacentHTML("beforeend",
+      '<div class="leer" style="padding:10px 20px 22px"><div class="gross">🧾</div>' +
+      '<p style="margin:0">Noch keine Rechnung erfasst.<br>' +
+      'Unten rechts auf <b>+</b> tippen, Beleg abfotografieren, fertig.</p></div>');
+  }
+
+  const imZeitraum = zeitraumTage();
+  const extra = [...new Set(sichtbar.map(e => e.datum))].filter(d => !imZeitraum.includes(d)).sort();
+  const heute = heuteIso();
+
+  imZeitraum.forEach((tag, i) => {
+    if(i % 7 === 0){
+      const tr = document.createElement("div");
+      tr.className = "wochen-trenner";
+      tr.textContent = "Woche " + (Math.floor(i/7) + 1);
+      ziel.appendChild(tr);
+    }
+    ziel.appendChild(tagBlock(tag, sichtbar.filter(e => e.datum === tag), tag === heute));
+  });
+
+  if(extra.length){
+    const tr = document.createElement("div");
+    tr.className = "wochen-trenner";
+    tr.textContent = "Außerhalb des Zeitraums";
+    ziel.appendChild(tr);
+    extra.forEach(tag => ziel.appendChild(tagBlock(tag, sichtbar.filter(e => e.datum === tag), false)));
+  }
+}
+
+function tagBlock(tag, eintraege, istHeute){
+  const box = document.createElement("div");
+  box.className = "tag" + (istHeute ? " heute" : "");
+  const summe = eintraege.reduce((s,e) => s + e.betrag, 0);
+
+  if(!eintraege.length){
+    box.className += " leerer-tag";
+    const leer = document.createElement("button");
+    leer.className = "leer-zeile";
+    leer.innerHTML = '<span>' + datumLang(tag) + (istHeute ? " · heute" : "") + '</span><span class="plus">＋</span>';
+    leer.title = "Rechnung für diesen Tag hinzufügen";
+    leer.onclick = () => dialogOeffnen(null, tag);
+    box.appendChild(leer);
+    return box;
+  }
+
+  const kopf = document.createElement("div");
+  kopf.className = "tag-kopf";
+  kopf.innerHTML = '<span>' + datumLang(tag) + (istHeute ? " · heute" : "") + '</span>' +
+                   '<span class="summe">' + geld(summe) + '</span>';
+  box.appendChild(kopf);
+
+  for(const e of eintraege.slice().sort((a,b) => (a.erstellt||0) - (b.erstellt||0))){
+    const k = document.createElement("button");
+    k.className = "eintrag";
+    k.onclick = () => dialogOeffnen(e.id);
+    const fuerText = e.fuer.length === stand.personen.length ? "alle" : e.fuer.join(", ");
+    k.innerHTML =
+      '<div class="bild" data-foto="' + (e.fotos[0] || "") + '">' + (e.fotos.length ? "" : "🧾") + '</div>' +
+      '<div class="mitte">' +
+        '<div class="zweck">' + esc(e.zweck || "Ohne Beschreibung") + '</div>' +
+        '<div class="meta">' + esc(e.bezahltVon) + ' · für ' + esc(fuerText) + '</div>' +
+      '</div>' +
+      '<div class="betrag">' + geld(e.betrag) + '</div>';
+    box.appendChild(k);
+    if(e.fotos[0]){
+      fotoUrl(e.fotos[0]).then(url => {
+        if(!url) return;
+        const feld = k.querySelector(".bild");
+        if(feld) feld.innerHTML = '<img src="' + url + '" alt="">';
+      });
+    }
+  }
+  return box;
+}
+
+function esc(s){
+  return String(s == null ? "" : s).replace(/[&<>"']/g, c =>
+    ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c]));
+}
+
+function zeichneAbrechnung(){
+  const { gesamt, salden, transfers } = auswertung();
+
+  const tb = $("#saldoTabelle");
+  tb.innerHTML = "";
+  for(const s of salden){
+    const klasse = s.saldo > 0 ? "betrag-gut" : (s.saldo < 0 ? "betrag-schlecht" : "betrag-null");
+    const text = s.saldo > 0 ? "+" + geld(s.saldo) : geld(s.saldo);
+    tb.insertAdjacentHTML("beforeend",
+      "<tr><td>" + esc(s.person) + "</td><td>" + geld(s.bezahlt) + "</td><td>" + geld(s.anteil) +
+      '</td><td class="' + klasse + '">' + text + "</td></tr>");
+  }
+  tb.insertAdjacentHTML("beforeend",
+    '<tr><td style="color:var(--text-leise)">Gesamt</td><td>' + geld(gesamt) + "</td><td>" + geld(gesamt) +
+    '</td><td class="betrag-null">' + geld(0) + "</td></tr>");
+
+  const tz = $("#transfers");
+  tz.innerHTML = "";
+  if(!transfers.length){
+    tz.innerHTML = '<div class="fertig">✓ Alles ausgeglichen – niemand schuldet jemandem etwas.</div>';
+  } else {
+    for(const t of transfers){
+      tz.insertAdjacentHTML("beforeend",
+        '<div class="transfer"><span class="von">' + esc(t.von) + '</span>' +
+        '<span class="pfeil">zahlt an</span><span class="an">' + esc(t.an) + '</span>' +
+        '<span class="wieviel">' + geld(t.betrag) + "</span></div>");
+    }
+  }
+
+  const pp = $("#proPerson");
+  pp.innerHTML = "";
+  for(const s of salden){
+    const anzahl = stand.eintraege.filter(e => e.bezahltVon === s.person).length;
+    const anteilProzent = gesamt ? Math.round(s.bezahlt / gesamt * 100) : 0;
+    pp.insertAdjacentHTML("beforeend",
+      '<div class="zeile"><span>' + esc(s.person) + '</span>' +
+      '<span style="color:var(--text-leise);font-size:13px">' + anzahl + (anzahl === 1 ? " Rechnung" : " Rechnungen") + '</span>' +
+      '<span class="rechts">' + geld(s.bezahlt) + " · " + anteilProzent + "% aller Ausgaben</span></div>");
+  }
+}
+
+function zeichneEinstellungen(){
+  $("#feldStart").value = stand.startDatum;
+  $("#feldTage").value  = stand.tage;
+
+  const box = $("#personenListe");
+  box.innerHTML = "";
+  for(const p of stand.personen){
+    const benutzt = stand.eintraege.filter(e => e.bezahltVon === p || e.fuer.includes(p)).length;
+    const zeile = document.createElement("div");
+    zeile.className = "zeile";
+    zeile.innerHTML = '<span>' + esc(p) + '</span>' +
+      '<span class="rechts">' + benutzt + (benutzt === 1 ? " Eintrag" : " Einträge") + "</span>";
+    const weg = document.createElement("button");
+    weg.className = "knopf";
+    weg.style.cssText = "padding:6px 12px;font-size:13px";
+    weg.textContent = "Entfernen";
+    weg.onclick = () => {
+      if(benutzt > 0) return toast(p + " kommt noch in " + benutzt + " Einträgen vor");
+      if(stand.personen.length <= 2) return toast("Mindestens zwei Personen");
+      stand.personen = stand.personen.filter(x => x !== p);
+      sichern();
+    };
+    zeile.appendChild(weg);
+    box.appendChild(zeile);
+  }
+
+  const namen = { idb:"IndexedDB", ls:"localStorage", speicher:"nur Arbeitsspeicher" };
+  $("#speicherInfo").textContent = "Speicher: " + namen[modus] + " · " + stand.eintraege.length + " Einträge";
+}
+
+/* =======================================================================
+   Dialog für einen Eintrag
+   ======================================================================= */
+function dialogOeffnen(id, vorgabeDatum){
+  const vorhanden = id ? stand.eintraege.find(e => e.id === id) : null;
+  entwurf = vorhanden
+    ? JSON.parse(JSON.stringify(vorhanden))
+    : {
+        id: neueId(),
+        datum: vorgabeDatum || standardDatum(),
+        betrag: 0,
+        zweck: "",
+        bezahltVon: stand.personen[0],
+        fuer: stand.personen.slice(),
+        fotos: [],
+        erstellt: Date.now(),
+        geaendert: Date.now()
+      };
+
+  $("#dlgTitel").textContent = vorhanden ? "Rechnung bearbeiten" : "Neue Rechnung";
+  $("#btnLoeschen").hidden = !vorhanden;
+  $("#feldBetrag").value = entwurf.betrag ? (entwurf.betrag/100).toFixed(2).replace(".", ",") : "";
+  $("#feldZweck").value  = entwurf.zweck;
+  $("#feldDatum").value  = entwurf.datum;
+
+  zeichneZweckVorschlaege();
+  zeichneZahler();
+  zeichneFuer();
+  zeichneFotos();
+
+  $("#dlgEintrag").showModal();
+  if(!vorhanden) setTimeout(() => $("#feldBetrag").focus(), 120);
+}
+function standardDatum(){
+  const h = heuteIso();
+  const tage = zeitraumTage();
+  return tage.includes(h) ? h : stand.startDatum;
+}
+
+function zeichneZweckVorschlaege(){
+  const box = $("#zweckVorschlaege");
+  box.innerHTML = "";
+  for(const v of ZWECK_VORSCHLAEGE){
+    const c = document.createElement("button");
+    c.type = "button";
+    c.className = "chip klein";
+    c.textContent = v;
+    c.onclick = () => { $("#feldZweck").value = v; entwurf.zweck = v; };
+    box.appendChild(c);
+  }
+}
+function zeichneZahler(){
+  const box = $("#zahlerChips");
+  box.innerHTML = "";
+  for(const p of stand.personen){
+    const c = document.createElement("button");
+    c.type = "button";
+    c.className = "chip";
+    c.textContent = p;
+    c.setAttribute("aria-pressed", entwurf.bezahltVon === p);
+    c.onclick = () => { entwurf.bezahltVon = p; zeichneZahler(); };
+    box.appendChild(c);
+  }
+}
+function zeichneFuer(){
+  const box = $("#fuerChips");
+  box.innerHTML = "";
+  for(const p of stand.personen){
+    const c = document.createElement("button");
+    c.type = "button";
+    c.className = "chip";
+    c.textContent = p;
+    c.setAttribute("aria-pressed", entwurf.fuer.includes(p));
+    c.onclick = () => {
+      entwurf.fuer = entwurf.fuer.includes(p) ? entwurf.fuer.filter(x => x !== p) : [...entwurf.fuer, p];
+      zeichneFuer();
+    };
+    box.appendChild(c);
+  }
+  const alle = entwurf.fuer.length === stand.personen.length;
+  $("#btnAlleFuer").textContent = alle ? "Auswahl aufheben" : "Alle auswählen";
+  const cent = textZuCent($("#feldBetrag").value);
+  $("#splitInfo").textContent = entwurf.fuer.length
+    ? "Aufgeteilt auf " + entwurf.fuer.length + " → je " + geld(Math.round(cent / entwurf.fuer.length))
+    : "Niemand ausgewählt – bitte mindestens eine Person wählen.";
+}
+
+async function zeichneFotos(){
+  const box = $("#fotoBereich");
+  box.innerHTML = "";
+  for(const fid of entwurf.fotos){
+    const url = await fotoUrl(fid);
+    const d = document.createElement("div");
+    d.className = "foto-vorschau";
+    d.innerHTML = '<img src="' + (url || "") + '" alt="Rechnung">' +
+                  '<button type="button" class="weg" aria-label="Foto entfernen">✕</button>';
+    d.querySelector("img").onclick = () => { $("#lupeBild").src = url; $("#lupe").showModal(); };
+    d.querySelector(".weg").onclick = () => {
+      entwurf.fotos = entwurf.fotos.filter(x => x !== fid);
+      speicher.fotoLoeschen(fid);
+      zeichneFotos();
+    };
+    box.appendChild(d);
+  }
+  const kamera = document.createElement("button");
+  kamera.type = "button";
+  kamera.className = "foto-knopf";
+  kamera.innerHTML = '<span class="icon">📷</span><span>Foto</span>';
+  kamera.onclick = () => $("#dateiKamera").click();
+  box.appendChild(kamera);
+
+  const galerie = document.createElement("button");
+  galerie.type = "button";
+  galerie.className = "foto-knopf";
+  galerie.innerHTML = '<span class="icon">🖼</span><span>Galerie</span>';
+  galerie.onclick = () => $("#dateiGalerie").click();
+  box.appendChild(galerie);
+}
+
+/* Bild verkleinern, damit der Speicher nicht überläuft */
+async function bildVerkleinern(datei, maxKante = 1600, qualitaet = 0.72){
+  let breite, hoehe, quelle;
+  try {
+    quelle = await createImageBitmap(datei, { imageOrientation: "from-image" });
+  } catch(e){
+    try { quelle = await createImageBitmap(datei); }
+    catch(e2){ quelle = await bildAusUrl(datei); }
+  }
+  breite = quelle.width; hoehe = quelle.height;
+  const faktor = Math.min(1, maxKante / Math.max(breite, hoehe));
+  const c = document.createElement("canvas");
+  c.width  = Math.max(1, Math.round(breite * faktor));
+  c.height = Math.max(1, Math.round(hoehe  * faktor));
+  c.getContext("2d").drawImage(quelle, 0, 0, c.width, c.height);
+  if(quelle.close) quelle.close();
+  const blob = await new Promise(ok => c.toBlob(ok, "image/jpeg", qualitaet));
+  return blob || datei;
+}
+function bildAusUrl(datei){
+  return new Promise((ok, fehler) => {
+    const url = URL.createObjectURL(datei);
+    const img = new Image();
+    img.onload = () => { URL.revokeObjectURL(url); ok(img); };
+    img.onerror = fehler;
+    img.src = url;
+  });
+}
+
+async function fotosAufnehmen(dateien){
+  for(const datei of dateien){
+    if(!datei.type.startsWith("image/")) continue;
+    try {
+      const klein = await bildVerkleinern(datei);
+      const fid = neueId();
+      await speicher.fotoSchreiben(fid, klein);
+      entwurf.fotos.push(fid);
+    } catch(e){
+      toast("Foto konnte nicht verarbeitet werden");
+    }
+  }
+  zeichneFotos();
+}
+
+/* =======================================================================
+   Speichern / Laden
+   ======================================================================= */
+async function sichern(){
+  await speicher.standSchreiben(stand);
+  zeichneAlles();
+}
+
+async function eintragSpeichern(){
+  const cent = textZuCent($("#feldBetrag").value);
+  if(cent === 0) return toast("Bitte einen Betrag eintragen");
+  if(!entwurf.fuer.length) return toast("Bitte auswählen, für wen die Ausgabe war");
+
+  entwurf.betrag = cent;
+  entwurf.zweck  = $("#feldZweck").value.trim();
+  entwurf.datum  = $("#feldDatum").value || heuteIso();
+  entwurf.geaendert = Date.now();
+
+  const i = stand.eintraege.findIndex(e => e.id === entwurf.id);
+  if(i >= 0) stand.eintraege[i] = entwurf;
+  else stand.eintraege.push(entwurf);
+
+  $("#dlgEintrag").close();
+  await sichern();
+  toast(i >= 0 ? "Gespeichert" : "Rechnung hinzugefügt");
+}
+
+async function eintragLoeschen(){
+  if(!confirm("Diese Rechnung wirklich löschen?")) return;
+  for(const fid of entwurf.fotos) await speicher.fotoLoeschen(fid);
+  stand.eintraege = stand.eintraege.filter(e => e.id !== entwurf.id);
+  $("#dlgEintrag").close();
+  await sichern();
+  toast("Gelöscht");
+}
+
+/* =======================================================================
+   Export / Import / CSV
+   ======================================================================= */
+function dateiSpeichern(inhalt, name, typ){
+  const blob = inhalt instanceof Blob ? inhalt : new Blob([inhalt], { type: typ });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url; a.download = name;
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 2000);
+}
+
+async function exportieren(mitFotos){
+  const paket = JSON.parse(JSON.stringify(stand));
+  paket.exportiertAm = new Date().toISOString();
+  paket.fotos = {};
+  if(mitFotos){
+    for(const e of stand.eintraege){
+      for(const fid of e.fotos){
+        const blob = await speicher.fotoLesen(fid);
+        if(blob) paket.fotos[fid] = await blobZuDataUrl(blob);
+      }
+    }
+  } else {
+    paket.eintraege.forEach(e => { e.fotos = []; });
+  }
+  const name = CONFIG.id + "-" + heuteIso() + (mitFotos ? "-mit-fotos" : "") + ".json";
+  dateiSpeichern(JSON.stringify(paket), name, "application/json");
+  toast("Export erstellt");
+}
+
+async function importieren(datei){
+  let paket;
+  try { paket = JSON.parse(await datei.text()); }
+  catch(e){ return toast("Datei nicht lesbar"); }
+  if(!paket || !Array.isArray(paket.eintraege)) return toast("Das ist keine Abrechnungs-Datei");
+
+  // Fotos zuerst, damit die Einträge sie schon finden
+  if(paket.fotos){
+    for(const fid in paket.fotos){
+      try { await speicher.fotoSchreiben(fid, await dataUrlZuBlob(paket.fotos[fid])); } catch(e){}
+    }
+  }
+  for(const p of (paket.personen || [])) if(!stand.personen.includes(p)) stand.personen.push(p);
+
+  let neu = 0, aktualisiert = 0;
+  for(const e of paket.eintraege){
+    if(!e || !e.id) continue;
+    const vorhanden = stand.eintraege.find(x => x.id === e.id);
+    if(!vorhanden){ stand.eintraege.push(e); neu++; }
+    else if((e.geaendert || 0) > (vorhanden.geaendert || 0)){
+      Object.assign(vorhanden, e); aktualisiert++;
+    }
+  }
+  await sichern();
+  toast(neu + " neu, " + aktualisiert + " aktualisiert");
+}
+
+function csvExport(){
+  const kopf = ["Datum","Zweck","Betrag","Bezahlt von", ...stand.personen.map(p => "Anteil " + p)];
+  const zeilen = [kopf];
+  const sortiert = stand.eintraege.slice().sort((a,b) => a.datum.localeCompare(b.datum));
+  for(const e of sortiert){
+    const empfaenger = stand.personen.filter(p => e.fuer.includes(p));
+    const teile = anteileVon(e.betrag, empfaenger);
+    zeilen.push([
+      datumKurz(e.datum), e.zweck || "", (e.betrag/100).toFixed(2).replace(".", ","), e.bezahltVon,
+      ...stand.personen.map(p => ((teile[p] || 0)/100).toFixed(2).replace(".", ","))
+    ]);
+  }
+  const { salden } = auswertung();
+  zeilen.push([]);
+  zeilen.push(["Saldo (+ bekommt / - zahlt)"]);
+  for(const s of salden) zeilen.push([s.person, "", (s.saldo/100).toFixed(2).replace(".", ",")]);
+
+  const csv = "﻿" + zeilen.map(z => z.map(f => '"' + String(f).replace(/"/g, '""') + '"').join(";")).join("\r\n");
+  dateiSpeichern(csv, CONFIG.id + "-" + heuteIso() + ".csv", "text/csv;charset=utf-8");
+}
+
+function abrechnungAlsText(){
+  const { gesamt, salden, transfers } = auswertung();
+  const z = [];
+  z.push(CONFIG.titel);
+  z.push(datumKurz(stand.startDatum) + " – " + datumKurz(isoPlus(stand.startDatum, stand.tage - 1)));
+  z.push("Gesamtausgaben: " + geld(gesamt));
+  z.push("");
+  z.push("Bezahlt / Anteil / Saldo");
+  for(const s of salden){
+    z.push("• " + s.person + ": " + geld(s.bezahlt) + " bezahlt, Anteil " + geld(s.anteil) +
+           " → " + (s.saldo > 0 ? "bekommt " + geld(s.saldo) : s.saldo < 0 ? "zahlt " + geld(-s.saldo) : "ausgeglichen"));
+  }
+  z.push("");
+  z.push("Ausgleich:");
+  if(!transfers.length) z.push("• Alles ausgeglichen.");
+  for(const t of transfers) z.push("• " + t.von + " → " + t.an + ": " + geld(t.betrag));
+  return z.join("\n");
+}
+
+/* =======================================================================
+   Start & Ereignisse
+   ======================================================================= */
+function reiterWechseln(name){
+  $$(".tab").forEach(t => t.setAttribute("aria-selected", t.dataset.view === name));
+  ["rechnungen","abrechnung","einstellungen"].forEach(v => { $("#view-" + v).hidden = (v !== name); });
+  $("#btnNeu").style.display = name === "rechnungen" ? "" : "none";
+  window.scrollTo(0, 0);
+}
+
+async function los(){
+  await speicher.start();
+  if(modus === "speicher"){
+    const w = $("#speicherWarnung");
+    w.hidden = false;
+    w.innerHTML = "<b>Achtung:</b> Dieser Browser speichert hier nichts dauerhaft " +
+                  "(z. B. privater Modus). Bitte am Ende exportieren, sonst sind die Daten weg.";
+  }
+  stand = (await speicher.standLesen()) || standardStand();
+  // fehlende Felder aus älteren Ständen ergänzen
+  stand.personen = stand.personen && stand.personen.length ? stand.personen : CONFIG.personen.slice();
+  stand.eintraege = (stand.eintraege || []).map(e => ({
+    fotos: [], fuer: stand.personen.slice(), erstellt: 0, geaendert: 0, zweck: "", ...e
+  }));
+  zeichneAlles();
+
+  $$(".tab").forEach(t => t.onclick = () => reiterWechseln(t.dataset.view));
+  $("#btnNeu").onclick = () => dialogOeffnen(null);
+  $("#dlgZu").onclick  = () => $("#dlgEintrag").close();
+  $("#btnSpeichern").onclick = eintragSpeichern;
+  $("#btnLoeschen").onclick  = eintragLoeschen;
+  $("#btnAlleFuer").onclick = () => {
+    entwurf.fuer = entwurf.fuer.length === stand.personen.length ? [] : stand.personen.slice();
+    zeichneFuer();
+  };
+  $("#feldBetrag").addEventListener("input", zeichneFuer);
+  $("#dateiKamera").onchange  = e => { fotosAufnehmen([...e.target.files]); e.target.value = ""; };
+  $("#dateiGalerie").onchange = e => { fotosAufnehmen([...e.target.files]); e.target.value = ""; };
+  $("#lupeZu").onclick = () => $("#lupe").close();
+  $("#lupe").onclick = e => { if(e.target.id === "lupe") $("#lupe").close(); };
+
+  $("#feldStart").onchange = e => { stand.startDatum = e.target.value || heuteIso(); sichern(); };
+  $("#feldTage").onchange  = e => {
+    stand.tage = Math.min(90, Math.max(1, parseInt(e.target.value, 10) || 14));
+    e.target.value = stand.tage; sichern();
+  };
+  $("#btnPersonAdd").onclick = () => {
+    const name = $("#feldNeuePerson").value.trim();
+    if(!name) return;
+    if(stand.personen.includes(name)) return toast("Name gibt es schon");
+    stand.personen.push(name);
+    $("#feldNeuePerson").value = "";
+    sichern();
+  };
+  $("#btnExportFoto").onclick = () => exportieren(true);
+  $("#btnExportOhne").onclick = () => exportieren(false);
+  $("#btnImport").onclick = () => $("#importDatei").click();
+  $("#importDatei").onchange = e => {
+    if(e.target.files[0]) importieren(e.target.files[0]);
+    e.target.value = "";
+  };
+  $("#btnCsv").onclick = csvExport;
+  $("#btnDrucken").onclick = () => window.print();
+  $("#btnTextKopieren").onclick = async () => {
+    const text = abrechnungAlsText();
+    try { await navigator.clipboard.writeText(text); toast("In die Zwischenablage kopiert"); }
+    catch(e){ prompt("Text kopieren:", text); }
+  };
+  $("#btnReset").onclick = async () => {
+    if(!confirm("Wirklich ALLE Rechnungen und Fotos löschen? Das lässt sich nicht rückgängig machen.")) return;
+    for(const fid of await speicher.alleFotoIds()) await speicher.fotoLoeschen(fid);
+    stand.eintraege = [];
+    await sichern();
+    toast("Alles gelöscht");
+  };
+}
+
+los();
+</script>
+</body>
+</html>
