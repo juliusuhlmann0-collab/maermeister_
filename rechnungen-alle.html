@@ -328,23 +328,16 @@ dialog{position:fixed;inset:auto 0 0 0;margin:0}
   </section>
 </main>
 
-<button class="fab" id="btnNeu" aria-label="Neue Rechnung">+</button>
+<button class="fab" id="btnNeu" aria-label="Neue Ausgabe">+</button>
 
 <!-- ============ DIALOG: EINTRAG ============ -->
 <dialog id="dlgEintrag">
   <div class="blatt">
     <div class="blatt-kopf">
-      <h2 id="dlgTitel">Neue Rechnung</h2>
+      <h2 id="dlgTitel">Neue Ausgabe</h2>
       <button class="x" id="dlgZu" aria-label="Schließen">✕</button>
     </div>
     <form class="blatt-inhalt" id="formEintrag" method="dialog">
-      <div class="feld">
-        <label>Rechnung fotografieren</label>
-        <div class="fotos" id="fotoBereich"></div>
-        <input type="file" id="dateiKamera" accept="image/*" capture="environment" multiple hidden>
-        <input type="file" id="dateiGalerie" accept="image/*" multiple hidden>
-      </div>
-
       <div class="feld">
         <label for="feldBetrag">Betrag</label>
         <input type="text" id="feldBetrag" class="betrag-eingabe" inputmode="decimal"
@@ -375,6 +368,13 @@ dialog{position:fixed;inset:auto 0 0 0;margin:0}
         <div class="chips" id="fuerChips"></div>
         <div style="margin-top:8px"><button type="button" class="chip klein" id="btnAlleFuer">Alle auswählen</button></div>
         <p style="margin:8px 0 0;font-size:12.5px;color:var(--text-leise)" id="splitInfo"></p>
+      </div>
+
+      <div class="feld">
+        <label>Beleg-Foto <span style="text-transform:none;letter-spacing:0;font-weight:500">– optional</span></label>
+        <div class="fotos" id="fotoBereich"></div>
+        <input type="file" id="dateiKamera" accept="image/*" capture="environment" multiple hidden>
+        <input type="file" id="dateiGalerie" accept="image/*" multiple hidden>
       </div>
 
       <div class="knopfreihe">
@@ -690,8 +690,9 @@ function zeichneListe(){
   if(stand.eintraege.length === 0){
     ziel.insertAdjacentHTML("beforeend",
       '<div class="leer" style="padding:10px 20px 22px"><div class="gross">🧾</div>' +
-      '<p style="margin:0">Noch keine Rechnung erfasst.<br>' +
-      'Unten rechts auf <b>+</b> tippen, Beleg abfotografieren, fertig.</p></div>');
+      '<p style="margin:0">Noch keine Ausgabe erfasst.<br>' +
+      'Unten rechts auf <b>+</b>: Betrag, wofür, wer bezahlt hat – fertig.<br>' +
+      '<span style="font-size:13.5px">Ein Beleg-Foto kannst du dazulegen, musst du aber nicht.</span></p></div>');
   }
 
   const imZeitraum = zeitraumTage();
@@ -727,7 +728,7 @@ function tagBlock(tag, eintraege, istHeute){
     const leer = document.createElement("button");
     leer.className = "leer-zeile";
     leer.innerHTML = '<span>' + datumLang(tag) + (istHeute ? " · heute" : "") + '</span><span class="plus">＋</span>';
-    leer.title = "Rechnung für diesen Tag hinzufügen";
+    leer.title = "Ausgabe für diesen Tag hinzufügen";
     leer.onclick = () => dialogOeffnen(null, tag);
     box.appendChild(leer);
     return box;
@@ -858,7 +859,7 @@ function dialogOeffnen(id, vorgabeDatum){
         geaendert: Date.now()
       };
 
-  $("#dlgTitel").textContent = vorhanden ? "Rechnung bearbeiten" : "Neue Rechnung";
+  $("#dlgTitel").textContent = vorhanden ? "Ausgabe bearbeiten" : "Neue Ausgabe";
   $("#btnLoeschen").hidden = !vorhanden;
   $("#feldBetrag").value = entwurf.betrag ? (entwurf.betrag/100).toFixed(2).replace(".", ",") : "";
   $("#feldZweck").value  = entwurf.zweck;
@@ -1026,11 +1027,11 @@ async function eintragSpeichern(){
 
   $("#dlgEintrag").close();
   await sichern();
-  toast(i >= 0 ? "Gespeichert" : "Rechnung hinzugefügt");
+  toast(i >= 0 ? "Gespeichert" : "Ausgabe hinzugefügt");
 }
 
 async function eintragLoeschen(){
-  if(!confirm("Diese Rechnung wirklich löschen?")) return;
+  if(!confirm("Diese Ausgabe wirklich löschen?")) return;
   for(const fid of entwurf.fotos) await speicher.fotoLoeschen(fid);
   stand.eintraege = stand.eintraege.filter(e => e.id !== entwurf.id);
   $("#dlgEintrag").close();

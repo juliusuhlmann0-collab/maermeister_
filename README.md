@@ -16,8 +16,10 @@ Beide Dateien enthalten dieselbe Rechenlogik – die Personenliste und die Farbe
 Datei per Doppelklick im Browser öffnen, oder auf dem Handy zum Startbildschirm hinzufügen.
 Es wird kein Server, kein Internet und kein Konto gebraucht.
 
-1. **+** unten rechts → Beleg fotografieren, Betrag eintippen, „bezahlt von" und „für wen" wählen.
+1. **+** unten rechts → Betrag, wofür, Datum, „bezahlt von" und „für wen" eintragen.
    Mehrere Posten gehen direkt im Betragsfeld: `12,90+4,50`.
+   Ein Beleg-Foto kann man unten im Formular dazulegen, muss man aber nicht –
+   für eine reine Betragsliste einfach weglassen.
 2. Der Reiter **Abrechnung** zeigt jederzeit: was jeder bezahlt hat, was sein eigener Anteil ist,
    den Saldo (grün = bekommt Geld, rot = muss zahlen) und die kürzestmögliche Liste an Überweisungen.
 3. Zeitraum, Länge und Teilnehmer stehen unter **Einstellungen**. Voreingestellt sind 14 Tage ab heute.
