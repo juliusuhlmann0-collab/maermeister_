@@ -8,6 +8,9 @@ Das hier ist kein Ziel neben den anderen, sondern der Punkt, auf den vieles einz
 Agentur ([ziel-agentur.md](ziel-agentur.md)) existiert, um daraus Immobilien zu kaufen.
 Plan: bis 23 harte Aufbauphase (Grundlage schaffen), danach Immobilien managen und entwickeln.
 
+**Alter:** 21 (geb. 1.8.), also aktuell noch **~22 Monate** bis zum 23. Geburtstag (1.8.2028) –
+das ist das Zeitfenster für die Aufbauphase.
+
 ## Ziel
 
 *(noch offen – wie viele Immobilien / welcher Portfoliowert bis wann genau? kommt, sobald das
@@ -23,6 +26,7 @@ Alter und die Agentur-Zahlen stehen)*
 | Mieter | Alexander Schmidt |
 | Kaltmiete aktuell | 350 € |
 | Kaltmiete geplant | 400 € |
+| Finanzierung | keine – Geschenk der Oma an "uns" (schuldenfrei, evtl. mehrere Eigentümer – klären) |
 
 ## Verlauf
 
