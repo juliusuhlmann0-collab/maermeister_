@@ -24,8 +24,8 @@ Zahlen sonst nicht vergleichbar sind.
 
 ## Rudern eng, 40 kg
 
-**Rekord:** 9 Wdh – 18.09.2026 (9)
+**Rekord:** 17 Wdh – 18.09.2026 (9 / 8)
 
 | Datum | Sätze | Gewicht | Summe | Notiz |
 |---|---|---|---|---|
-| 18.09.2026 | 9 | 40 kg | 9 | extremes Gefühl auf dem Muskel |
+| 18.09.2026 | 9 / 8 | 40 kg | 17 | extremes Gefühl auf dem Muskel |
