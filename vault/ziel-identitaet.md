@@ -14,6 +14,18 @@ Aktueller Kern: sich selbst beweisen, dass man sich selbst vertrauen kann.
 willst? Und von den drei Dimensionen – wie du handelst, wie du überlegst, wie du auftrittst –
 wo ist der Abstand zwischen heute und Ziel gerade am größten?
 
+## Kernbild (in eigenen Worten, 18.09.2026)
+
+"Ein guter, starker, ansehnlicher Mann – stark, kräftig, erfolgreich, unbesiegbar, einer der
+kämpfen und sich wehren kann. Einer der hinter seiner Meinung steht, einer der Respekt vor
+jedem hat."
+
+Aktuell spürbar unzufriedener, als der sichtbare Fortschritt (Wohnung, Job, Agentur, Ziele)
+eigentlich vermuten lässt. Größter Bremsklotz laut eigener Aussage: zu viel Handy (Apps gelöscht,
+wandert aber zu neuen wie Snapchat), dadurch Ablenkung und wechselnder Fokus auf der Arbeit,
+generell noch an Selbstbeherrschung/Impulskontrolle arbeitend. Der Koffein-Verzicht ist Teil
+davon: ein sichtbarer Beleg dafür, ob er sich selbst vertrauen kann.
+
 ## Aktuelle Disziplin-Challenge: 30 Tage kein Koffein
 
 **Start:** 15.09.2026 · **Ende (geplant):** ca. 14.10.2026 · heute: Tag 4/30
