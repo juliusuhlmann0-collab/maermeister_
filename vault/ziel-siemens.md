@@ -14,13 +14,20 @@
 
 ## Ziel
 
-*(noch offen – was heißt "mehr Verantwortung" konkret bis Mitte Dezember? z. B. bestimmte
-Aufgabe/Projekt übernehmen, Gespräch mit Herr Singer suchen, bestimmte Fähigkeit zeigen?)*
+- Zusatzaufgaben übernehmen – aktiv beim Teamleiter oder bei Meister Singer einholen.
+- Gespräch mit Singer geführt haben, Teamleiter mit einbeziehen: Frage nach vorzeitiger
+  Einstufung in **EG6**, begründet mit guter Leistung.
+- Übergeordnet: finanziell, karrieretechnisch und persönlich deutlich weiterentwickeln.
 
 ## Ausgangswerte
 
-*(aktuelle Rolle/Aufgaben – kommt noch)*
+| | Wert |
+|---|---|
+| Gehalt | ca. 2.500 € netto |
+| Entgeltgruppe | aktuell nicht EG6 |
+| Prämie | volle Prämie erst nach 6 Monaten Betriebszugehörigkeit |
 
 ## Verlauf
 
-**18.09.2026** – Zusage für Barcelona-Einsatz KW 43/44 erhalten.
+**18.09.2026** – Zusage für Barcelona-Einsatz KW 43/44 erhalten. Ziel für die 3 Monate
+festgelegt: Zusatzaufgaben + Gespräch wegen EG6.
