@@ -35,9 +35,8 @@ Konkretes Beispiel: Martin Brehm gab Julius und Marian vor über einem Jahr Nota
 einem guten GbR-Vertrag als Vorlage, für eine geplante Autoaufbereitung mit Marian. Weder
 abgeschrieben noch die Unterlagen zurückgegeben, die Autoaufbereitung selbst kam nie zustande –
 Grund war ein halbes Jahr mit Siemens (35h) plus danach Xspecter bis 20–21 Uhr, auch samstags.
-Zum jetzigen Zeitpunkt unklar: ist dieses Pensum aktuell noch so, oder war das die Zeit vor der
-jetzigen, leichteren Xspecter-Regelung (nur noch Mo/Mi)? Und: ist die Autoaufbereitung-Idee tot,
-oder könnte sie neben/statt der Agentur wieder aufleben?
+Geklärt: das Pensum war die Zeit vor der jetzigen, leichteren Regelung – aktuell nur noch
+Mo/Mi Xspecter, ca. 3,5–4 Std. Die Autoaufbereitung-Idee ist endgültig vom Tisch.
 
 ## Aktuelle Disziplin-Challenge: 30 Tage kein Koffein
 
