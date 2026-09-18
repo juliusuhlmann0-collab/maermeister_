@@ -26,7 +26,8 @@ Alter und die Agentur-Zahlen stehen)*
 | Mieter | Alexander Schmidt |
 | Kaltmiete aktuell | 350 € |
 | Kaltmiete geplant | 400 € |
-| Finanzierung | keine – Geschenk der Oma an "uns" (schuldenfrei, evtl. mehrere Eigentümer – klären) |
+| Finanzierung | keine – Geschenk der Oma, schuldenfrei |
+| Eigentümer | allein, im Grundbuch als Alleineigentümer eingetragen |
 
 ## Verlauf
 
