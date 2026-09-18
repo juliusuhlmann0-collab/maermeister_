@@ -10,12 +10,12 @@
 |---|---|
 | Größe | ca. 1,69 m |
 | Gewicht | *(nicht bekannt)* |
-| Foto | vorhanden (nicht im Repo – Rückfrage offen, siehe unten) |
+| Foto | [front](fotos/2026-09-18/front.webp) · [seitlich 1](fotos/2026-09-18/seitlich-1.webp) · [rücken](fotos/2026-09-18/ruecken.webp) · [seitlich 2](fotos/2026-09-18/seitlich-2.webp) |
 
 ## Verlauf
 
 **18.09.2026 – Start**
-Einschätzung anhand Foto (Front/Seite/Rücken, nicht im Repo gespeichert): schlank, Bauch klar
+Einschätzung anhand Foto (Front/Seite/Rücken, siehe oben): schlank, Bauch klar
 sichtbar, kein Diät-Bedarf → leichter Kalorienüberschuss für den Aufbau sinnvoll. Größter Hebel
 fürs Aussehen: Rücken-/Schulterbreite (passt zum Freitag-Rücken-Tag). Brust/Arme proportional,
 aber noch ausbaufähig (Dienstag-Tag). Bauchdefinition eher halten als verändern.
