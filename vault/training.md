@@ -1,5 +1,7 @@
 # Trainings-Log
 
+Übungsauswahl und Struktur (Tage, Sätze, Wdh-Bereiche) stehen in `programm.md`. Hier nur die Zahlen.
+
 Vault für Trainingsdaten: Sätze, Wiederholungen (Wdh) und – falls belastet – Gewicht, pro Übung.
 Neue Einträge unten an die passende Übung anhängen. **Rekord** ist immer die höchste bisherige
 Summe der Wiederholungen bei mindestens diesem Gewicht (leichteres Gewicht zählt nicht als Topper).
