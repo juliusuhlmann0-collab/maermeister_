@@ -6,6 +6,7 @@ Datei mit 3-Monats-Ziel, Ausgangswerten und einem Verlauf – einfach durchgeben
 
 | Bereich | Datei | Status |
 |---|---|---|
+| Identität | [ziel-identitaet.md](ziel-identitaet.md) | läuft, Selbstbild + Koffein-Challenge |
 | Fitness | [ziel-fitness.md](ziel-fitness.md) | läuft, 3-Monats-Ziel gesetzt |
 | Karriere (Siemens) | [ziel-siemens.md](ziel-siemens.md) | läuft, 3-Monats-Ziel gesetzt |
 | Immobilien (Hauptziel) | [ziel-immobilien.md](ziel-immobilien.md) | 1 Objekt erfasst, Zielmarke offen |
