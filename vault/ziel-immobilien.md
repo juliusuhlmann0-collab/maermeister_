@@ -13,8 +13,14 @@ das ist das Zeitfenster für die Aufbauphase.
 
 ## Ziel
 
-*(noch offen – wie viele Immobilien / welcher Portfoliowert bis wann genau? kommt, sobald das
-Alter und die Agentur-Zahlen stehen)*
+*(noch offen – wie viele Immobilien / welcher Portfoliowert bis wann genau? kommt, sobald die
+Agentur-Zahlen stehen)*
+
+## Strategie
+
+Kriegenbrunn ist kein reiner Grundbaustein zum Laufenlassen, sondern aktiver Hebel: schuldenfrei
+und allein im Grundbuch, also frei nachbeleihbar. Zusammen mit dem Agentur-Kapital soll das
+Objekt Nr. 2 (und weitere) finanzieren – Ausbau statt nur Halten.
 
 ## Portfolio (Ausgangswerte)
 
