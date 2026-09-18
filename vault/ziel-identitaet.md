@@ -26,6 +26,19 @@ wandert aber zu neuen wie Snapchat), dadurch Ablenkung und wechselnder Fokus auf
 generell noch an Selbstbeherrschung/Impulskontrolle arbeitend. Der Koffein-Verzicht ist Teil
 davon: ein sichtbarer Beleg dafür, ob er sich selbst vertrauen kann.
 
+## Entscheidungen & Vermeidung
+
+Angst davor, Entscheidungen zu treffen – zögert sowas lange raus, Dinge mit Angst dahinter
+bleiben teils komplett liegen.
+
+Konkretes Beispiel: Martin Brehm gab Julius und Marian vor über einem Jahr Notar-Unterlagen mit
+einem guten GbR-Vertrag als Vorlage, für eine geplante Autoaufbereitung mit Marian. Weder
+abgeschrieben noch die Unterlagen zurückgegeben, die Autoaufbereitung selbst kam nie zustande –
+Grund war ein halbes Jahr mit Siemens (35h) plus danach Xspecter bis 20–21 Uhr, auch samstags.
+Zum jetzigen Zeitpunkt unklar: ist dieses Pensum aktuell noch so, oder war das die Zeit vor der
+jetzigen, leichteren Xspecter-Regelung (nur noch Mo/Mi)? Und: ist die Autoaufbereitung-Idee tot,
+oder könnte sie neben/statt der Agentur wieder aufleben?
+
 ## Aktuelle Disziplin-Challenge: 30 Tage kein Koffein
 
 **Start:** 15.09.2026 · **Ende (geplant):** ca. 14.10.2026 · heute: Tag 4/30

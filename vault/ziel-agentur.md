@@ -10,13 +10,6 @@ Angebot fertig, Portfolio?)*
 
 *(aktueller Stand: Kunden, Umsatz, was schon existiert)*
 
-## Offener Punkt: GbR-Vertrag mit Marian
-
-Martin Brehm hat vor über einem Jahr Notar-Unterlagen mit einem guten GbR-Vertrag als Vorlage
-gegeben, damit Julius und Marian daraus ihren eigenen Vertrag abschreiben. Bisher weder
-abgeschrieben noch die Unterlagen zurückgegeben – rechtliche Grundlage der Agentur ist damit
-noch offen.
-
 ## Verlauf
 
 *(Fortschritt einfach durchgeben, landet hier.)*
