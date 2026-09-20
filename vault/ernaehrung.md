@@ -5,16 +5,18 @@ und gebe dir Rückmeldung, was sich optimieren lässt.
 
 ## Ziel bis Barcelona (~19.10.2026)
 
-Berechnet aus 69,5 kg / 1,69 m / 21 Jahre, moderat aktiv (Formel-Schätzung, kein gemessener
-Wert – wird nach 1–2 Wochen anhand des tatsächlichen Gewichtsverlaufs nachjustiert).
+Berechnet aus 69,5 kg / 1,69 m / 21 Jahre. **20.09.2026 aktualisiert:** Siemens-Job ist stehende
+Schwerarbeit (Starkverdrahtung, Kabel ~1,5 cm², schwere Bauteile einbauen), nicht nur "moderat
+aktiv" – Einstufung auf "sehr aktiv" angehoben. Formel-Schätzung, kein gemessener Wert – wird
+nach 1–2 Wochen anhand des tatsächlichen Gewichtsverlaufs nachjustiert.
 
 | | Wert |
 |---|---|
-| Erhaltungskalorien (TDEE, geschätzt) | ~2.725 kcal |
-| Zielkalorien (Defizit) | ~2.275 kcal |
+| Erhaltungskalorien (TDEE, geschätzt, sehr aktiv) | ~2.850 kcal |
+| Zielkalorien (Defizit) | ~2.400 kcal |
 | Eiweiß | ~140 g |
 | Fett | ~70 g |
-| Kohlenhydrate | ~275 g |
+| Kohlenhydrate | ~300 g |
 
 **Kalibrierung:** 1–2x/Woche wiegen, gleiche Bedingungen (z. B. morgens nüchtern). Fällt das
 Gewicht um mehr als ~0,7 kg/Woche: etwas mehr essen (Kraft/Erholung leiden sonst). Bewegt sich
@@ -85,7 +87,7 @@ Alle drei sind schnelle Kohlenhydrate, nichts Schweres vor dem Training. Datteln
 leichtesten, falls der Magen kurz vorm Training besonders empfindlich ist.
 
 Zusammen ca. 350–650 kcal und 30–50 g Eiweiß für beide Frühstücke, je nach Kombination –
-passt gut in die ~2.275 kcal, lässt genug Spielraum für Mittag/Abend.
+passt gut in die ~2.400 kcal, lässt genug Spielraum für Mittag/Abend.
 
 **Einkaufsliste für morgen (deckt beide Frühstücke für mehrere Tage):**
 - Bananen
