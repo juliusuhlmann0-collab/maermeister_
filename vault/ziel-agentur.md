@@ -8,8 +8,9 @@ Angebot fertig, Portfolio?)*
 
 ## Ausgangswerte
 
-*(aktueller Stand: Kunden, Umsatz, was schon existiert)*
+Noch nicht gegründet – Gewerbeanmeldung geplant für die Woche ab 21.09.2026. Vorher: keine
+Kunden, kein Umsatz, das ist der reale Stand (nicht schöngeredet).
 
 ## Verlauf
 
-*(Fortschritt einfach durchgeben, landet hier.)*
+**20.09.2026** – Anmeldung für nächste Woche angekündigt.
