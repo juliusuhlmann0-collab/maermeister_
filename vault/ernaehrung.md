@@ -34,7 +34,11 @@ Trainingstag – ich weiß dann genau, was gemeint ist.
 | 5 | Pre-Workout: 2 Stück Reiswaffeln (natur) + 1 Banane | 140 |
 | 6 | Pre-Workout: 3 Stück Datteln | 70 |
 | 7 | Pre-Workout: 1 Müsliriegel (Standardgröße, ~30g) | 130 |
+| 8 | Hunger-Snack, jederzeit (z. B. bei der Arbeit): 1 Apfel | 90 |
+| 9 | Hunger-Snack, jederzeit: kleine Hand Mandeln (~20g) | 115 |
 
+Nr. 8/9 sind flexibel, kein fester Zeitpunkt – bei Hunger zwischendurch einfach dazu, passt
+locker mit ins Kalorienbudget. Im Defizit ist mehr Hungergefühl normal, kein Alarmsignal.
 ## Frühstücks-Optionen (zwei Zeitpunkte)
 
 **Direkt nach dem Aufstehen (5:20, klein, empfindlicher Magen berücksichtigt):**
