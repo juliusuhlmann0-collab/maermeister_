@@ -41,5 +41,6 @@ Objekt Nr. 2 (und weitere) finanzieren – Ausbau statt nur Halten.
 
 ## Anstehend
 
-**29.09.2026, 22 Uhr** (aus Kalender): "Besprechen Eigentümerversammlung" – vermutlich WEG-Termin
-zu Kriegenbrunn. Rechtzeitig vorbereiten (Tagesordnung kennen, ggf. Mieterhöhung dort ansprechen).
+**30.09.2026, 19 Uhr:** Gespräch zur Eigentümerversammlung (Kalender-Eintrag hatte falsches
+Datum/Uhrzeit). Hat nichts mit der Mieterhöhung zu tun – das ist reine Sache zwischen Vermieter
+und Mieter Alexander Schmidt, kein WEG-Thema.
