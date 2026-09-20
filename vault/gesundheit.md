@@ -1,9 +1,13 @@
 # Gesundheit & Zepp-Daten
 
-Kein automatischer Zugriff auf Zepp möglich – es gibt dafür keine Verbindung/API in dieser
-Umgebung. Funktioniert hat stattdessen: Zepp synct zu Apple Health, die App **"Health Auto
-Export"** exportiert daraus eine ZIP (JSON + GPX-Routen bei Workouts). Einfach die ZIP schicken,
-ich werte sie aus und trage die Werte hier ein.
+Kein direkter Zepp-API-Zugriff möglich. Weg stattdessen: Zepp synct zu Apple Health, die App
+**"Health Auto Export"** exportiert daraus (JSON + GPX-Routen bei Workouts).
+
+**Automatisch (Ziel):** Health Auto Export → Automation → Google Drive, Ordner
+["Health Auto Export"](https://drive.google.com/drive/folders/1CHJXU1Co6uvnsNUX2Mh-HhwcNFyJ4fiu)
+(id `1CHJXU1Co6uvnsNUX2Mh-HhwcNFyJ4fiu`). Muss einmal in der App eingerichtet werden (Automations
+evtl. nur im Bezahl-Tier). Ich schau da beim 5:25-Morgen-Check-in selbst rein.
+**Fallback, falls die App das nicht unterstützt:** ZIP einfach manuell schicken, wie bisher.
 
 ## Zusammenfassung 21.08.–20.09.2026 (aus erstem Export)
 
