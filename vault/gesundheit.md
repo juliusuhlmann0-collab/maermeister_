@@ -21,11 +21,11 @@ Puls/Schlaf/HRV – Schritte kommen zusätzlich vom Handy, daher dort alle 31 Ta
 
 ## Radfahren (3 Einheiten im Zeitraum)
 
-| Datum | Dauer | Distanz | Ø-Speed | Energie |
-|---|---|---|---|---|
-| 06.09.2026 | 92 min | 19,3 km | 12,6 km/h | 2.503 kJ |
-| 20.09.2026, 08:11 | 58 min | 18,4 km | 19,0 km/h | 4.706 kJ |
-| 20.09.2026, 10:57 | 58 min | 18,0 km | 18,6 km/h | 5.025 kJ |
+| Datum | Dauer | Distanz | Ø-Speed | Energie | Route |
+|---|---|---|---|---|---|
+| 06.09.2026 | 92 min | 19,3 km | 12,6 km/h | 2.503 kJ | [GPX](routen/2026-09-06-radfahren.gpx) |
+| 20.09.2026, 08:11 | 58 min | 18,4 km | 19,0 km/h | 4.706 kJ | [GPX](routen/2026-09-20-radfahren-0811.gpx) |
+| 20.09.2026, 10:57 | 58 min | 18,0 km | 18,6 km/h | 5.025 kJ | [GPX](routen/2026-09-20-radfahren-1057.gpx) |
 
 Das ist genau das Rennrad-Element aus dem Traumleben-Bild – findet also schon real statt.
 

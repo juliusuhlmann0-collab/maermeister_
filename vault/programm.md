@@ -2,7 +2,9 @@
 
 **Ziel:** so viel Muskelaufbau wie möglich, bis eine solide Kraftgrundlage steht.
 **Gewichtung:** 60 % Körper (Ästhetik/Volumen) · 40 % Leistung (Kraft).
-**Frequenz:** 2x/Woche – jede Muskelgruppe nur 1x pro Woche, dafür pro Session genug Sätze.
+**Frequenz (final, ab 20.09.2026):** Dienstag + Freitag Gym, dazu jeweils ein kurzes
+Cardio-Finish direkt nach dem Training (10–15 min, moderat). Sonntag zusätzlich Radfahren
+für die Grundlagenausdauer.
 **Progression:** doppelte Progression. In der Wdh-Spanne so lange Wiederholungen drauflegen,
 bis alle Sätze oben in der Spanne stehen (das ist das „Toppen" aus `training.md`), dann Gewicht
 erhöhen und unten in der Spanne neu anfangen. Rekorde und Gewichte stehen im Trainings-Log,
@@ -19,6 +21,7 @@ hier steht nur die Struktur.
 | Butterfly / Cable Crossover | 3 | 10–15 | Ästhetik |
 | Bizeps-Curls | 3 | 8–12 | Aufbau |
 | Hammer-Curls | 2–3 | 10–12 | Aufbau |
+| **Cardio-Finish** | 10–15 min | moderat | Ausdauer |
 
 ## Freitag – Rücken, hintere Schulter, Trizeps, Unterarme, Bauch
 
@@ -31,9 +34,16 @@ hier steht nur die Struktur.
 | Trizeps-Drücken | 3 | 8–12 | Aufbau |
 | Unterarm-Curls | 2–3 | 12–15 | Aufbau |
 | Bauch | 3 | 12–20 | Aufbau |
+| **Cardio-Finish** | 10–15 min | moderat | Ausdauer |
 
-## Offene Frage
+## Sonntag – Radfahren
 
-Beide Tage sind reine Oberkörper-Tage, Beine kommen bisher nicht vor. Falls das Absicht ist
-(z. B. Beine woanders), passt das so – falls nicht, einfach Bescheid geben, dann kommt ein
-dritter Tag oder Beinübungen mit rein.
+Grundlagenausdauer, siehe Einträge in [gesundheit.md](gesundheit.md). Nicht jede Fahrt muss
+Tempo sein – lieber öfter locker/lang fahren (Zone 2, Gespräch wäre noch möglich) und nur ab
+und zu eine schnellere Einheit, das baut die Ausdauerbasis nachhaltiger auf als immer Vollgas.
+
+## Beine
+
+Kommen im finalen 3-Tage-Rhythmus (Di/Fr Gym, So Rad) weiterhin nicht vor. Radfahren trainiert
+die Beine zumindest aerob mit – falls gezielter Beinaufbau doch noch gewünscht ist, jederzeit
+sagen, dann bauen wir das ein.
