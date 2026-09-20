@@ -29,12 +29,15 @@ Puls/Schlaf/HRV – Schritte kommen zusätzlich vom Handy, daher dort alle 31 Ta
 
 Das ist genau das Rennrad-Element aus dem Traumleben-Bild – findet also schon real statt.
 
-**20.09.2026 – Vorfall:** bei/nach den zwei Fahrten fast ohnmächtig geworden, zum ersten Mal
-überhaupt. Fueling war nur 2 Müsliriegel + wenig Wasser für beide Einheiten zusammen, dazu früh,
-nüchtern und ohnehin wenig Schlaf zuletzt – plausible Erklärung, kein Alarmsignal per se. Für
-künftige Einheiten: mehr/regelmäßiger trinken, vor harten Einheiten mehr essen als nur Riegel,
+**20.09.2026 – Vorfall:** während der ersten Fahrt (08:11, Hinfahrt zu Omi) fast ohnmächtig
+geworden, zum ersten Mal überhaupt. Fueling bis dahin nur 2 Müsliriegel + wenig Wasser, dazu
+früh, nüchtern und ohnehin wenig Schlaf zuletzt – klare, einfache Erklärung (nicht das spätere
+Frühstück bei Omi, das kam erst danach). Für künftige Einheiten: vor der Fahrt mehr essen als
+nur Riegel (besonders wenn's die erste/harte Einheit am Tag ist), mehr/regelmäßiger trinken,
 nach intensiver Belastung langsam austreten statt abrupt stoppen. Falls es trotzdem nochmal
 passiert: ärztlich abklären lassen, nicht nur weiter analysieren.
+
+**9-Uhr-Pause (Omi):** 3 Eier + 1 Nutella-Hörnchen – guter Eiweiß-Anteil durch die Eier.
 
 ## Tägliche Basics (Teil vom Morgen-Check-in)
 
