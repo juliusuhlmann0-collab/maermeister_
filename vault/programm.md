@@ -16,29 +16,32 @@ hier steht nur die Struktur.
 
 ## Dienstag – Brust, Schultern, Bizeps
 
-| Übung | Sätze | Wdh-Bereich | Fokus |
+| Übung | Sätze | Wdh-Bereich | Warum |
 |---|---|---|---|
-| Bankdrücken | 4 | 5–8 | Kraft |
-| Schrägbankdrücken (Kurzhantel) | 3 | 8–12 | Aufbau |
-| Schulterdrücken | 3–4 | 6–10 | Kraft/Aufbau |
-| Seitheben | 3 | 12–15 | Ästhetik |
-| Butterfly / Cable Crossover | 3 | 10–15 | Ästhetik |
-| Bizeps-Curls | 3 | 8–12 | Aufbau |
-| Hammer-Curls | 2–3 | 10–12 | Aufbau |
-| Serratus (Cable Pullover m. Rotation) | 3 | 12–15 | Definition |
+| Bankdrücken (flach/leichte Schräge) | 4 | 5–8 | Compound, Kraftbasis |
+| Schrägbankdrücken (Kurzhantel, 30°) | 3 | 8–12 | obere Brust, große ROM |
+| Kabel-Fliegende (tief → hoch) | 3 | 10–15 | Dehnung unter Last = mehr Wachstumsreiz |
+| Schulterdrücken (Kurzhantel) | 3–4 | 6–10 | Compound Schulter |
+| Seitheben (Kabel oder lehnend) | 4 | 12–15 | wichtigster Einzel-Hebel für Schulterbreite |
+| Bizeps-Curls (Schrägbank, hängender Arm) | 3 | 8–12 | Bizeps in Dehnung = mehr Reiz als Standard-Curl |
+| Hammer-Curls | 2–3 | 10–12 | Brachialis/Unterarm-Dicke |
+| Serratus (Cable Pullover m. Rotation) | 3 | 12–15 | Definition seitlich am Brustkorb |
 | **Cardio-Finish** | 10–15 min | moderat | Ausdauer |
 
 ## Freitag – Rücken, hintere Schulter, Trizeps, Unterarme, Bauch
 
-| Übung | Sätze | Wdh-Bereich | Fokus |
+| Übung | Sätze | Wdh-Bereich | Warum |
 |---|---|---|---|
-| Klimmzüge, mittelbreit | 3–4 | so viel wie geht | Kraft |
-| Rudern breit (oberer Trapez) | 3 | 8–12 | Aufbau |
-| Rudern eng | 3 | 8–12 | Aufbau |
-| Face Pulls / Reverse Butterfly | 3 | 12–15 | Ästhetik/Gesundheit |
-| Trizeps-Drücken | 3 | 8–12 | Aufbau |
-| Unterarm-Curls | 2–3 | 12–15 | Aufbau |
-| Bauch (mit Zusatzgewicht) | 3 | 12–20 | Definition |
+| Klimmzüge, mittelbreit | 3–4 | so viel wie geht | Rückenbreite, Kraft |
+| Rudern breit (oberer Trapez) | 3 | 8–12 | Dicke oberer Rücken |
+| Rudern eng | 3 | 8–12 | Dicke mittlerer Rücken |
+| Kabelzug geradarmig (Straight-Arm Pulldown) | 3 | 12–15 | Lat-Dehnung, isoliert ohne Bizeps-Hilfe |
+| Face Pulls | 3 | 12–15 | hintere Schulter, Schulterhealth |
+| Trizeps-Seildrücken (Pushdown) | 3 | 8–12 | lateraler/medialer Trizeps-Kopf |
+| Trizeps-Überkopf-Extension (Seil) | 3 | 10–15 | langer Kopf – nur in Überkopf-Position wirklich gereizt |
+| Unterarm-Curls | 2–3 | 12–15 | Unterarm |
+| Bauch, mit Zusatzgewicht | 3 | 12–20 | Dicke + Definition statt nur Ausdauer |
+| Hanging Leg Raises | 3 | 10–15 | unterer Bauch, oft vernachlässigt |
 | **Cardio-Finish** | 10–15 min | moderat | Ausdauer |
 
 ## Sonntag – Radfahren
