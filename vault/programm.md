@@ -29,7 +29,7 @@ eingeplant. Klimmzüge sind schon Teil vom Freitag-Rücken-Tag.
 | Übung | Sätze×Wdh | Pause | Ausführung |
 |---|---|---|---|
 | Bankdrücken (flach/leichte Schräge) | 3×5–8 | 120s | Schulterblätter zusammen & fixiert, Füße fest am Boden, Stange zur unteren Brust, Ellbogen ~45° zum Körper, kontrolliert runter, kraftvoll hoch. |
-| Schrägbankdrücken (Kurzhantel, 30°) | 3×8–12 | 90s | Bank auf 30° (nicht steiler). KH bis Brusthöhe absenken, volle Dehnung unten spüren, oben nicht ganz durchdrücken – Spannung halten. |
+| Schrägbankdrücken (Smith-Maschine oder Schrägbank-Maschine) | 3×8–12 | 90s | Bank/Sitz auf 30° einstellen (nicht steiler). Bei Smith: Bar sinkt gerade runter zur oberen Brust, kein Wackeln nötig – genau deshalb spürst du es dort besser. Volle Dehnung unten, oben nicht ganz durchdrücken. |
 | Dips (Oberkörper leicht vorgebeugt) | 2×8–15 | 60s | Körpergewicht, trifft Brust unten/außen + Trizeps mit. Oberkörper nach vorne lehnen (mehr Brust), unten bis zur vollen Dehnung absenken, nicht zu tief bei Schulterproblemen, kontrolliert hoch. Zu leicht? Mit Gewichtgurt/Kurzhantel zwischen den Füßen beschweren. |
 | Schulterdrücken (Kurzhantel) | 3×6–10 | 90s | KH starten auf Schulterhöhe, gerade nach oben drücken (kein Hohlkreuz), oben nicht ganz einrasten, Rumpf angespannt. |
 | Seitheben (Kabel oder lehnend) | 3×12–15 | 60s | Leichte Ellbogenbeugung, Arme seitlich bis Schulterhöhe (nicht höher), Bewegung führt vom Ellbogen aus, kein Schwung. |
