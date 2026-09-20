@@ -38,3 +38,8 @@ Objekt Nr. 2 (und weitere) finanzieren – Ausbau statt nur Halten.
 ## Verlauf
 
 **18.09.2026** – Erstes Objekt (Budapester Str. 20/22) erfasst. Mieterhöhung auf 400 € geplant.
+
+## Anstehend
+
+**29.09.2026, 22 Uhr** (aus Kalender): "Besprechen Eigentümerversammlung" – vermutlich WEG-Termin
+zu Kriegenbrunn. Rechtzeitig vorbereiten (Tagesordnung kennen, ggf. Mieterhöhung dort ansprechen).

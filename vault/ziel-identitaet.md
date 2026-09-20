@@ -44,7 +44,7 @@ fürs Kernbild "einer der zu dem steht, was er sagt".
 
 ## Aktuelle Disziplin-Challenge: 30 Tage kein Koffein
 
-**Start:** 15.09.2026 · **Ende (geplant):** ca. 14.10.2026 · heute: Tag 4/30
+**Start:** 15.09.2026 · **Ende (geplant):** ca. 14.10.2026 · heute: Tag 6/30
 
 Zweck: nicht das Koffein selbst ist der Punkt, sondern der Beweis an sich selbst, dass er sich
 an ein selbst gesetztes Ziel halten kann.
@@ -52,3 +52,8 @@ an ein selbst gesetztes Ziel halten kann.
 | Datum | Tag | Notiz |
 |---|---|---|
 | 18.09.2026 | 4/30 | läuft |
+| 20.09.2026 | 6/30 | läuft |
+
+## Nächste Challenge (geplant, nach Koffein)
+
+30 Tage keine Süßgetränke, Start direkt im Anschluss ab ca. 15.10.2026.
