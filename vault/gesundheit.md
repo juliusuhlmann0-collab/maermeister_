@@ -71,3 +71,4 @@ Kurzer Habit-Check, keine große Sache – einfach ja/nein beim Morgen-Check-in.
 
 | Datum | Schlaf (h) | Schritte | Ruhepuls | Aktive kcal | Notiz |
 |---|---|---|---|---|---|
+| 20.09.2026 | – | 13.587 (bis 19 Uhr) | – | 896 | 2 Radfahrten + Siemens-Stehtag, Schlaf/Puls erst mit Nachtdaten |
