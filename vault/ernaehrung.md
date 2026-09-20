@@ -54,9 +54,16 @@ Vor Frühstück ist jetzt fix (Schoko-Reiswaffeln + Banane, 270 kcal), keine Rot
 Frühstück (9 Uhr) rotiert weiter für Abwechslung. Pre-Workout nur an Trainingstagen (Di/Fr),
 nicht Mittwoch – Mittwoch ist dein Vollpacker-Tag ohne Training.
 
-**Pre-Workout-Snack (Di/Fr, kein Kühlschrank nötig):** 2 Reiswaffeln + 1 Banane, ~140 kcal,
-leichte, schnelle Kohlenhydrate, nichts Schweres vor dem Training. Reiswaffeln sind eh schon
-auf der Einkaufsliste, Banane auch – kein Extra-Einkauf nötig.
+**Pre-Workout-Snack (Di/Fr, kein Kühlschrank nötig):**
+
+| Option | Was | ca. kcal |
+|---|---|---|
+| A | 2 Reiswaffeln + 1 Banane | 140 kcal |
+| B | 3 Datteln | ~70 kcal, sehr schnell verdaulich, noch leichter im Magen |
+| C | 1 Müsliriegel | ~130 kcal, etwas sättigender, kennst du schon vom Radfahren |
+
+Alle drei sind schnelle Kohlenhydrate, nichts Schweres vor dem Training. Datteln (B) sind am
+leichtesten, falls der Magen kurz vorm Training besonders empfindlich ist.
 
 Zusammen ca. 350–650 kcal und 30–50 g Eiweiß für beide Frühstücke, je nach Kombination –
 passt gut in die ~2.275 kcal, lässt genug Spielraum für Mittag/Abend.
