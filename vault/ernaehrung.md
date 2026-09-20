@@ -28,11 +28,9 @@ nichts nach 2 Wochen: Kalorien um ~150 kcal senken.
 |---|---|---|
 | A | Banane + kleine Hand Nüsse | 200 kcal / 5 g |
 | B | 2 Reiswaffeln mit Honig | 150 kcal / 2 g |
-| C (gewählt) | 3 Schoko-Reiswaffeln (Vollmilch) + 1 mittelgroße Banane | 270 kcal / 3,3 g / 48 g KH / 8,3 g Fett |
+| C | 3 Schoko-Reiswaffeln (Vollmilch) + 1 mittelgroße Banane | 270 kcal / 3,3 g / 48 g KH / 8,3 g Fett |
 
-Fixe Wahl aktuell: Option C (Werte typisch, Packung checken für Genaues).
-
-Shake verträgt er nicht, deshalb raus – Optionen A/B reichen für den kleinen ersten Happen.
+Shake verträgt er nicht, deshalb raus – A/B/C reichen für Abwechslung beim kleinen ersten Happen.
 
 **9-Uhr-Pause (erste richtige Mahlzeit, mehr Zeit):**
 
@@ -41,6 +39,19 @@ Shake verträgt er nicht, deshalb raus – Optionen A/B reichen für den kleinen
 | A | Magerquark/Skyr (250g) + Haferflocken (40g) + Beeren | 430 kcal / 35 g |
 | B | 3 Eier + 1 Scheibe Vollkornbrot | 380 kcal / 24 g |
 | C | Overnight Oats (Haferflocken+Skyr+Milch, abends vorbereitet) + Obst | 450 kcal / 30 g |
+
+## Wochenplan (Rotation für Abwechslung)
+
+| Tag | Vor Frühstück | Frühstück (9 Uhr) | kcal gesamt |
+|---|---|---|---|
+| Montag | A – Banane + Nüsse | A – Quark + Haferflocken + Beeren | 630 |
+| Dienstag | B – Reiswaffeln + Honig | B – 3 Eier + Brot | 530 |
+| Mittwoch | C – Schoko-Reiswaffeln + Banane | C – Overnight Oats + Obst | 720 |
+| Donnerstag | A – Banane + Nüsse | B – 3 Eier + Brot | 580 |
+| Freitag | B – Reiswaffeln + Honig | A – Quark + Haferflocken + Beeren | 580 |
+
+Einfach der Reihe nach durchgehen, Reihenfolge ist beliebig tauschbar – Hauptsache Abwechslung
+statt jeden Tag dasselbe.
 
 Zusammen ca. 350–650 kcal und 30–50 g Eiweiß für beide Frühstücke, je nach Kombination –
 passt gut in die ~2.275 kcal, lässt genug Spielraum für Mittag/Abend.
