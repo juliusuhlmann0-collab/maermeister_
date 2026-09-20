@@ -35,7 +35,7 @@ eingeplant. Klimmzüge sind schon Teil vom Freitag-Rücken-Tag.
 | Seitheben | Kabel | 3×12–15 | 60s | Leichte Ellbogenbeugung, Arme seitlich bis Schulterhöhe (nicht höher), Bewegung führt vom Ellbogen aus, kein Schwung. Kabel hält Spannung durchgehend. |
 | Bizeps-Curls | Kabel/Seil, auf Schrägbank | 3×8–12 | 60s | Schrägbank (45–60°) vor tief eingehängtem Kabelzug, Arme hängen frei nach hinten/unten. Kabel hält Spannung auch in voller Dehnung (anders als Hantel). Ellbogen fixiert, langsam ablassen. |
 | Hammer-Curls | Kurzhantel | 2×10–12 | 60s | Neutralgriff (Handflächen zueinander), Ellbogen am Körper fixiert, kontrolliert, kein Schwung. |
-| Serratus | Kabel (Pullover m. Rotation) | 2×12–15 | 45s | Arm gestreckt über Kopf am Kabel, nach unten/seitlich ziehen mit Rumpfrotation, am Ende Rippen bewusst "runterziehen"/anspannen. |
+| Serratus Punch | Kabel (Brusthöhe) | 2×12–15 | 45s | Kabel auf Brusthöhe, Handgriff wie beim Boxen nach vorne stoßen, am Ende der Bewegung die Schulter noch weiter nach vorne "stoßen" (Schulterblatt löst sich von der Wirbelsäule) – das ist der eigentliche Serratus-Reiz, nicht die Armbewegung selbst. Kontrolliert zurück. |
 | Cardio-Finish | frei wählbar | 10–15 min | – | Moderates Tempo, nicht ans Limit – ist Zugabe nach dem Krafttraining. |
 
 **Getränk/Auffüllen:** während dem Training normales Wasser (keine Ausdauereinheit, die
