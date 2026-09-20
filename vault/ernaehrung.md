@@ -41,7 +41,7 @@ oder "1a, 2c, 3b" an einem Trainingstag.
 
 | Var. | Was, genau | kcal |
 |---|---|---|
-| a | 250g Skyr + 40g Haferflocken + 100g Beeren | 430 |
+| a | 250g Skyr (Eiweißquelle) + 40g Haferflocken (KH/Ballaststoffe) + 100g Beeren (Vitamine, wenig Zucker) | 430 |
 | b | 3 Eier + 1 Scheibe Vollkornbrot (~40g) | 380 |
 | c | 50g Haferflocken + 150g Magerquark/Skyr + 100ml Milch + 100g Obst | 450 |
 
