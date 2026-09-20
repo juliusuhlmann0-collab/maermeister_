@@ -16,20 +16,21 @@ hier steht nur die Struktur.
 
 ## Dienstag – Brust, Schultern, Bizeps
 
-Volumen: Brust 10 Sätze, Schulter 8 Sätze, Bizeps 6 Sätze, Serratus 3. Gesamtzeit inkl.
-Aufwärmen ca. 70 Min. Falls es knapp wird: zuerst Serratus streichen, dann Hammer-Curls –
-die Compound-Übungen (Bankdrücken, Schulterdrücken) bleiben immer drin.
+Volumen (reduziert auf max. 2–3 Sätze/Übung wegen Zeit): Brust 8 Sätze, Schulter 6 Sätze,
+Bizeps 5 Sätze, Serratus 2. Gesamtzeit inkl. Aufwärmen ca. 50 Min. Ehrlich: weniger Volumen =
+etwas langsamerer Fortschritt als mit 3–4 Sätzen, aber immer noch effektiv – besser konsequent
+bei 2–3 als bei 4 unregelmäßig, weil's zu lang dauert.
 
 | Übung | Sätze | Wdh-Bereich | Pause | Warum |
 |---|---|---|---|---|
-| Bankdrücken (flach/leichte Schräge) | 4 | 5–8 | 120s | Compound, Kraftbasis |
+| Bankdrücken (flach/leichte Schräge) | 3 | 5–8 | 120s | Compound, Kraftbasis |
 | Schrägbankdrücken (Kurzhantel, 30°) | 3 | 8–12 | 90s | obere Brust, große ROM |
-| Kabel-Fliegende (tief → hoch) | 3 | 10–15 | 60s | Dehnung unter Last = mehr Wachstumsreiz |
-| Schulterdrücken (Kurzhantel) | 4 | 6–10 | 90s | Compound Schulter |
-| Seitheben (Kabel oder lehnend) | 4 | 12–15 | 60s | wichtigster Einzel-Hebel für Schulterbreite |
+| Kabel-Fliegende (tief → hoch) | 2 | 10–15 | 60s | Dehnung unter Last = mehr Wachstumsreiz |
+| Schulterdrücken (Kurzhantel) | 3 | 6–10 | 90s | Compound Schulter |
+| Seitheben (Kabel oder lehnend) | 3 | 12–15 | 60s | wichtigster Einzel-Hebel für Schulterbreite |
 | Bizeps-Curls (Schrägbank, hängender Arm) | 3 | 8–12 | 60s | Bizeps in Dehnung = mehr Reiz als Standard-Curl |
-| Hammer-Curls | 3 | 10–12 | 60s | Brachialis/Unterarm-Dicke |
-| Serratus (Cable Pullover m. Rotation) | 3 | 12–15 | 45s | Definition seitlich am Brustkorb |
+| Hammer-Curls | 2 | 10–12 | 60s | Brachialis/Unterarm-Dicke |
+| Serratus (Cable Pullover m. Rotation) | 2 | 12–15 | 45s | Definition seitlich am Brustkorb |
 | **Cardio-Finish** | 10–15 min | moderat | – | Ausdauer |
 
 **Getränk/Auffüllen:** während dem Training normales Wasser (keine Ausdauereinheit, die
