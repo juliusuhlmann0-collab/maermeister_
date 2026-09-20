@@ -28,3 +28,6 @@ Datei mit 3-Monats-Ziel, Ausgangswerten und einem Verlauf – einfach durchgeben
   nicht nur Optionen zum Abwägen).
 - Nach jeder Änderung immer das komplette, aktuelle Ergebnis zeigen, nicht nur den geänderten
   Ausschnitt – er will nicht raten müssen, wie der Gesamtstand jetzt aussieht.
+- Immer auf die Wochentage achten (Siemens Mo–Fr 6–14:30, Xspecter nur Mo/Mi, Gym Di/Fr,
+  Radfahren So). Bei einer genannten Tagesangabe, die dazu nicht passt, aktiv nachfragen bzw.
+  auf den vermutlich gemeinten Tag hinweisen, nicht einfach falsch übernehmen.
