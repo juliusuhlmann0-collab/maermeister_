@@ -25,15 +25,15 @@ nichts nach 2 Wochen: Kalorien um ~150 kcal senken.
 Einfach die Nummer(n) durchgeben, z. B. "1, 3" an einem normalen Tag oder "1, 2, 5" an einem
 Trainingstag – ich weiß dann genau, was gemeint ist.
 
-| Nr. | Was | kcal |
+| Nr. | Was, genau | kcal |
 |---|---|---|
-| 1 | Vor Frühstück: 3 Schoko-Reiswaffeln + Banane | 270 |
-| 2 | Frühstück: Magerquark/Skyr + Haferflocken + Beeren | 430 |
-| 3 | Frühstück: 3 Eier + 1 Scheibe Vollkornbrot | 380 |
-| 4 | Frühstück: Overnight Oats + Obst | 450 |
-| 5 | Pre-Workout: 2 Reiswaffeln + Banane | 140 |
-| 6 | Pre-Workout: 3 Datteln | 70 |
-| 7 | Pre-Workout: 1 Müsliriegel | 130 |
+| 1 | Vor Frühstück: 3 Stück Schoko-Reiswaffeln + 1 Banane (mittelgroß, ~120g) | 270 |
+| 2 | Frühstück: 250g Magerquark/Skyr + 40g Haferflocken + 100g Beeren | 430 |
+| 3 | Frühstück: 3 Eier + 1 Scheibe Vollkornbrot (~40g) | 380 |
+| 4 | Frühstück: 50g Haferflocken + 150g Magerquark/Skyr + 100ml Milch + 100g Obst | 450 |
+| 5 | Pre-Workout: 2 Stück Reiswaffeln (natur) + 1 Banane | 140 |
+| 6 | Pre-Workout: 3 Stück Datteln | 70 |
+| 7 | Pre-Workout: 1 Müsliriegel (Standardgröße, ~30g) | 130 |
 
 ## Frühstücks-Optionen (zwei Zeitpunkte)
 
