@@ -28,7 +28,8 @@ nichts nach 2 Wochen: Kalorien um ~150 kcal senken.
 |---|---|---|
 | A | Banane + kleine Hand Nüsse | 200 kcal / 5 g |
 | B | 2 Reiswaffeln mit Honig | 150 kcal / 2 g |
-| C | Kleiner Shake (Whey + Wasser) | 120 kcal / 25 g |
+
+Shake verträgt er nicht, deshalb raus – Optionen A/B reichen für den kleinen ersten Happen.
 
 **9-Uhr-Pause (erste richtige Mahlzeit, mehr Zeit):**
 
@@ -37,10 +38,20 @@ nichts nach 2 Wochen: Kalorien um ~150 kcal senken.
 | A | Magerquark/Skyr (250g) + Haferflocken (40g) + Beeren | 430 kcal / 35 g |
 | B | 3 Eier + 1 Scheibe Vollkornbrot | 380 kcal / 24 g |
 | C | Overnight Oats (Haferflocken+Skyr+Milch, abends vorbereitet) + Obst | 450 kcal / 30 g |
-| D | Protein-Shake (Whey+Milch+Banane) + Vollkornbrot mit Frischkäse | 450 kcal / 35 g |
 
 Zusammen ca. 350–650 kcal und 30–50 g Eiweiß für beide Frühstücke, je nach Kombination –
 passt gut in die ~2.275 kcal, lässt genug Spielraum für Mittag/Abend.
+
+**Einkaufsliste für morgen (deckt beide Frühstücke für mehrere Tage):**
+- Bananen
+- Ungesalzene Nüsse (z. B. Mandeln, kleine Menge reicht)
+- Reiswaffeln
+- Honig
+- Magerquark oder Skyr (mehrere Becher, für ein paar Tage)
+- Haferflocken
+- Beeren (tiefgekühlt hält länger und ist günstiger als frisch)
+- Eier
+- Vollkornbrot
 
 ## Log
 
