@@ -38,6 +38,10 @@ Grund war ein halbes Jahr mit Siemens (35h) plus danach Xspecter bis 20–21 Uhr
 Geklärt: das Pensum war die Zeit vor der jetzigen, leichteren Regelung – aktuell nur noch
 Mo/Mi Xspecter, ca. 3,5–4 Std. Die Autoaufbereitung-Idee ist endgültig vom Tisch.
 
+**20.09.2026 – erledigt:** Unterlagen nach über einem Jahr an Martin Brehm zurückgegeben,
+mit ehrlicher Nachricht (eigener Fehler benannt, nicht schöngeredet). Erster konkreter Beleg
+fürs Kernbild "einer der zu dem steht, was er sagt".
+
 ## Aktuelle Disziplin-Challenge: 30 Tage kein Koffein
 
 **Start:** 15.09.2026 · **Ende (geplant):** ca. 14.10.2026 · heute: Tag 4/30
