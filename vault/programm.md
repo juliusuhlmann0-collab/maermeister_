@@ -21,17 +21,22 @@ Bizeps 5 Sätze, Serratus 2. Gesamtzeit inkl. Aufwärmen ca. 50 Min. Ehrlich: we
 etwas langsamerer Fortschritt als mit 3–4 Sätzen, aber immer noch effektiv – besser konsequent
 bei 2–3 als bei 4 unregelmäßig, weil's zu lang dauert.
 
-| Übung | Sätze | Wdh-Bereich | Pause | Warum |
-|---|---|---|---|---|
-| Bankdrücken (flach/leichte Schräge) | 3 | 5–8 | 120s | Compound, Kraftbasis |
-| Schrägbankdrücken (Kurzhantel, 30°) | 3 | 8–12 | 90s | obere Brust, große ROM |
-| Kabel-Fliegende (tief → hoch) | 2 | 10–15 | 60s | Dehnung unter Last = mehr Wachstumsreiz |
-| Schulterdrücken (Kurzhantel) | 3 | 6–10 | 90s | Compound Schulter |
-| Seitheben (Kabel oder lehnend) | 3 | 12–15 | 60s | wichtigster Einzel-Hebel für Schulterbreite |
-| Bizeps-Curls (Schrägbank, hängender Arm) | 3 | 8–12 | 60s | Bizeps in Dehnung = mehr Reiz als Standard-Curl |
-| Hammer-Curls | 2 | 10–12 | 60s | Brachialis/Unterarm-Dicke |
-| Serratus (Cable Pullover m. Rotation) | 2 | 12–15 | 45s | Definition seitlich am Brustkorb |
-| **Cardio-Finish** | 10–15 min | moderat | – | Ausdauer |
+Wunsch nach Körpergewichtsübungen: Dips statt Kabel-Fliegende eingebaut (gleichwertig oder
+besser für Brust, plus Trizeps gratis mit). Liegestütze sind bei Zeitdruck/ohne Gym eine
+Notlösung für Bankdrücken, aber im Studio bringt die Langhantel mehr, deshalb nicht extra
+eingeplant. Klimmzüge sind schon Teil vom Freitag-Rücken-Tag.
+
+| Übung | Sätze×Wdh | Pause | Ausführung |
+|---|---|---|---|
+| Bankdrücken (flach/leichte Schräge) | 3×5–8 | 120s | Schulterblätter zusammen & fixiert, Füße fest am Boden, Stange zur unteren Brust, Ellbogen ~45° zum Körper, kontrolliert runter, kraftvoll hoch. |
+| Schrägbankdrücken (Kurzhantel, 30°) | 3×8–12 | 90s | Bank auf 30° (nicht steiler). KH bis Brusthöhe absenken, volle Dehnung unten spüren, oben nicht ganz durchdrücken – Spannung halten. |
+| Dips (Oberkörper leicht vorgebeugt) | 2×8–15 | 60s | Körpergewicht, trifft Brust unten/außen + Trizeps mit. Oberkörper nach vorne lehnen (mehr Brust), unten bis zur vollen Dehnung absenken, nicht zu tief bei Schulterproblemen, kontrolliert hoch. Zu leicht? Mit Gewichtgurt/Kurzhantel zwischen den Füßen beschweren. |
+| Schulterdrücken (Kurzhantel) | 3×6–10 | 90s | KH starten auf Schulterhöhe, gerade nach oben drücken (kein Hohlkreuz), oben nicht ganz einrasten, Rumpf angespannt. |
+| Seitheben (Kabel oder lehnend) | 3×12–15 | 60s | Leichte Ellbogenbeugung, Arme seitlich bis Schulterhöhe (nicht höher), Bewegung führt vom Ellbogen aus, kein Schwung. |
+| Bizeps-Curls (Schrägbank, hängender Arm) | 3×8–12 | 60s | Rücken auf 45–60°-Schrägbank, Arme hängen frei nach hinten/unten, volle Streckung unten spüren, Ellbogen fixiert, langsam ablassen. |
+| Hammer-Curls | 2×10–12 | 60s | Neutralgriff (Handflächen zueinander), Ellbogen am Körper fixiert, kontrolliert, kein Schwung. |
+| Serratus (Cable Pullover m. Rotation) | 2×12–15 | 45s | Arm gestreckt über Kopf am Kabel, nach unten/seitlich ziehen mit Rumpfrotation, am Ende bewusst die Rippen "runterziehen"/anspannen. |
+| **Cardio-Finish** | 10–15 min | – | Moderates Tempo, nicht ans Limit – ist Zugabe nach dem Krafttraining. |
 
 **Getränk/Auffüllen:** während dem Training normales Wasser (keine Ausdauereinheit, die
 Extra-Kohlenhydrate bräuchte). Danach, innerhalb ~30–60 Min, Eiweiß + etwas Kohlenhydrat –
