@@ -45,12 +45,27 @@ passiert: ärztlich abklären lassen, nicht nur weiter analysieren.
 
 **9-Uhr-Pause (Omi):** 3 Eier + 1 Nutella-Hörnchen – guter Eiweiß-Anteil durch die Eier.
 
+## Morgenroutine (fester Ablauf, 20.09.2026 festgelegt)
+
+1. Aufstehen (5:20)
+2. 0,5 L Wasser trinken
+3. Magnesium + Kreatin (5g) nehmen
+4. Vor Frühstück essen (Nr. 1 aus [ernaehrung.md](ernaehrung.md): Schoko-Reiswaffeln + Banane)
+5. Zähne putzen
+
+**Kreatin:** 5g/Tag, Timing egal (sättigt sich über Zeit im Muskel, tägliche Konsistenz zählt
+mehr als Uhrzeit) – einfach immer zur Morgenroutine dazu, dann wird's nicht vergessen.
+
+## Abendroutine
+
+- Sachen für den nächsten Tag fertig packen (Arbeit/Gym-Tasche etc.), immer am Vorabend.
+
 ## Tägliche Basics (Teil vom Morgen-Check-in)
 
 Kurzer Habit-Check, keine große Sache – einfach ja/nein beim Morgen-Check-in.
 
-| Datum | Wasser getrunken | Magnesium | Notiz |
-|---|---|---|---|
+| Datum | Wasser 0,5L | Magnesium | Kreatin | Zeug gepackt (Vorabend) | Notiz |
+|---|---|---|---|---|---|
 
 ## Laufendes Log (manuelle Kurz-Einträge)
 
