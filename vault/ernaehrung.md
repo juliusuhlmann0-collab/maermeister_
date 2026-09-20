@@ -22,28 +22,45 @@ nach 1–2 Wochen anhand des tatsächlichen Gewichtsverlaufs nachjustiert.
 Gewicht um mehr als ~0,7 kg/Woche: etwas mehr essen (Kraft/Erholung leiden sonst). Bewegt sich
 nichts nach 2 Wochen: Kalorien um ~150 kcal senken.
 
-## Nummern-Legende (zum Aufschreiben/Durchgeben)
+## Nummern-Legende (Position + Buchstabe)
 
-Einfach die Nummer(n) durchgeben, z. B. "1, 3" an einem normalen Tag oder "1, 2, 5" an einem
-Trainingstag – ich weiß dann genau, was gemeint ist.
+Position ist immer fest, Buchstabe ist die gewählte Variante: **1 = Vor Frühstück, 2 = Frühstück,
+3 = Pre-Workout, 4 = Hunger-Snack (flexibel)**. Durchgeben z. B. "1b, 2a" an einem normalen Tag
+oder "1a, 2c, 3b" an einem Trainingstag.
 
-| Nr. | Was, genau | kcal |
+**1 – Vor Frühstück**
+
+| Var. | Was, genau | kcal |
 |---|---|---|
-| 1 | Vor Frühstück: 3 Stück Schoko-Reiswaffeln + 1 Banane (mittelgroß, ~120g) | 270 |
-| 1b | Vor Frühstück: 150g Magerquark pur (evtl. Zimt) | 80, davon 18g Eiweiß – sättigt sehr gut fürs Defizit |
-| 1c | Vor Frühstück: 2 gekochte Eier (am Vorabend vorkochen) | 140, davon 12g Eiweiß – kein Kochen morgens nötig |
-| 1d | Vor Frühstück: 1 Apfel | 90 – viel Volumen/Ballaststoffe, sehr wenig kcal |
-| 2 | Frühstück: 250g Magerquark/Skyr + 40g Haferflocken + 100g Beeren | 430 |
-| 3 | Frühstück: 3 Eier + 1 Scheibe Vollkornbrot (~40g) | 380 |
-| 4 | Frühstück: 50g Haferflocken + 150g Magerquark/Skyr + 100ml Milch + 100g Obst | 450 |
-| 5 | Pre-Workout: 2 Stück Reiswaffeln (natur) + 1 Banane | 140 |
-| 6 | Pre-Workout: 3 Stück Datteln | 70 |
-| 7 | Pre-Workout: 1 Müsliriegel (Standardgröße, ~30g) | 130 |
-| 8 | Hunger-Snack, jederzeit (z. B. bei der Arbeit): 1 Apfel | 90 |
-| 9 | Hunger-Snack, jederzeit: kleine Hand Mandeln (~20g) | 115 |
+| a | 3 Stück Schoko-Reiswaffeln + 1 Banane (mittelgroß) | 270 |
+| b | 150g Magerquark pur (evtl. Zimt) | 80 (18g Eiweiß – sättigt am besten) |
+| c | 2 gekochte Eier (am Vorabend vorkochen) | 140 (12g Eiweiß) |
+| d | 1 Apfel | 90 (viel Volumen, kaum kcal) |
 
-Nr. 8/9 sind flexibel, kein fester Zeitpunkt – bei Hunger zwischendurch einfach dazu, passt
-locker mit ins Kalorienbudget. Im Defizit ist mehr Hungergefühl normal, kein Alarmsignal.
+**2 – Frühstück (9-Uhr-Pause)**
+
+| Var. | Was, genau | kcal |
+|---|---|---|
+| a | 250g Magerquark/Skyr + 40g Haferflocken + 100g Beeren | 430 |
+| b | 3 Eier + 1 Scheibe Vollkornbrot (~40g) | 380 |
+| c | 50g Haferflocken + 150g Magerquark/Skyr + 100ml Milch + 100g Obst | 450 |
+
+**3 – Pre-Workout (nur Di/Fr)**
+
+| Var. | Was, genau | kcal |
+|---|---|---|
+| a | 2 Stück Reiswaffeln (natur) + 1 Banane | 140 |
+| b | 3 Stück Datteln | 70 |
+| c | 1 Müsliriegel (~30g) | 130 |
+
+**4 – Hunger-Snack (jederzeit, flexibel)**
+
+| Var. | Was, genau | kcal |
+|---|---|---|
+| a | 1 Apfel | 90 |
+| b | kleine Hand Mandeln (~20g) | 115 |
+
+Mehr Hungergefühl im Defizit ist normal, kein Alarmsignal – dafür ist 4 da.
 ## Frühstücks-Optionen (zwei Zeitpunkte)
 
 **Direkt nach dem Aufstehen (5:20, klein, empfindlicher Magen berücksichtigt):**
