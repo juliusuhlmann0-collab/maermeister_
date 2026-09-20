@@ -28,6 +28,7 @@ nichts nach 2 Wochen: Kalorien um ~150 kcal senken.
 |---|---|---|
 | A | Banane + kleine Hand Nüsse | 200 kcal / 5 g |
 | B | 2 Reiswaffeln mit Honig | 150 kcal / 2 g |
+| C | 3 Schoko-Reiswaffeln (Vollmilch) | 165 kcal / 2 g (Werte typisch, Packung checken) |
 
 Shake verträgt er nicht, deshalb raus – Optionen A/B reichen für den kleinen ersten Happen.
 
