@@ -33,7 +33,7 @@ eingeplant. Klimmzüge sind schon Teil vom Freitag-Rücken-Tag.
 | Dips (Oberkörper leicht vorgebeugt) | 2×8–15 | 60s | Körpergewicht, trifft Brust unten/außen + Trizeps mit. Oberkörper nach vorne lehnen (mehr Brust), unten bis zur vollen Dehnung absenken, nicht zu tief bei Schulterproblemen, kontrolliert hoch. Zu leicht? Mit Gewichtgurt/Kurzhantel zwischen den Füßen beschweren. |
 | Schulterdrücken (Kurzhantel) | 3×6–10 | 90s | KH starten auf Schulterhöhe, gerade nach oben drücken (kein Hohlkreuz), oben nicht ganz einrasten, Rumpf angespannt. |
 | Seitheben (Kabel oder lehnend) | 3×12–15 | 60s | Leichte Ellbogenbeugung, Arme seitlich bis Schulterhöhe (nicht höher), Bewegung führt vom Ellbogen aus, kein Schwung. |
-| Bizeps-Curls (Schrägbank, hängender Arm) | 3×8–12 | 60s | Rücken auf 45–60°-Schrägbank, Arme hängen frei nach hinten/unten, volle Streckung unten spüren, Ellbogen fixiert, langsam ablassen. |
+| Bizeps-Curls (Seil/Kabel, Schrägbank) | 3×8–12 | 60s | Rücken auf 45–60°-Schrägbank vor dem Kabelzug (tief eingehängt), Arme hängen frei nach hinten/unten. Kabel hält die Spannung auch in der vollen Dehnung, anders als bei Hanteln. Ellbogen fixiert, langsam ablassen. |
 | Hammer-Curls | 2×10–12 | 60s | Neutralgriff (Handflächen zueinander), Ellbogen am Körper fixiert, kontrolliert, kein Schwung. |
 | Serratus (Cable Pullover m. Rotation) | 2×12–15 | 45s | Arm gestreckt über Kopf am Kabel, nach unten/seitlich ziehen mit Rumpfrotation, am Ende bewusst die Rippen "runterziehen"/anspannen. |
 | **Cardio-Finish** | 10–15 min | – | Moderates Tempo, nicht ans Limit – ist Zugabe nach dem Krafttraining. |
