@@ -30,6 +30,9 @@ Trainingstag – ich weiß dann genau, was gemeint ist.
 | Nr. | Was, genau | kcal |
 |---|---|---|
 | 1 | Vor Frühstück: 3 Stück Schoko-Reiswaffeln + 1 Banane (mittelgroß, ~120g) | 270 |
+| 1b | Vor Frühstück: 150g Magerquark pur (evtl. Zimt) | 80, davon 18g Eiweiß – sättigt sehr gut fürs Defizit |
+| 1c | Vor Frühstück: 2 gekochte Eier (am Vorabend vorkochen) | 140, davon 12g Eiweiß – kein Kochen morgens nötig |
+| 1d | Vor Frühstück: 1 Apfel | 90 – viel Volumen/Ballaststoffe, sehr wenig kcal |
 | 2 | Frühstück: 250g Magerquark/Skyr + 40g Haferflocken + 100g Beeren | 430 |
 | 3 | Frühstück: 3 Eier + 1 Scheibe Vollkornbrot (~40g) | 380 |
 | 4 | Frühstück: 50g Haferflocken + 150g Magerquark/Skyr + 100ml Milch + 100g Obst | 450 |
