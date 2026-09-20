@@ -9,7 +9,7 @@
 | | Wert |
 |---|---|
 | Größe | ca. 1,69 m |
-| Gewicht | *(nicht bekannt)* |
+| Gewicht | ca. 69,5 kg (20.09.2026) → BMI ~24,3, normal |
 | Foto | [front](fotos/2026-09-18/front.webp) · [seitlich 1](fotos/2026-09-18/seitlich-1.webp) · [rücken](fotos/2026-09-18/ruecken.webp) · [seitlich 2](fotos/2026-09-18/seitlich-2.webp) |
 
 ## Verlauf
