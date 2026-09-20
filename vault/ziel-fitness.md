@@ -20,3 +20,9 @@ sichtbar, kein Diät-Bedarf → leichter Kalorienüberschuss für den Aufbau sin
 fürs Aussehen: Rücken-/Schulterbreite (passt zum Freitag-Rücken-Tag). Brust/Arme proportional,
 aber noch ausbaufähig (Dienstag-Tag). Bauchdefinition eher halten als verändern.
 Gewicht: noch nicht bekannt, folgt sobald Waage verfügbar.
+
+**20.09.2026 – Zwischenziel Barcelona:** Spanien-Trip (Siemens, KW43/44, ca. 19.–30.10.) ist nur
+noch ~4 Wochen entfernt. Plan geändert: statt weiter aufzubauen, jetzt bis dahin moderates
+Kaloriendefizit für mehr sichtbare Definition ("Kanten"), Training unverändert, Eiweiß hoch
+halten. Nach Barcelona: zurück zu Aufbau/Überschuss neu bewerten. Ohne bekanntes Gewicht nur
+Faustregeln möglich (Portionen kleiner, Extras reduzieren, Eiweiß bei jeder Mahlzeit).
