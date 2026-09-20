@@ -11,9 +11,12 @@ ist, ich setz das Häkchen (`- [ ]` → `- [x]`).
       dem Unfall ansprechen (Gedächtnisprobleme, Fast-Ohnmacht beim Radfahren am 20.09. – siehe
       [gesundheit.md](gesundheit.md) und [ziel-identitaet.md](ziel-identitaet.md)), nicht nur
       den Unfall selbst – für die Versicherung zählt das vollständige Bild.
-- [ ] Krankenwagen-Rechnung – ist bei einem Inkasso gelandet, laut ihm nicht seine Schuld,
-      wird gerade geklärt. **Offen: gibt es eine Frist, bis wann geantwortet werden muss?**
-      Falls ja, das hat Vorrang vor den anderen Punkten.
+- [ ] Krankenwagen-Rechnung (Rotes Kreuz) – Rechnung ging an falsche Adresse (Fehler beim
+      Roten Kreuz, nicht bei ihm), deshalb Inkasso-Verfahren. Rotes Kreuz hat mündlich bereits
+      bestätigt, dass es nicht sein Verschulden ist – **wird gerade geklärt, ob das auch
+      schriftlich vorliegt**. Schriftliche Bestätigung ans Inkassobüro weiterleiten, damit das
+      Verfahren offiziell eingestellt wird (mündlich reicht dafür nicht).
+      **Offen: gibt es eine Frist vom Inkassobüro, bis wann reagiert werden muss?**
 - [ ] Lohn Abrechnungen sortieren
 - [ ] Papier Zimmer weg
 
