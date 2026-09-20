@@ -11,8 +11,8 @@ ist, ich setz das Häkchen (`- [ ]` → `- [x]`).
       dem Unfall ansprechen (Gedächtnisprobleme, Fast-Ohnmacht beim Radfahren am 20.09. – siehe
       [gesundheit.md](gesundheit.md) und [ziel-identitaet.md](ziel-identitaet.md)), nicht nur
       den Unfall selbst – für die Versicherung zählt das vollständige Bild.
-- [ ] Krankenwagen-Rechnung (Rotes Kreuz) – Rechnung ging an falsche Adresse (Fehler beim
-      Roten Kreuz, nicht bei ihm), deshalb Inkasso-Verfahren. Rotes Kreuz hat mündlich bereits
+- [ ] Krankenwagen-Rechnung (Rotes Kreuz) – Rechnung ging per E-Mail an falsche Adresse (Fehler
+      beim Roten Kreuz, nicht bei ihm), deshalb Inkasso-Verfahren. Rotes Kreuz hat mündlich bereits
       bestätigt, dass es nicht sein Verschulden ist – **wird gerade geklärt, ob das auch
       schriftlich vorliegt**. Schriftliche Bestätigung ans Inkassobüro weiterleiten, damit das
       Verfahren offiziell eingestellt wird (mündlich reicht dafür nicht).
