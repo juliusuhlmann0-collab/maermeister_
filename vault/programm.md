@@ -1,7 +1,11 @@
 # Trainingsplan
 
-**Ziel:** so viel Muskelaufbau wie möglich, bis eine solide Kraftgrundlage steht.
+**Ziel:** so viel Muskelaufbau wie möglich, bis eine solide Kraftgrundlage steht – mit Fokus auf
+einen definierten Körper ("viele Kanten"), nicht nur pure Masse.
 **Gewichtung:** 60 % Körper (Ästhetik/Volumen) · 40 % Leistung (Kraft).
+**Ehrlicher Punkt (20.09.2026):** "Kanten" entscheidet primär die Ernährung (Körperfettanteil),
+nicht die Übungsauswahl – Training formt den Muskel, Ernährung macht ihn sichtbar. `ernaehrung.md`
+ist noch leer, das ist aktuell der größere Hebel als jede Anpassung hier im Plan.
 **Frequenz (final, ab 20.09.2026):** Dienstag + Freitag Gym, dazu jeweils ein kurzes
 Cardio-Finish direkt nach dem Training (10–15 min, moderat). Sonntag zusätzlich Radfahren
 für die Grundlagenausdauer.
@@ -21,6 +25,7 @@ hier steht nur die Struktur.
 | Butterfly / Cable Crossover | 3 | 10–15 | Ästhetik |
 | Bizeps-Curls | 3 | 8–12 | Aufbau |
 | Hammer-Curls | 2–3 | 10–12 | Aufbau |
+| Serratus (Cable Pullover m. Rotation) | 3 | 12–15 | Definition |
 | **Cardio-Finish** | 10–15 min | moderat | Ausdauer |
 
 ## Freitag – Rücken, hintere Schulter, Trizeps, Unterarme, Bauch
@@ -33,7 +38,7 @@ hier steht nur die Struktur.
 | Face Pulls / Reverse Butterfly | 3 | 12–15 | Ästhetik/Gesundheit |
 | Trizeps-Drücken | 3 | 8–12 | Aufbau |
 | Unterarm-Curls | 2–3 | 12–15 | Aufbau |
-| Bauch | 3 | 12–20 | Aufbau |
+| Bauch (mit Zusatzgewicht) | 3 | 12–20 | Definition |
 | **Cardio-Finish** | 10–15 min | moderat | Ausdauer |
 
 ## Sonntag – Radfahren
