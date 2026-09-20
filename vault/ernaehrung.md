@@ -42,16 +42,21 @@ Shake verträgt er nicht, deshalb raus – A/B/C reichen für Abwechslung beim k
 
 ## Wochenplan (Rotation für Abwechslung)
 
-| Tag | Vor Frühstück | Frühstück (9 Uhr) | kcal gesamt |
-|---|---|---|---|
-| Montag | A – Banane + Nüsse | A – Quark + Haferflocken + Beeren | 630 |
-| Dienstag | B – Reiswaffeln + Honig | B – 3 Eier + Brot | 530 |
-| Mittwoch | C – Schoko-Reiswaffeln + Banane | C – Overnight Oats + Obst | 720 |
-| Donnerstag | A – Banane + Nüsse | B – 3 Eier + Brot | 580 |
-| Freitag | B – Reiswaffeln + Honig | A – Quark + Haferflocken + Beeren | 580 |
+| Tag | Vor Frühstück (fix) | Frühstück (9 Uhr) | Pre-Workout | kcal gesamt |
+|---|---|---|---|---|
+| Montag | Schoko-Reiswaffeln + Banane | A – Quark + Haferflocken + Beeren | – | 700 |
+| Dienstag | Schoko-Reiswaffeln + Banane | B – 3 Eier + Brot | 2 Reiswaffeln + Banane | 790 |
+| Mittwoch | Schoko-Reiswaffeln + Banane | C – Overnight Oats + Obst | – | 720 |
+| Donnerstag | Schoko-Reiswaffeln + Banane | B – 3 Eier + Brot | – | 650 |
+| Freitag | Schoko-Reiswaffeln + Banane | A – Quark + Haferflocken + Beeren | 2 Reiswaffeln + Banane | 840 |
 
-Einfach der Reihe nach durchgehen, Reihenfolge ist beliebig tauschbar – Hauptsache Abwechslung
-statt jeden Tag dasselbe.
+Vor Frühstück ist jetzt fix (Schoko-Reiswaffeln + Banane, 270 kcal), keine Rotation mehr dort.
+Frühstück (9 Uhr) rotiert weiter für Abwechslung. Pre-Workout nur an Trainingstagen (Di/Fr),
+nicht Mittwoch – Mittwoch ist dein Vollpacker-Tag ohne Training.
+
+**Pre-Workout-Snack (Di/Fr, kein Kühlschrank nötig):** 2 Reiswaffeln + 1 Banane, ~140 kcal,
+leichte, schnelle Kohlenhydrate, nichts Schweres vor dem Training. Reiswaffeln sind eh schon
+auf der Einkaufsliste, Banane auch – kein Extra-Einkauf nötig.
 
 Zusammen ca. 350–650 kcal und 30–50 g Eiweiß für beide Frühstücke, je nach Kombination –
 passt gut in die ~2.275 kcal, lässt genug Spielraum für Mittag/Abend.
