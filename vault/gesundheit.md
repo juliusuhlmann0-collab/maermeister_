@@ -29,6 +29,13 @@ Puls/Schlaf/HRV – Schritte kommen zusätzlich vom Handy, daher dort alle 31 Ta
 
 Das ist genau das Rennrad-Element aus dem Traumleben-Bild – findet also schon real statt.
 
+## Tägliche Basics (Teil vom Morgen-Check-in)
+
+Kurzer Habit-Check, keine große Sache – einfach ja/nein beim Morgen-Check-in.
+
+| Datum | Wasser getrunken | Magnesium | Notiz |
+|---|---|---|---|
+
 ## Laufendes Log (manuelle Kurz-Einträge)
 
 | Datum | Schlaf (h) | Schritte | Ruhepuls | Aktive kcal | Notiz |
