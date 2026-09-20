@@ -16,17 +16,25 @@ hier steht nur die Struktur.
 
 ## Dienstag – Brust, Schultern, Bizeps
 
-| Übung | Sätze | Wdh-Bereich | Warum |
-|---|---|---|---|
-| Bankdrücken (flach/leichte Schräge) | 4 | 5–8 | Compound, Kraftbasis |
-| Schrägbankdrücken (Kurzhantel, 30°) | 3 | 8–12 | obere Brust, große ROM |
-| Kabel-Fliegende (tief → hoch) | 3 | 10–15 | Dehnung unter Last = mehr Wachstumsreiz |
-| Schulterdrücken (Kurzhantel) | 3–4 | 6–10 | Compound Schulter |
-| Seitheben (Kabel oder lehnend) | 4 | 12–15 | wichtigster Einzel-Hebel für Schulterbreite |
-| Bizeps-Curls (Schrägbank, hängender Arm) | 3 | 8–12 | Bizeps in Dehnung = mehr Reiz als Standard-Curl |
-| Hammer-Curls | 2–3 | 10–12 | Brachialis/Unterarm-Dicke |
-| Serratus (Cable Pullover m. Rotation) | 3 | 12–15 | Definition seitlich am Brustkorb |
-| **Cardio-Finish** | 10–15 min | moderat | Ausdauer |
+Volumen: Brust 10 Sätze, Schulter 8 Sätze, Bizeps 6 Sätze, Serratus 3. Gesamtzeit inkl.
+Aufwärmen ca. 70 Min. Falls es knapp wird: zuerst Serratus streichen, dann Hammer-Curls –
+die Compound-Übungen (Bankdrücken, Schulterdrücken) bleiben immer drin.
+
+| Übung | Sätze | Wdh-Bereich | Pause | Warum |
+|---|---|---|---|---|
+| Bankdrücken (flach/leichte Schräge) | 4 | 5–8 | 120s | Compound, Kraftbasis |
+| Schrägbankdrücken (Kurzhantel, 30°) | 3 | 8–12 | 90s | obere Brust, große ROM |
+| Kabel-Fliegende (tief → hoch) | 3 | 10–15 | 60s | Dehnung unter Last = mehr Wachstumsreiz |
+| Schulterdrücken (Kurzhantel) | 4 | 6–10 | 90s | Compound Schulter |
+| Seitheben (Kabel oder lehnend) | 4 | 12–15 | 60s | wichtigster Einzel-Hebel für Schulterbreite |
+| Bizeps-Curls (Schrägbank, hängender Arm) | 3 | 8–12 | 60s | Bizeps in Dehnung = mehr Reiz als Standard-Curl |
+| Hammer-Curls | 3 | 10–12 | 60s | Brachialis/Unterarm-Dicke |
+| Serratus (Cable Pullover m. Rotation) | 3 | 12–15 | 45s | Definition seitlich am Brustkorb |
+| **Cardio-Finish** | 10–15 min | moderat | – | Ausdauer |
+
+**Getränk/Auffüllen:** während dem Training normales Wasser (keine Ausdauereinheit, die
+Extra-Kohlenhydrate bräuchte). Danach, innerhalb ~30–60 Min, Eiweiß + etwas Kohlenhydrat –
+z. B. Shake mit Banane oder Schokomilch.
 
 ## Freitag – Rücken, hintere Schulter, Trizeps, Unterarme, Bauch
 
