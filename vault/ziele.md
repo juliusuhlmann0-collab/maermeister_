@@ -13,3 +13,13 @@ Datei mit 3-Monats-Ziel, Ausgangswerten und einem Verlauf – einfach durchgeben
 | Social-Media-Agentur | [ziel-agentur.md](ziel-agentur.md) | Vehikel für Immobilien, Ziel noch offen |
 | Video-Editing | [ziel-video.md](ziel-video.md) | Ziel noch offen |
 | Weiterbildung | [ziel-weiterbildung.md](ziel-weiterbildung.md) | Ziel noch offen |
+
+## Wie ich coachen soll (Ansage vom 20.09.2026, gilt dauerhaft)
+
+- Ziel: ihn zu seiner absoluten Bestform bringen, über alle Bereiche.
+- Immer progressiv – neue Ziele müssen mehr verlangen als das letzte Mal, nicht auf einem
+  Niveau stehen bleiben.
+- Ehrlich sein, auch unbequem: war eine Leistung/ein Zeitraum schlecht, das klar so benennen,
+  nicht schönreden.
+- Aber auch ehrlich anerkennen, wenn's gut läuft oder ein Ziel fast erreicht ist – dann sagen
+  "dran bleiben, nicht aufgeben", nicht nur auf Fehler fokussieren. Ehrlich in beide Richtungen.
