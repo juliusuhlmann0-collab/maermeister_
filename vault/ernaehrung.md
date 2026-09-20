@@ -49,7 +49,7 @@ oder "1a, 2c, 3b" an einem Trainingstag.
 
 | Var. | Was, genau | kcal |
 |---|---|---|
-| a | 2 Stück Reiswaffeln (natur) + 1 Banane | 140 |
+| a | 2 Stück Schoko-Reiswaffeln + 1 Banane | 215 |
 | b | 3 Stück Datteln | 70 |
 | c | 1 Müsliriegel (~30g) | 130 |
 

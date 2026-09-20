@@ -26,3 +26,5 @@ Datei mit 3-Monats-Ziel, Ausgangswerten und einem Verlauf – einfach durchgeben
 - Immer konkrete Ergebnisse liefern, nicht nur diskutieren/analysieren. Am Ende jeder Frage muss
   eine klare, direkt umsetzbare Antwort stehen (z. B. "was mache ich heute" → fertiger Plan,
   nicht nur Optionen zum Abwägen).
+- Nach jeder Änderung immer das komplette, aktuelle Ergebnis zeigen, nicht nur den geänderten
+  Ausschnitt – er will nicht raten müssen, wie der Gesamtstand jetzt aussieht.
