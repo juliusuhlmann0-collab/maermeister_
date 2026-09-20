@@ -20,6 +20,21 @@ Wert – wird nach 1–2 Wochen anhand des tatsächlichen Gewichtsverlaufs nachj
 Gewicht um mehr als ~0,7 kg/Woche: etwas mehr essen (Kraft/Erholung leiden sonst). Bewegt sich
 nichts nach 2 Wochen: Kalorien um ~150 kcal senken.
 
+## Nummern-Legende (zum Aufschreiben/Durchgeben)
+
+Einfach die Nummer(n) durchgeben, z. B. "1, 3" an einem normalen Tag oder "1, 2, 5" an einem
+Trainingstag – ich weiß dann genau, was gemeint ist.
+
+| Nr. | Was | kcal |
+|---|---|---|
+| 1 | Vor Frühstück: 3 Schoko-Reiswaffeln + Banane | 270 |
+| 2 | Frühstück: Magerquark/Skyr + Haferflocken + Beeren | 430 |
+| 3 | Frühstück: 3 Eier + 1 Scheibe Vollkornbrot | 380 |
+| 4 | Frühstück: Overnight Oats + Obst | 450 |
+| 5 | Pre-Workout: 2 Reiswaffeln + Banane | 140 |
+| 6 | Pre-Workout: 3 Datteln | 70 |
+| 7 | Pre-Workout: 1 Müsliriegel | 130 |
+
 ## Frühstücks-Optionen (zwei Zeitpunkte)
 
 **Direkt nach dem Aufstehen (5:20, klein, empfindlicher Magen berücksichtigt):**
