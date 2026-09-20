@@ -14,10 +14,7 @@ ist, ich setz das Häkchen (`- [ ]` → `- [x]`).
 - [ ] Krankenwagen-Rechnung (Rotes Kreuz) – Rechnung ging postalisch an falsche Adresse (Fehler
       beim Roten Kreuz, nicht bei ihm), deshalb Inkasso-Verfahren. Rotes Kreuz hat mündlich bereits
       bestätigt, dass es nicht sein Verschulden ist – wird aktuell nochmal direkt beim Roten
-      Kreuz verifiziert/nachgefragt. Sobald schriftlich bestätigt: ans Inkassobüro weiterleiten,
-      damit das Verfahren offiziell eingestellt wird (mündlich reicht dafür nicht).
-      **Offen: gibt es eine Frist vom Inkassobüro, bis wann reagiert werden muss?** (steht meist
-      oben auf dem Inkasso-Brief als Datum)
+      Kreuz verifiziert/nachgefragt, ist auf gutem Weg und wird von ihm selbst gehandhabt.
 - [ ] Lohn Abrechnungen sortieren
 - [ ] Papier Zimmer weg
 
