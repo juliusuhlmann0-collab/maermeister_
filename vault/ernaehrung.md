@@ -122,5 +122,12 @@ passt gut in die ~2.400 kcal, lässt genug Spielraum für Mittag/Abend.
 
 ## Log
 
+**Neu entdeckt (21.09.2026):** Zepp trackt jetzt offenbar auch Ernährung (dietary_energy,
+protein, carbohydrates, total_fat), synct über Apple Health mit in die Drive-Exports. Zusätzlich
+zum 1a/2a/3a-Code-System eine zweite, automatische Quelle – falls du in Zepp selbst loggst,
+sehe ich es beim Morgen-Check-in mit.
+
 | Datum | Mahlzeit | Was | Notiz/Verbesserungsvorschlag |
 |---|---|---|---|
+| 21.09.2026 | Vor Frühstück | 1 Schoko-Reiswaffel + 1 Banane (160 kcal) | Kleinere Portion als der geplante 1a (3 Stück/270 kcal) |
+| 21.09.2026 | Frühstück (9 Uhr) | 2 Wiener Würstchen (Schwein) + 1 Putenbratwurst + 1 Brötchen (618 kcal, 42g Eiweiß, 38,5g Fett) | Viel Eiweiß, aber auch schon 38,5g von ~70g Tages-Fett in einer Mahlzeit – Mittag/Abend lieber fettärmer halten |
