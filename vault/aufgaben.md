@@ -18,6 +18,13 @@ ist, ich setz das Häkchen (`- [ ]` → `- [x]`).
 - [ ] Lohn Abrechnungen sortieren
 - [ ] Papier Zimmer weg
 
+## Für morgen (22.09.2026)
+
+- [ ] Mail-Adressen von Heikos Eltern hinzufügen (wozu genau, noch nicht näher erklärt)
+- [ ] Video-Ideen konkretisieren, in eine Datei packen → gehört zu [ziel-video.md](ziel-video.md),
+      Ziel: ready zum Filmen
+- [ ] Konkrete Ziele besprechen (Immobilien, Agentur, Video, Weiterbildung – siehe [ziele.md](ziele.md))
+
 ## Sonstige
 
 - [ ] Reifen auffüllen
