@@ -132,4 +132,4 @@ sehe ich es beim Morgen-Check-in mit.
 | 21.09.2026 | Vor Frühstück | 1 Schoko-Reiswaffel + 1 Banane (160 kcal) | Kleinere Portion als der geplante 1a (3 Stück/270 kcal) |
 | 21.09.2026 | Frühstück (9 Uhr) | 2 Wiener Würstchen (Schwein) + 1 Putenbratwurst + 1 Brötchen (618 kcal, 42g Eiweiß, 38,5g Fett) | Viel Eiweiß, aber auch schon 38,5g von ~70g Tages-Fett in einer Mahlzeit – Mittag/Abend lieber fettärmer halten |
 | 21.09.2026 | Abend (Zepp, 20:11/20:12) | 2 Mahlzeiten, zusammen 610+450 kcal, 34,6g+25g Eiweiß, 20,4g+15g Fett (noch nicht identifiziert, was genau) | – |
-| 21.09.2026 | Snack | 1 Schoko-Reiswaffel + 4 Mini-Salami-Sticks (235 kcal, 10g Eiweiß, 18,6g Fett, geschätzt) | Tagesfett damit auf ~95g von 70g Ziel – deutlich drüber heute |
+| 21.09.2026 | Snack | 1 Schoko-Reiswaffel + 4 Aoste Stickado Classique Salami-Sticks (235 kcal, 10g Eiweiß, 18,6g Fett, geschätzt – Etikett nicht fotografiert) | Tagesfett damit auf ~95g von 70g Ziel – deutlich drüber heute |
