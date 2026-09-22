@@ -11,6 +11,17 @@ das hat die App so angelegt, nicht der ursprünglich von mir erstellte leere Ord
 JSON pro Tag, ich schau da beim 5:25-Morgen-Check-in selbst rein.
 **Fallback, falls doch mal nötig:** ZIP manuell schicken, wie bisher.
 
+**Bekannte Schwäche (22.09.2026 entdeckt):** die Uhr unterschätzt vermutlich die Kalorien bei
+Siemens deutlich. Am 22.09. zeigte "active_energy" für die volle Schicht (6:10–14:30, 8h20min)
+nur 240 kcal – bei durchgehend erhöhtem Puls (Ø 92 bpm) und 6.233 Schritten wirkt das zu niedrig.
+Grund: Aktivitäts-Algorithmen sind auf erkennbare Bewegungsmuster (Gehen, Laufen, Radfahren)
+trainiert, nicht auf stehende Dauerbelastung mit viel Handarbeit (Kabel verlegen/verbiegen,
+Bauteile einbauen) – genau das, was den Siemens-Job laut TDEE-Einstufung zu "sehr aktiv" macht.
+Grobe MET-Schätzung für die Schicht: 600–1.500 kcal netto aktiv (statt 240 kcal), je nachdem wie
+intensiv die Handarbeit an dem Tag war. Heißt: Kalorienbilanzen, die auf reinen Watch-Daten
+beruhen, sind an Arbeitstagen wahrscheinlich zu Ungunsten von Julius verzerrt (er verbrennt real
+mehr, als die Uhr zeigt) – bei der Bewertung mitdenken, nicht blind den Watch-Wert übernehmen.
+
 ## Zusammenfassung 21.08.–20.09.2026 (aus erstem Export)
 
 | Metrik | Wert |
