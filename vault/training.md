@@ -36,6 +36,10 @@ Zahlen sonst nicht vergleichbar sind.
 
 **Rekord:** 21 Wdh – 22.09.2026 (8 / 7 / 6)
 
+**Nächster Schritt:** sobald 3×8 (24 Wdh gesamt) bei 70 kg steht → Gewicht hoch. +2,5 kg (72,5 kg)
+falls 1,25kg-Scheiben pro Seite da sind, sonst +5 kg (75 kg) im Sprung. Kleinerer Sprung ist bei
+Bankdrücken vorzuziehen, damit die Wdh-Zahl nicht zu stark einbricht.
+
 | Datum | Sätze | Gewicht | Summe |
 |---|---|---|---|
 | 22.09.2026 | 8 / 7 / 6 | 70 kg | 21 |
