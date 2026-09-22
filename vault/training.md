@@ -70,3 +70,11 @@ Gewicht hoch, z. B. +2,5 kg pro Seite (12,5 kg/Seite Zusatz).
 | Datum | Sätze | Gewicht | Summe |
 |---|---|---|---|
 | 22.09.2026 | 8 / 6 | 20kg/Seite / 10kg/Seite | 14 |
+
+## Seitheben, Kabel
+
+**Rekord:** 10 Wdh – 22.09.2026 (10)
+
+| Datum | Sätze | Gewicht | Summe | Notiz |
+|---|---|---|---|---|
+| 22.09.2026 | 10 | 15 kg | 10 | beidseitig (links und rechts) |
