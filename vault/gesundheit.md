@@ -22,6 +22,11 @@ intensiv die Handarbeit an dem Tag war. Heißt: Kalorienbilanzen, die auf reinen
 beruhen, sind an Arbeitstagen wahrscheinlich zu Ungunsten von Julius verzerrt (er verbrennt real
 mehr, als die Uhr zeigt) – bei der Bewertung mitdenken, nicht blind den Watch-Wert übernehmen.
 
+**Zweite bekannte Schwäche:** Autofahren wird von der Uhr teils als Training/Workout erkannt
+(Vibration/Bewegung vom Fahren verwechselt der Algorithmus offenbar mit Aktivität). Bei kurzen,
+unklaren "Aktivität"-Einträgen in Zepp (vor allem wenn sie zeitlich zu einer Autofahrt passen
+könnten) im Zweifel nachfragen statt sie unhinterfragt als echtes Training zu werten.
+
 ## Zusammenfassung 21.08.–20.09.2026 (aus erstem Export)
 
 | Metrik | Wert |
