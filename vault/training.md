@@ -43,3 +43,14 @@ Bankdrücken vorzuziehen, damit die Wdh-Zahl nicht zu stark einbricht.
 | Datum | Sätze | Gewicht | Summe |
 |---|---|---|---|
 | 22.09.2026 | 8 / 7 / 6 | 70 kg | 21 |
+
+## Schrägbankdrücken, Smith-Maschine (Multipresse)
+
+**Rekord:** 36 Wdh – 22.09.2026 (12 / 12 / 12)
+
+**Nächster Schritt:** alle 3 Sätze schon oben im Zielbereich (8-12) getroffen → nächstes Mal
+Gewicht hoch, z. B. +2,5 kg pro Seite (12,5 kg/Seite Zusatz).
+
+| Datum | Sätze | Gewicht | Summe |
+|---|---|---|---|
+| 22.09.2026 | 12 / 12 / 12 | Smith-Maschine, 10 kg/Seite Zusatz | 36 |
