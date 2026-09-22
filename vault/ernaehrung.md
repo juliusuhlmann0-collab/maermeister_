@@ -44,7 +44,7 @@ oder "1a, 2c, 3b" an einem Trainingstag.
 | a | 250g Skyr (Eiweißquelle) + 40g Haferflocken (KH/Ballaststoffe) + 100g Beeren (Vitamine, wenig Zucker) | 430 |
 | b | 3 Eier + 1 Scheibe Vollkornbrot (~40g) | 380 |
 | c | 50g Haferflocken + 150g Magerquark/Skyr + 100ml Milch + 100g Obst | 450 |
-| d | 250g Arla Skyr Erdbeere + 50g ja! Schoko Müsli (30% weniger Zucker) + 60g Nektarine | ~384 (27g Eiweiß, 58g KH, **nur ~4g Fett** – geschätzt, keine Nährwerttabelle fotografiert) |
+| d | 150g Arla Skyr Erdbeere (Rest vom Becher – andere 250g gibt's am 22.09. abends) + 50g ja! Schoko Müsli (30% weniger Zucker) + 60g Nektarine | ~316 (18g Eiweiß, 51g KH, **nur ~4g Fett** – geschätzt, keine Nährwerttabelle fotografiert) |
 
 **3 – Pre-Workout (nur Di/Fr)**
 
@@ -136,6 +136,7 @@ sehe ich es beim Morgen-Check-in mit.
 | 22.09.2026 | Snack/Pre-Workout (Zepp, 14:59) | noch nicht identifiziert, was genau (115 kcal, 22g Eiweiß, 2,8g KH, 1,9g Fett – Profil wie Protein-Shake oder sehr mageres Eiweiß) | Rückfrage: was genau war das? |
 | 22.09.2026 | Abend – Eier/Speck/Käse (Zepp, 18:06) | 2 Eier mit Speckwürfeln + 2 Speckstreifen + 2 Scheiben Gouda Jungkäse 48% Fett (684 kcal, 50g Eiweiß, 1,1g KH, 51,5g Fett – Zepp-Wert, sehr genau da kaum KH drin, Brot ist hier nicht mit drin) | Fett-Wert viel höher als erste Schätzung (51,5g statt ~30g) |
 | 22.09.2026 | Abend – Toastbrot (geschätzt, nicht separat in Zepp) | 4 Scheiben Toastbrot (~280 kcal, 8g Eiweiß, 52g KH, 4g Fett, geschätzt) | – |
+| 22.09.2026 | Spät | 250g Arla Skyr Erdbeere (~170 kcal, 22,5g Eiweiß, 18,75g KH, 0,5g Fett, geschätzt) – Rest (150g) vom selben Becher ist für morgen früh (2d) eingeplant | Praktisch fettfrei, gut fürs heutige Fett-Budget – ändert am Fett-Gesamtwert kaum was |
 | 21.09.2026 | Vor Frühstück | 1 Schoko-Reiswaffel + 1 Banane (160 kcal) | Kleinere Portion als der geplante 1a (3 Stück/270 kcal) |
 | 21.09.2026 | Frühstück (9 Uhr) | 2 Wiener Würstchen (Schwein) + 1 Putenbratwurst + 1 Brötchen (618 kcal, 42g Eiweiß, 38,5g Fett) | Viel Eiweiß, aber auch schon 38,5g von ~70g Tages-Fett in einer Mahlzeit – Mittag/Abend lieber fettärmer halten |
 | 21.09.2026 | Abend (Zepp, 20:11/20:12) | 2 Mahlzeiten, zusammen 610+450 kcal, 34,6g+25g Eiweiß, 20,4g+15g Fett (noch nicht identifiziert, was genau) | – |
