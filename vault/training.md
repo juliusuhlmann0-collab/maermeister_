@@ -62,3 +62,11 @@ Gewicht hoch, z. B. +2,5 kg pro Seite (12,5 kg/Seite Zusatz).
 | Datum | Sätze | Gewicht | Summe | Notiz |
 |---|---|---|---|---|
 | 22.09.2026 | 6 / 6 / 7 | +15kg / +10kg / Körpergewicht | 19 | Gewicht pro Satz reduziert, mit Zusatzgewicht statt nur Körpergewicht (Plan sah nur Körpergewicht vor – macht aber Sinn, wenn reines Körpergewicht zu leicht wäre) |
+
+## Schulterdrücken, Kurzhantel
+
+**Rekord:** 14 Wdh – 22.09.2026 (8 / 6)
+
+| Datum | Sätze | Gewicht | Summe |
+|---|---|---|---|
+| 22.09.2026 | 8 / 6 | 20kg/Seite / 10kg/Seite | 14 |
