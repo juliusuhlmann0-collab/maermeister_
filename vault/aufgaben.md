@@ -20,7 +20,7 @@ ist, ich setz das Häkchen (`- [ ]` → `- [x]`).
 
 ## Für heute (22.09.2026)
 
-- [ ] Mail-Adressen von Heikos Eltern hinzufügen (wozu genau, noch nicht näher erklärt)
+- [x] Mail-Adressen von Heikos Eltern hinzufügen (wozu genau, noch nicht näher erklärt)
 - [ ] Video-Ideen konkretisieren, in eine Datei packen → gehört zu [ziel-video.md](ziel-video.md),
       Ziel: ready zum Filmen
 - [ ] Konkrete Ziele besprechen (Immobilien, Agentur, Video, Weiterbildung – siehe [ziele.md](ziele.md))
