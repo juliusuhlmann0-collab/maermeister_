@@ -31,3 +31,11 @@ Zahlen sonst nicht vergleichbar sind.
 | Datum | Sätze | Gewicht | Summe | Notiz |
 |---|---|---|---|---|
 | 18.09.2026 | 9 / 8 | 40 kg | 17 | extremes Gefühl auf dem Muskel |
+
+## Bankdrücken, Langhantel, 70 kg
+
+**Rekord:** 21 Wdh – 22.09.2026 (8 / 7 / 6)
+
+| Datum | Sätze | Gewicht | Summe |
+|---|---|---|---|
+| 22.09.2026 | 8 / 7 / 6 | 70 kg | 21 |
