@@ -129,6 +129,8 @@ sehe ich es beim Morgen-Check-in mit.
 
 | Datum | Mahlzeit | Was | Notiz/Verbesserungsvorschlag |
 |---|---|---|---|
+| 22.09.2026 | Frühstück (Zepp, 8:58) | vermutlich ~3 Eier (231 kcal, 18g Eiweiß, 1,5g KH, 15g Fett – Profil passt gut zu Eiern) | Rückfrage: genau das? |
+| 22.09.2026 | Frühstück (Zepp, 8:59) | unklar, viel KH (408 kcal, 12,5g Eiweiß, 81,6g KH, 10,8g Fett) | Rückfrage: was genau war das? |
 | 21.09.2026 | Vor Frühstück | 1 Schoko-Reiswaffel + 1 Banane (160 kcal) | Kleinere Portion als der geplante 1a (3 Stück/270 kcal) |
 | 21.09.2026 | Frühstück (9 Uhr) | 2 Wiener Würstchen (Schwein) + 1 Putenbratwurst + 1 Brötchen (618 kcal, 42g Eiweiß, 38,5g Fett) | Viel Eiweiß, aber auch schon 38,5g von ~70g Tages-Fett in einer Mahlzeit – Mittag/Abend lieber fettärmer halten |
 | 21.09.2026 | Abend (Zepp, 20:11/20:12) | 2 Mahlzeiten, zusammen 610+450 kcal, 34,6g+25g Eiweiß, 20,4g+15g Fett (noch nicht identifiziert, was genau) | – |
