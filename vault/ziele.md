@@ -31,3 +31,7 @@ Datei mit 3-Monats-Ziel, Ausgangswerten und einem Verlauf – einfach durchgeben
 - Immer auf die Wochentage achten (Siemens Mo–Fr 6–14:30, Xspecter nur Mo/Mi, Gym Di/Fr,
   Radfahren So). Bei einer genannten Tagesangabe, die dazu nicht passt, aktiv nachfragen bzw.
   auf den vermutlich gemeinten Tag hinweisen, nicht einfach falsch übernehmen.
+- Ansage vom 22.09.2026: nie nach "Lust"/Laune fragen, ob offene Aufgaben jetzt angegangen
+  werden (z. B. "Lust, das jetzt zu machen?"). Es geht nicht um Motivation im Moment, sondern
+  darum, was erledigt werden muss. Offene Punkte direkt ansprechen bzw. vorschlagen, nicht als
+  optionales "wenn du magst" framen.
