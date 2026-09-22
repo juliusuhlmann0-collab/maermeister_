@@ -71,6 +71,6 @@ Kurzer Habit-Check, keine große Sache – einfach ja/nein beim Morgen-Check-in.
 
 | Datum | Schlaf (h) | Schritte | Ruhepuls | Aktive kcal | Notiz |
 |---|---|---|---|---|---|
-| 22.09.2026 | 7,16 (21:39–5:27, davon 1,15 Tiefschlaf, 1,92 REM, 0,58 wach) | – (Tag beginnt erst) | 54 | – | HRV Ø ~111ms, deutlich über dem Monats-Schnitt (97,9ms) – gute Erholung. Bettzeit 21:39 lag nah an der gestern empfohlenen Zeit (21:00–21:15) |
+| 22.09.2026 | 7,16 (21:39–5:27, davon 1,15 Tiefschlaf, 1,92 REM, 0,58 wach) | – | 54 | Gym-Fenster 15:00–17:28 Uhr: ~528 kcal aktiv | HRV Ø ~111ms, deutlich über dem Monats-Schnitt (97,9ms) – gute Erholung. Bettzeit 21:39 lag nah an der gestern empfohlenen Zeit (21:00–21:15). Puls im Gym-Fenster Ø 114,6 bpm, Max 163 bpm – kein separater "Workout"-Eintrag von Zepp (dafür müsste ein Workout-Modus am Handgelenk gestartet werden), aber Puls/aktive Energie laufen durchgehend mit und zeigen die Session klar |
 | 21.09.2026 | 7,69 (21:29–5:39, davon 0,98 Tiefschlaf, 2,32 REM) | – | 60 | – | Deutlich besser als der 6,6h-Schnitt |
 | 20.09.2026 | – | 13.587 (bis 19 Uhr) | – | 896 | Sonntag, kein Dienst – sonst viel im Bett gelegen, nur die 2 Radfahrten als aktiver Teil |
