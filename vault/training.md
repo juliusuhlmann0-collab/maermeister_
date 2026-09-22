@@ -54,3 +54,11 @@ Gewicht hoch, z. B. +2,5 kg pro Seite (12,5 kg/Seite Zusatz).
 | Datum | Sätze | Gewicht | Summe |
 |---|---|---|---|
 | 22.09.2026 | 12 / 12 / 12 | Smith-Maschine, 10 kg/Seite Zusatz | 36 |
+
+## Dips
+
+**Rekord:** 19 Wdh – 22.09.2026 (6 / 6 / 7)
+
+| Datum | Sätze | Gewicht | Summe | Notiz |
+|---|---|---|---|---|
+| 22.09.2026 | 6 / 6 / 7 | +15kg / +10kg / Körpergewicht | 19 | Gewicht pro Satz reduziert, mit Zusatzgewicht statt nur Körpergewicht (Plan sah nur Körpergewicht vor – macht aber Sinn, wenn reines Körpergewicht zu leicht wäre) |
