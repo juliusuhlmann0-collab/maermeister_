@@ -81,8 +81,8 @@ Gewicht hoch, z. B. +2,5 kg pro Seite (12,5 kg/Seite Zusatz).
 
 ## Bizeps-Curls, Kabel/Seil, stehend (Arme hinter dem Oberkörper)
 
-**Rekord:** 8 Wdh – 22.09.2026 (8)
+**Rekord:** 16 Wdh – 22.09.2026 (8 / 8)
 
 | Datum | Sätze | Gewicht | Summe |
 |---|---|---|---|
-| 22.09.2026 | 8 | 25kg/Arm | 8 |
+| 22.09.2026 | 8 / 8 | 25kg/Arm | 16 |
