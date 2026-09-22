@@ -89,8 +89,8 @@ Gewicht hoch, z. B. +2,5 kg pro Seite (12,5 kg/Seite Zusatz).
 
 ## Hammer-Curls, Kurzhantel
 
-**Rekord:** 7 Wdh – 22.09.2026 (7)
+**Rekord:** 15 Wdh – 22.09.2026 (7 / 8)
 
 | Datum | Sätze | Gewicht | Summe |
 |---|---|---|---|
-| 22.09.2026 | 7 | 18kg/Seite | 7 |
+| 22.09.2026 | 7 / 8 | 18kg/Seite | 15 |
