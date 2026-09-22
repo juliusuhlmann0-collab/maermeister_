@@ -78,3 +78,11 @@ Gewicht hoch, z. B. +2,5 kg pro Seite (12,5 kg/Seite Zusatz).
 | Datum | Sätze | Gewicht | Summe | Notiz |
 |---|---|---|---|---|
 | 22.09.2026 | 10 / 6 / 8 | 15kg / 15kg / 10kg | 24 | beidseitig (links und rechts), 3. Satz Gewicht reduziert |
+
+## Bizeps-Curls, Kabel/Seil, stehend (Arme hinter dem Oberkörper)
+
+**Rekord:** 8 Wdh – 22.09.2026 (8)
+
+| Datum | Sätze | Gewicht | Summe |
+|---|---|---|---|
+| 22.09.2026 | 8 | 25kg/Arm | 8 |
