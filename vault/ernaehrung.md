@@ -131,6 +131,8 @@ sehe ich es beim Morgen-Check-in mit.
 |---|---|---|---|
 | 22.09.2026 | Frühstück (Zepp, 8:58) | 3 Eier (231 kcal, 18g Eiweiß, 1,5g KH, 15g Fett) | – |
 | 22.09.2026 | Frühstück (Zepp, 8:59) | 1 Schoko-Reiswaffel + 1 Banane + 2 Scheiben Vollkornbrot (408 kcal, 12,5g Eiweiß, 81,6g KH, 10,8g Fett) | – |
+| 22.09.2026 | Mittag (Zepp, 12:05) | noch nicht identifiziert, was genau (850 kcal, 48,3g Eiweiß, 82g KH, 35,15g Fett) | Rückfrage: was genau war das? Allein diese Mahlzeit bringt die Hälfte vom Tages-Fett |
+| 22.09.2026 | Snack/Pre-Workout (Zepp, 14:59) | noch nicht identifiziert, was genau (115 kcal, 22g Eiweiß, 2,8g KH, 1,9g Fett – Profil wie Protein-Shake oder sehr mageres Eiweiß) | Rückfrage: was genau war das? |
 | 21.09.2026 | Vor Frühstück | 1 Schoko-Reiswaffel + 1 Banane (160 kcal) | Kleinere Portion als der geplante 1a (3 Stück/270 kcal) |
 | 21.09.2026 | Frühstück (9 Uhr) | 2 Wiener Würstchen (Schwein) + 1 Putenbratwurst + 1 Brötchen (618 kcal, 42g Eiweiß, 38,5g Fett) | Viel Eiweiß, aber auch schon 38,5g von ~70g Tages-Fett in einer Mahlzeit – Mittag/Abend lieber fettärmer halten |
 | 21.09.2026 | Abend (Zepp, 20:11/20:12) | 2 Mahlzeiten, zusammen 610+450 kcal, 34,6g+25g Eiweiß, 20,4g+15g Fett (noch nicht identifiziert, was genau) | – |
