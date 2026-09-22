@@ -44,6 +44,7 @@ oder "1a, 2c, 3b" an einem Trainingstag.
 | a | 250g Skyr (Eiweißquelle) + 40g Haferflocken (KH/Ballaststoffe) + 100g Beeren (Vitamine, wenig Zucker) | 430 |
 | b | 3 Eier + 1 Scheibe Vollkornbrot (~40g) | 380 |
 | c | 50g Haferflocken + 150g Magerquark/Skyr + 100ml Milch + 100g Obst | 450 |
+| d | 250g Arla Skyr Erdbeere + 50g ja! Schoko Müsli (30% weniger Zucker) + 60g Nektarine | ~384 (27g Eiweiß, 58g KH, **nur ~4g Fett** – geschätzt, keine Nährwerttabelle fotografiert) |
 
 **3 – Pre-Workout (nur Di/Fr)**
 
