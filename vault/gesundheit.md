@@ -71,5 +71,6 @@ Kurzer Habit-Check, keine große Sache – einfach ja/nein beim Morgen-Check-in.
 
 | Datum | Schlaf (h) | Schritte | Ruhepuls | Aktive kcal | Notiz |
 |---|---|---|---|---|---|
+| 22.09.2026 | 7,16 (21:39–5:27, davon 1,15 Tiefschlaf, 1,92 REM, 0,58 wach) | – (Tag beginnt erst) | 54 | – | HRV Ø ~111ms, deutlich über dem Monats-Schnitt (97,9ms) – gute Erholung. Bettzeit 21:39 lag nah an der gestern empfohlenen Zeit (21:00–21:15) |
 | 21.09.2026 | 7,69 (21:29–5:39, davon 0,98 Tiefschlaf, 2,32 REM) | – | 60 | – | Deutlich besser als der 6,6h-Schnitt |
 | 20.09.2026 | – | 13.587 (bis 19 Uhr) | – | 896 | Sonntag, kein Dienst – sonst viel im Bett gelegen, nur die 2 Radfahrten als aktiver Teil |
