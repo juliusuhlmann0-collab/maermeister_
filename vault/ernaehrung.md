@@ -131,6 +131,7 @@ sehe ich es beim Morgen-Check-in mit.
 | Datum | Mahlzeit | Was | Notiz/Verbesserungsvorschlag |
 |---|---|---|---|
 | 23.09.2026 | Frühstück | 2 Schoko-Reiswaffeln + 1 große Banane + 250g Arla Skyr Erdbeere + 60g Schoko-Müsli + 60g Pfirsich (geschätzt: 658 kcal, 30,3g Eiweiß, 114g KH, 9g Fett) | Sehr fettarm – genau richtig nach den letzten Tagen |
+| 23.09.2026 | Mittag | Cordon Bleu (paniert, frittiert) + Pommes + Ketchup (geschätzt: 1.143 kcal, 36g Eiweiß, 111,6g KH, 57,8g Fett – Portion nach Foto geschätzt, kein Etikett) | Fett-Bombe – Panade+Frittiert doppelt. Tagesfett damit schon bei 66,8g von 70g nach nur 2 Mahlzeiten |
 | 22.09.2026 | Frühstück (Zepp, 8:58) | 3 Eier (231 kcal, 18g Eiweiß, 1,5g KH, 15g Fett) | – |
 | 22.09.2026 | Frühstück (Zepp, 8:59) | 1 Schoko-Reiswaffel + 1 Banane + 2 Scheiben Vollkornbrot (408 kcal, 12,5g Eiweiß, 81,6g KH, 10,8g Fett) | – |
 | 22.09.2026 | Mittag (Zepp, 12:05) | noch nicht identifiziert, was genau (850 kcal, 48,3g Eiweiß, 82g KH, 35,15g Fett) | Rückfrage: was genau war das? Allein diese Mahlzeit bringt die Hälfte vom Tages-Fett |
