@@ -87,6 +87,7 @@ Kurzer Habit-Check, keine große Sache – einfach ja/nein beim Morgen-Check-in.
 
 | Datum | Schlaf (h) | Schritte | Ruhepuls | Aktive kcal | Notiz |
 |---|---|---|---|---|---|
+| 23.09.2026 | 6,86 (22:21–5:28, davon 1,02 Tiefschlaf, 1,48 REM, 0,20 wach) | – | 60 | – | Kürzer als empfohlen (Bettzeit 22:21 statt 21:00–21:15) und HRV nur Ø ~73,8ms (52,5/95,19) – deutlich unter dem Monats-Schnitt (97,9ms) und unter gestern (111ms). Ruhepuls auch wieder auf 60 hoch. Sieht nach unvollständiger Erholung vom harten Krafttraining gestern aus |
 | 22.09.2026 | 7,16 (21:39–5:27, davon 1,15 Tiefschlaf, 1,92 REM, 0,58 wach) | – | 54 | mind. 708 kcal (Krafttraining 643 + Aktivität 17:20 Uhr 65, Laufband-eigene kcal nicht separat angezeigt) | Krafttraining 15:37–17:05 Uhr (1:27:35, Ø-Puls 119), danach Laufband 17:05–17:20 Uhr (14:54 Min, 1,18 km) – beides explizit als Workout gestartet und in Zepp bestätigt (Screenshot). Die zwei "Aktivität"-Einträge um 14:55/15:23 Uhr (54 kcal) waren die Autofahrt von Siemens zum Gym, nicht echtes Training – rausgerechnet. HRV Ø ~111ms (Nacht), deutlich über dem Monats-Schnitt (97,9ms) – gute Erholung. Bettzeit 21:39 lag nah an der gestern empfohlenen Zeit (21:00–21:15) |
 | 21.09.2026 | 7,69 (21:29–5:39, davon 0,98 Tiefschlaf, 2,32 REM) | – | 60 | – | Deutlich besser als der 6,6h-Schnitt |
 | 20.09.2026 | – | 13.587 (bis 19 Uhr) | – | 896 | Sonntag, kein Dienst – sonst viel im Bett gelegen, nur die 2 Radfahrten als aktiver Teil |
