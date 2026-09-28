@@ -7,8 +7,11 @@ Einfach durchgeben wann du kommst/gehst, ich trag's ein. Pro Monat ein eigener A
 
 ## September 2026
 
+**Achtung:** Tracking startet erst 28.09.2026 – vorher war schon mehr Zeit bei Xspecter, aber ohne
+Aufzeichnung. Die Summe unten ist also NICHT der volle September, nur ab Start des Logs.
+
 | Datum | Von | Bis | Stunden | Verdienst | Notiz |
 |---|---|---|---|---|---|
 | 28.09.2026 | 15:13 | 19:26 | 4:13 | 75,90 € | keine Pause |
 
-**Monat bisher:** 4:13h, 75,90 €
+**Erfasst seit 28.09.:** 4:13h, 75,90 € (ohne die Zeit davor im September)
