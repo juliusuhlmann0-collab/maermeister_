@@ -34,14 +34,14 @@ Zahlen sonst nicht vergleichbar sind.
 
 ## Bankdrücken, Langhantel, 70 kg
 
-**Rekord:** 21 Wdh – 22.09.2026 (8 / 7 / 6)
+**Rekord:** 24 Wdh – 29.09.2026 (9 / 8 / 7)
 
-**Nächster Schritt:** sobald 3×8 (24 Wdh gesamt) bei 70 kg steht → Gewicht hoch. +2,5 kg (72,5 kg)
-falls 1,25kg-Scheiben pro Seite da sind, sonst +5 kg (75 kg) im Sprung. Kleinerer Sprung ist bei
-Bankdrücken vorzuziehen, damit die Wdh-Zahl nicht zu stark einbricht.
+**Nächster Schritt:** Ziel (3×8 / 24 Wdh gesamt) erreicht – nächstes Training Gewicht hoch.
++2,5 kg (72,5 kg) falls 1,25kg-Scheiben pro Seite da sind, sonst +5 kg (75 kg) im Sprung.
 
 | Datum | Sätze | Gewicht | Summe |
 |---|---|---|---|
+| 29.09.2026 | 9 / 8 / 7 | 70 kg | 24 |
 | 22.09.2026 | 8 / 7 / 6 | 70 kg | 21 |
 
 ## Schrägbankdrücken, Smith-Maschine (Multipresse)
