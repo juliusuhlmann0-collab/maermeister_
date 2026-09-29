@@ -55,7 +55,7 @@ Gewicht hoch, z. B. +2,5 kg pro Seite (12,5 kg/Seite Zusatz).
 
 | Datum | Sätze | Gewicht | Summe | Form |
 |---|---|---|---|---|
-| 29.09.2026 | 10 (Satz 1) | Smith-Maschine, 15 kg/Seite Zusatz | – | sehr gut |
+| 29.09.2026 | 10 / 9 (Satz 1-2) | Smith-Maschine, 15 kg/Seite Zusatz | – | 10 / 9 |
 | 22.09.2026 | 12 / 12 / 12 | Smith-Maschine, 10 kg/Seite Zusatz | 36 | – |
 
 ## Dips
