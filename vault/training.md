@@ -53,9 +53,10 @@ Gewicht hochgeht. Danach +2,5 kg (72,5 kg) falls 1,25kg-Scheiben pro Seite da si
 **Nächster Schritt:** alle 3 Sätze schon oben im Zielbereich (8-12) getroffen → nächstes Mal
 Gewicht hoch, z. B. +2,5 kg pro Seite (12,5 kg/Seite Zusatz).
 
-| Datum | Sätze | Gewicht | Summe |
-|---|---|---|---|
-| 22.09.2026 | 12 / 12 / 12 | Smith-Maschine, 10 kg/Seite Zusatz | 36 |
+| Datum | Sätze | Gewicht | Summe | Form |
+|---|---|---|---|---|
+| 29.09.2026 | 10 (Satz 1) | Smith-Maschine, 15 kg/Seite Zusatz | – | sehr gut |
+| 22.09.2026 | 12 / 12 / 12 | Smith-Maschine, 10 kg/Seite Zusatz | 36 | – |
 
 ## Dips
 
