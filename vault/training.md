@@ -48,14 +48,16 @@ Gewicht hochgeht. Danach +2,5 kg (72,5 kg) falls 1,25kg-Scheiben pro Seite da si
 
 ## Schrägbankdrücken, Smith-Maschine (Multipresse)
 
-**Rekord:** 36 Wdh – 22.09.2026 (12 / 12 / 12)
+**Rekord bei 15 kg/Seite:** 25 Wdh – 29.09.2026 (10 / 9 / 6)
+**Rekord bei 10 kg/Seite:** 36 Wdh – 22.09.2026 (12 / 12 / 12)
 
-**Nächster Schritt:** alle 3 Sätze schon oben im Zielbereich (8-12) getroffen → nächstes Mal
-Gewicht hoch, z. B. +2,5 kg pro Seite (12,5 kg/Seite Zusatz).
+**Nächster Schritt:** Form bei 15kg/Seite top (10/9/10), aber Satz 3 mit 6 Wdh unter dem Zielbereich
+(8-12) – nächstes Training erstmal bei 15kg/Seite bleiben statt weiter hochgehen, bis alle 3
+Sätze wieder im Zielbereich sind.
 
 | Datum | Sätze | Gewicht | Summe | Form |
 |---|---|---|---|---|
-| 29.09.2026 | 10 / 9 (Satz 1-2) | Smith-Maschine, 15 kg/Seite Zusatz | – | 10 / 9 |
+| 29.09.2026 | 10 / 9 / 6 | Smith-Maschine, 15 kg/Seite Zusatz | 25 | 10 / 9 / 10 |
 | 22.09.2026 | 12 / 12 / 12 | Smith-Maschine, 10 kg/Seite Zusatz | 36 | – |
 
 ## Dips
