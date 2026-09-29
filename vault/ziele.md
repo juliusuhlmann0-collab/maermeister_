@@ -35,3 +35,8 @@ Datei mit 3-Monats-Ziel, Ausgangswerten und einem Verlauf – einfach durchgeben
   werden (z. B. "Lust, das jetzt zu machen?"). Es geht nicht um Motivation im Moment, sondern
   darum, was erledigt werden muss. Offene Punkte direkt ansprechen bzw. vorschlagen, nicht als
   optionales "wenn du magst" framen.
+- Ansage vom 29.09.2026: beim Training-Log nach jedem Satz/jeder Übung auch die **Form-Qualität**
+  abfragen (sehr gut / geht so / schlecht), nicht nur Wdh und Gewicht. Ziel: Technik geht vor
+  Gewichtssteigerung – wenn Form nicht sauber ist, lieber Gewicht halten statt hochgehen, auch
+  wenn die Wdh-Zahl schon das nächste Level erreichen würde (siehe Bankdrücken 29.09.).
+  optionales "wenn du magst" framen.
