@@ -64,9 +64,10 @@ Sätze wieder im Zielbereich sind.
 
 **Rekord:** 19 Wdh – 22.09.2026 (6 / 6 / 7)
 
-| Datum | Sätze | Gewicht | Summe | Notiz |
-|---|---|---|---|---|
-| 22.09.2026 | 6 / 6 / 7 | +15kg / +10kg / Körpergewicht | 19 | Gewicht pro Satz reduziert, mit Zusatzgewicht statt nur Körpergewicht (Plan sah nur Körpergewicht vor – macht aber Sinn, wenn reines Körpergewicht zu leicht wäre) |
+| Datum | Sätze | Gewicht | Summe | Form | Notiz |
+|---|---|---|---|---|---|
+| 29.09.2026 | 7 (Satz 1) | +15kg | – | 8 | Besser als Satz 1 letztes Mal (6 bei +15kg) |
+| 22.09.2026 | 6 / 6 / 7 | +15kg / +10kg / Körpergewicht | 19 | – | Gewicht pro Satz reduziert, mit Zusatzgewicht statt nur Körpergewicht (Plan sah nur Körpergewicht vor – macht aber Sinn, wenn reines Körpergewicht zu leicht wäre) |
 
 ## Schulterdrücken, Kurzhantel
 
