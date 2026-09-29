@@ -39,4 +39,6 @@ Datei mit 3-Monats-Ziel, Ausgangswerten und einem Verlauf – einfach durchgeben
   abfragen (sehr gut / geht so / schlecht), nicht nur Wdh und Gewicht. Ziel: Technik geht vor
   Gewichtssteigerung – wenn Form nicht sauber ist, lieber Gewicht halten statt hochgehen, auch
   wenn die Wdh-Zahl schon das nächste Level erreichen würde (siehe Bankdrücken 29.09.).
-  optionales "wenn du magst" framen.
+- Ansage vom 29.09.2026: beim Nachfragen/Prompten (v. a. im Training-Log) immer den vollen
+  Kontext mitschreiben statt nur eine kurze Frage – also Satz-Nummer, Gewicht, Ziel-Wdh-Bereich
+  fürs aktuelle Training mit angeben, nicht nur "wie viele Wdh?".
