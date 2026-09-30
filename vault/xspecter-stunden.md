@@ -12,6 +12,7 @@ Aufzeichnung. Die Summe unten ist also NICHT der volle September, nur ab Start d
 
 | Datum | Von | Bis | Stunden | Verdienst | Notiz |
 |---|---|---|---|---|---|
+| 30.09.2026 | 13:57 | – | – | – | – |
 | 28.09.2026 | 15:13 | 19:26 | 4:13 | 75,90 € | keine Pause |
 
 **Erfasst seit 28.09.:** 4:13h, 75,90 € (ohne die Zeit davor im September)
