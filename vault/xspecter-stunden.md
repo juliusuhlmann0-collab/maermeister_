@@ -16,3 +16,8 @@ Aufzeichnung. Die Summe unten ist also NICHT der volle September, nur ab Start d
 | 28.09.2026 | 15:13 | 19:26 | 4:13 | 75,90 € | keine Pause |
 
 **Erfasst seit 28.09.:** 8:17h, 149,10 € (ohne die Zeit davor im September)
+
+## Oktober 2026
+
+| Datum | Von | Bis | Stunden | Verdienst | Notiz |
+|---|---|---|---|---|---|
