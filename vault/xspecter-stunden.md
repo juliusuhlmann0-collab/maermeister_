@@ -21,3 +21,4 @@ Aufzeichnung. Die Summe unten ist also NICHT der volle September, nur ab Start d
 
 | Datum | Von | Bis | Stunden | Verdienst | Notiz |
 |---|---|---|---|---|---|
+| 05.10.2026 | 12:57 | – | – | – | – |
