@@ -63,11 +63,11 @@ Sätze wieder im Zielbereich sind.
 
 ## Dips
 
-**Rekord:** 19 Wdh – 22.09.2026 (6 / 6 / 7)
+**Rekord:** 24 Wdh – 06.10.2026 (9 / 8 / 7) bei durchgehend +10kg
 
 | Datum | Sätze | Gewicht | Summe | Form | Notiz |
 |---|---|---|---|---|---|
-| 06.10.2026 | 9 (Satz 1) | +10kg | – | 10 | – |
+| 06.10.2026 | 9 / 8 / 7 | +10kg (alle 3 Sätze) | 24 | 10 | Neuer Rekord, erstmals alle 3 Sätze gleiches Gewicht |
 | 29.09.2026 | 7 / 3 / 12 | +15kg / +15kg / Körpergewicht | 22 | 8 / 8 / – | Satz 2: 15kg diesmal nicht reduziert (statt 10kg wie letztes Mal), starker Einbruch in der Wdh-Zahl dadurch, Form aber okay. Satz 3 Form nie durchgegeben (Tageswechsel dazwischen) |
 | 22.09.2026 | 6 / 6 / 7 | +15kg / +10kg / Körpergewicht | 19 | – | Gewicht pro Satz reduziert, mit Zusatzgewicht statt nur Körpergewicht (Plan sah nur Körpergewicht vor – macht aber Sinn, wenn reines Körpergewicht zu leicht wäre) |
 
