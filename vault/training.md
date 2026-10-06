@@ -36,14 +36,15 @@ Zahlen sonst nicht vergleichbar sind.
 
 **Rekord:** 24 Wdh – 29.09.2026 (9 / 8 / 7)
 
-**Nächster Schritt:** Ziel (3×8 / 24 Wdh gesamt) zahlenmäßig erreicht, aber auf eigenen Wunsch
-(29.09.) noch **ein weiteres Training bei 70kg**, um die Form sauber zu bekommen, bevor das
-Gewicht hochgeht. Danach +2,5 kg (72,5 kg) falls 1,25kg-Scheiben pro Seite da sind, sonst
+**Nächster Schritt:** Ziel war 3×8 (8/8/8) mit guter Form – am 06.10. knapp verpasst (8/8/7,
+Form 7/10). Noch nicht ganz sauber genug fürs nächste Gewicht, nochmal bei 70kg bis 3×8 mit
+guter Form klappt. Danach +2,5 kg (72,5 kg) falls 1,25kg-Scheiben pro Seite da sind, sonst
 +5 kg (75 kg) im Sprung.
 
-| Datum | Sätze | Gewicht | Summe |
-|---|---|---|---|
-| 29.09.2026 | 9 / 8 / 7 | 70 kg | 24 |
+| Datum | Sätze | Gewicht | Summe | Form |
+|---|---|---|---|---|
+| 06.10.2026 | 8 / 8 / 7 | 70 kg | 23 | 7 |
+| 29.09.2026 | 9 / 8 / 7 | 70 kg | 24 | – |
 | 22.09.2026 | 8 / 7 / 6 | 70 kg | 21 |
 
 ## Schrägbankdrücken, Smith-Maschine (Multipresse)
