@@ -210,3 +210,6 @@ klarer Zeitplan bis 23.
 ## Verlauf
 
 **11.10.2026:** Dokument angelegt, erster Abgleich mit Vault-Daten (s. o.), Einschätzung ergänzt.
+Am selben Tag umgesetzt: Agentur geparkt, ORVAELI einziges Business-Projekt, feste Tage dafür
+(Di/Do), Gym dafür aufs Wochenende verlegt. Das sind Entwicklungsziel 1 (ein Hauptprojekt) und
+der "feste Termin" aus der Einschätzung, selbst entschieden.

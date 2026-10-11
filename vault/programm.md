@@ -6,20 +6,24 @@ einen definierten Körper ("viele Kanten"), nicht nur pure Masse.
 **Ehrlicher Punkt (20.09.2026):** "Kanten" entscheidet primär die Ernährung (Körperfettanteil),
 nicht die Übungsauswahl – Training formt den Muskel, Ernährung macht ihn sichtbar. `ernaehrung.md`
 ist noch leer, das ist aktuell der größere Hebel als jede Anpassung hier im Plan.
-**Frequenz (final, ab 20.09.2026):** Dienstag + Freitag Gym, dazu jeweils ein kurzes
-Cardio-Finish direkt nach dem Training (10–15 min, moderat). Sonntag zusätzlich Radfahren
-für die Grundlagenausdauer.
+**Frequenz (ab 11.10.2026):** **Samstag + Sonntag Gym**, damit Dienstag und Donnerstag für
+ORVAELI frei sind. Dazu jeweils ein kurzes Cardio-Finish direkt nach dem Training (10–15 min,
+moderat). Radfahren: Tag noch offen (Vorschlag Freitag, der ist jetzt frei).
+*(20.09.–10.10.: Di + Fr Gym, So Rad.)*
+**Zwei Tage am Stück:** Das geht, weil jeweils andere Muskeln dran sind. Der Bizeps vom Samstag
+kann die Klimmzüge am Sonntag aber etwas drücken. 1–2 Wdh weniger am Anfang sind deshalb kein
+Rückschritt.
 **Progression:** doppelte Progression. In der Wdh-Spanne so lange Wiederholungen drauflegen,
 bis alle Sätze oben in der Spanne stehen (das ist das „Toppen" aus `training.md`), dann Gewicht
 erhöhen und unten in der Spanne neu anfangen. Rekorde und Gewichte stehen im Trainings-Log,
 hier steht nur die Struktur.
 
-**Reihenfolge (11.10.2026):** Die Hauptübung kommt zuerst (Dienstag Bankdrücken, Freitag
+**Reihenfolge (11.10.2026):** Die Hauptübung kommt zuerst (Samstag Bankdrücken, Sonntag
 Klimmzüge), weil sie die schwerste ist. Der Rest ist flexibel, je nachdem welches Gerät frei ist.
 Nicht warten. Die Werte bleiben damit vergleichbar, kleine Schwankungen durch eine andere
 Reihenfolge sind egal.
 
-## Dienstag – Brust, Schultern, Bizeps
+## Samstag (bis 10.10. Dienstag) – Brust, Schultern, Bizeps
 
 Volumen (reduziert auf max. 2–3 Sätze/Übung wegen Zeit): Brust 8 Sätze, Schulter 6 Sätze,
 Bizeps 5 Sätze, Serratus 2. Gesamtzeit inkl. Aufwärmen ca. 50 Min. Ehrlich: weniger Volumen =
@@ -29,7 +33,7 @@ bei 2–3 als bei 4 unregelmäßig, weil's zu lang dauert.
 Wunsch nach Körpergewichtsübungen: Dips statt Kabel-Fliegende eingebaut (gleichwertig oder
 besser für Brust, plus Trizeps gratis mit). Liegestütze sind bei Zeitdruck/ohne Gym eine
 Notlösung für Bankdrücken, aber im Studio bringt die Langhantel mehr, deshalb nicht extra
-eingeplant. Klimmzüge sind schon Teil vom Freitag-Rücken-Tag.
+eingeplant. Klimmzüge sind schon Teil vom Sonntag-Rücken-Tag.
 
 | Übung | Gerät | Sätze×Wdh | Pause | Ausführung |
 |---|---|---|---|---|
@@ -47,7 +51,7 @@ eingeplant. Klimmzüge sind schon Teil vom Freitag-Rücken-Tag.
 Extra-Kohlenhydrate bräuchte). Danach, innerhalb ~30–60 Min, Eiweiß + etwas Kohlenhydrat –
 z. B. Shake mit Banane oder Schokomilch.
 
-## Freitag – Rücken, hintere Schulter, Trizeps, Unterarme, Bauch
+## Sonntag (bis 10.10. Freitag) – Rücken, hintere Schulter, Trizeps, Unterarme, Bauch
 
 | Übung | Gerät | Sätze×Wdh | Pause | Ausführung |
 |---|---|---|---|---|
@@ -63,7 +67,7 @@ z. B. Shake mit Banane oder Schokomilch.
 | Hanging Leg Raises | Körpergewicht | 3×10–15 | 60s | An der Stange hängend, Beine (gestreckt oder angewinkelt) kontrolliert hochziehen, unterer Bauch, kein Schwung. |
 | Cardio-Finish | frei wählbar | 10–15 min | – | Moderates Tempo, nicht ans Limit. |
 
-## Sonntag – Radfahren
+## Radfahren (Tag offen, Vorschlag Freitag)
 
 Grundlagenausdauer, siehe Einträge in [gesundheit.md](gesundheit.md). Nicht jede Fahrt muss
 Tempo sein – lieber öfter locker/lang fahren (Zone 2, Gespräch wäre noch möglich) und nur ab
@@ -71,6 +75,6 @@ und zu eine schnellere Einheit, das baut die Ausdauerbasis nachhaltiger auf als 
 
 ## Beine
 
-Kommen im finalen 3-Tage-Rhythmus (Di/Fr Gym, So Rad) weiterhin nicht vor. Radfahren trainiert
+Kommen im finalen 3-Tage-Rhythmus (Sa/So Gym + Rad) weiterhin nicht vor. Radfahren trainiert
 die Beine zumindest aerob mit – falls gezielter Beinaufbau doch noch gewünscht ist, jederzeit
 sagen, dann bauen wir das ein.

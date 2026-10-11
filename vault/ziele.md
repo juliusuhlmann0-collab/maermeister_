@@ -12,7 +12,7 @@ Datei mit 3-Monats-Ziel, Ausgangswerten und einem Verlauf – einfach durchgeben
 | Karriere (Siemens) | [ziel-siemens.md](ziel-siemens.md) | läuft, 3-Monats-Ziel gesetzt |
 | Immobilien (Hauptziel) | [ziel-immobilien.md](ziel-immobilien.md) | 1 Objekt erfasst, Zielmarke offen |
 | **ORVAELI mit Dennis (Hauptprojekt ab 11.10.)** | [ziel-orvaeli.md](ziel-orvaeli.md) | Businessplan 10.10., Pakete live, Phase A: Vermietung |
-| Social-Media-Agentur | [ziel-agentur.md](ziel-agentur.md) | Vehikel für Immobilien, Ziel noch offen |
+| Social-Media-Agentur | [ziel-agentur.md](ziel-agentur.md) | **geparkt seit 11.10.**, Fokus auf ORVAELI |
 | Video-Editing | [ziel-video.md](ziel-video.md) | Ziel noch offen |
 | Weiterbildung | [ziel-weiterbildung.md](ziel-weiterbildung.md) | Ziel noch offen |
 
@@ -30,8 +30,8 @@ Datei mit 3-Monats-Ziel, Ausgangswerten und einem Verlauf – einfach durchgeben
   nicht nur Optionen zum Abwägen).
 - Nach jeder Änderung immer das komplette, aktuelle Ergebnis zeigen, nicht nur den geänderten
   Ausschnitt – er will nicht raten müssen, wie der Gesamtstand jetzt aussieht.
-- Immer auf die Wochentage achten (Siemens Mo–Fr 6–14:30, Xspecter nur Mo/Mi, Gym Di/Fr,
-  Radfahren So). Bei einer genannten Tagesangabe, die dazu nicht passt, aktiv nachfragen bzw.
+- Immer auf die Wochentage achten (Siemens Mo–Fr 6–14:30, Xspecter nur Mo/Mi, ORVAELI Di/Do,
+  Gym Sa/So, Radfahren-Tag offen. Stand 11.10.2026, vorher Gym Di/Fr und Rad So). Bei einer genannten Tagesangabe, die dazu nicht passt, aktiv nachfragen bzw.
   auf den vermutlich gemeinten Tag hinweisen, nicht einfach falsch übernehmen.
 - Ansage vom 22.09.2026: nie nach "Lust"/Laune fragen, ob offene Aufgaben jetzt angegangen
   werden (z. B. "Lust, das jetzt zu machen?"). Es geht nicht um Motivation im Moment, sondern

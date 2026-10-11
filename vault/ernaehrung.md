@@ -46,7 +46,7 @@ oder "1a, 2c, 3b" an einem Trainingstag.
 | c | 50g Haferflocken + 150g Magerquark/Skyr + 100ml Milch + 100g Obst | 450 |
 | d | 150g Arla Skyr Erdbeere (Rest vom Becher – andere 250g gibt's am 22.09. abends) + 50g ja! Schoko Müsli (30% weniger Zucker) + 60g Nektarine | ~316 (18g Eiweiß, 51g KH, **nur ~4g Fett** – geschätzt, keine Nährwerttabelle fotografiert) |
 
-**3 – Pre-Workout (nur Di/Fr)**
+**3 – Pre-Workout (nur an Gym-Tagen, ab 11.10. Sa/So)**
 
 | Var. | Was, genau | kcal |
 |---|---|---|
@@ -93,10 +93,12 @@ Shake verträgt er nicht, deshalb raus – A/B/C reichen für Abwechslung beim k
 | Freitag | Schoko-Reiswaffeln + Banane | A – Quark + Haferflocken + Beeren | 2 Reiswaffeln + Banane | 840 |
 
 Vor Frühstück ist jetzt fix (Schoko-Reiswaffeln + Banane, 270 kcal), keine Rotation mehr dort.
-Frühstück (9 Uhr) rotiert weiter für Abwechslung. Pre-Workout nur an Trainingstagen (Di/Fr),
-nicht Mittwoch – Mittwoch ist dein Vollpacker-Tag ohne Training.
+Frühstück (9 Uhr) rotiert weiter für Abwechslung. Pre-Workout nur an Trainingstagen, nicht
+Mittwoch – Mittwoch ist dein Vollpacker-Tag ohne Training.
+**Ab 11.10.2026:** Gym ist jetzt Sa/So, also fällt Pre-Workout unter der Woche weg (die Spalte
+oben bei Di/Fr gilt nicht mehr). Am Wochenende einfach 1–2 h vor dem Gym einen Snack aus 3.
 
-**Pre-Workout-Snack (Di/Fr, kein Kühlschrank nötig):**
+**Pre-Workout-Snack (Gym-Tage, kein Kühlschrank nötig):**
 
 | Option | Was | ca. kcal |
 |---|---|---|

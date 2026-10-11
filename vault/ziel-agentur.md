@@ -14,3 +14,7 @@ Kunden, kein Umsatz, das ist der reale Stand (nicht schöngeredet).
 ## Verlauf
 
 **20.09.2026** – Anmeldung für nächste Woche angekündigt.
+
+**11.10.2026** – **Geparkt.** Entscheidung Julius: Die Agentur ist erstmal raus, voller Fokus
+auf ORVAELI ([ziel-orvaeli.md](ziel-orvaeli.md)), das jetzt die Rolle als Geldquelle für die
+Immobilien übernimmt.
