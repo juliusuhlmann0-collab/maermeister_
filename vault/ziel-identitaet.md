@@ -10,6 +10,8 @@ erst sauber automatisieren, dann nächster Schritt).
 
 Aktueller Kern: sich selbst beweisen, dass man sich selbst vertrauen kann.
 
+Ausführliches Profil (AECdisc, Motive, Entwicklungsziele): [persoenlichkeitsprofil.md](persoenlichkeitsprofil.md).
+
 **Noch offen:** gibt es ein konkretes Vorbild (real oder Archetyp) für die Person, die du werden
 willst? Und von den drei Dimensionen – wie du handelst, wie du überlegst, wie du auftrittst –
 wo ist der Abstand zwischen heute und Ziel gerade am größten?

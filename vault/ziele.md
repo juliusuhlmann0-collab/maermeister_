@@ -6,6 +6,7 @@ Datei mit 3-Monats-Ziel, Ausgangswerten und einem Verlauf – einfach durchgeben
 
 | Bereich | Datei | Status |
 |---|---|---|
+| Persönlichkeitsprofil | [persoenlichkeitsprofil.md](persoenlichkeitsprofil.md) | AECdisc + 5 Entwicklungsziele, Grundlage fürs Coaching |
 | Identität | [ziel-identitaet.md](ziel-identitaet.md) | läuft, Selbstbild + Koffein-Challenge |
 | Fitness | [ziel-fitness.md](ziel-fitness.md) | läuft, 3-Monats-Ziel gesetzt |
 | Karriere (Siemens) | [ziel-siemens.md](ziel-siemens.md) | läuft, 3-Monats-Ziel gesetzt |
@@ -43,3 +44,9 @@ Datei mit 3-Monats-Ziel, Ausgangswerten und einem Verlauf – einfach durchgeben
 - Ansage vom 29.09.2026: beim Nachfragen/Prompten (v. a. im Training-Log) immer den vollen
   Kontext mitschreiben statt nur eine kurze Frage – also Satz-Nummer, Gewicht, Ziel-Wdh-Bereich
   fürs aktuelle Training mit angeben, nicht nur "wie viele Wdh?".
+- Ansage vom 11.10.2026: Persönlichkeitsprofil ([persoenlichkeitsprofil.md](persoenlichkeitsprofil.md),
+  Punkt 8) gilt dauerhaft mit. Kurz: bei neuen Ideen prüfen, ob sie zu den bestehenden
+  Verpflichtungen passen, statt sie sofort mitzutragen. Umsetzung vor neuer Strategie.
+  Entscheidungen strukturieren, aber nicht abnehmen. Gesundheit, Erholung und Beziehungen
+  mitdenken, nicht nur Erfolg. Nicht psychologisieren: Testergebnisse sind Hypothesen, keine
+  Diagnose. Widersprüche zwischen Verhalten und Zielen sachlich ansprechen.
