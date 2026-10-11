@@ -152,11 +152,15 @@ und was dagegen spricht.
   treffen – zögert sowas lange raus" (ziel-identitaet.md).
 - **Abschalten / Ablenkung:** eigene Aussage: zu viel Handy, Apps gelöscht, wandert aber zu neuen
   (ziel-identitaet.md). Passt zu Entwicklungsziel 3.
+- **Energie geht ins Spannende statt ins Nötige (ORVAELI, 11.10.):** Die meiste Arbeit floss in
+  die App (laut eigenem Plan letzte Priorität) und ins Website-Design. Die Pflichtpunkte für
+  Tag 1–30 (Rechtsform, Versicherung, Mietvertrag) sind noch offen. Passt zum kognitiven Motiv
+  (bauen, verstehen) und zu Schritt 3 des Kreislaufs.
 
 ### Spricht dagegen / zeigt Umsetzung
 
-- **Training läuft konsequent:** Di/Fr seit 18.09. durchgezogen, Rekorde bei Klimmzügen
-  (30 Wdh, 09.10.) und Dips (24 Wdh, 06.10.).
+- **Training läuft weitgehend konsequent:** 5 von 7 Terminen seit 18.09. geloggt (02.10. krank,
+  25.09. ohne Eintrag), Rekorde bei Klimmzügen (30 Wdh, 09.10.) und Dips (24 Wdh, 06.10.).
 - **Bewusst Qualität vor Ego:** Bankdrücken zweimal bei 70 kg gehalten, weil die Form noch nicht
   sauber war, obwohl die Wiederholungen fürs nächste Gewicht fast gereicht hätten. Das ist kein
   Perfektionismus, der blockiert, sondern eine gute Entscheidung.
@@ -192,10 +196,11 @@ läuft") · ungewöhnlich ehrlicher Blick auf sich selbst · mit 21 schon schuld
 klarer Zeitplan bis 23.
 
 **Vorgeschlagene Entwicklungsrichtung:**
-1. Eine Baustelle richtig: Agentur als 90-Tage-Hauptprojekt, Video parken oder in die Agentur
-   integrieren, Weiterbildung ist nur eine Entscheidung (Termin wählen), kein Projekt.
+1. Eine Baustelle richtig. **Update 11.10.: Julius hat ORVAELI zum Hauptprojekt gemacht**
+   ([ziel-orvaeli.md](ziel-orvaeli.md)), nicht die Agentur. Video parken, Weiterbildung ist nur
+   eine Entscheidung (Termin wählen), kein Projekt.
 2. Jedes wichtige Projekt bekommt einen festen Termin wie das Gym (Vorschlag: Donnerstag
-   nachmittags, der einzige freie Werktag-Nachmittag, für die Agentur).
+   nachmittags, der einzige freie Werktag-Nachmittag, jetzt für ORVAELI).
 3. Arzttermin (Gedächtnisprobleme + Fast-Ohnmacht seit Skiunfall, offen seit 20.09.) ist die
    wichtigste offene Aufgabe im ganzen Vault. Gesundheit gehört zum Arzt, nicht in eine
    Persönlichkeitsanalyse.

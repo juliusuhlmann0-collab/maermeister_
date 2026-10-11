@@ -2,6 +2,12 @@
 
 Übungsauswahl und Struktur (Tage, Sätze, Wdh-Bereiche) stehen in `programm.md`. Hier nur die Zahlen.
 
+**Kurzformat (ab 11.10.2026):** Eine Nachricht pro Übung, wenn sie fertig ist, oder alles am Ende
+des Trainings, z. B. `Dips 9/8/7 +10kg F8` (F = Form 1-10, eine Zahl pro Übung reicht).
+Keine Rückfrage nach jedem Satz mehr.
+
+**Lücken im Log:** 25.09. (Fr) nicht geloggt, 02.10. (Fr) ausgefallen, laut Julius krank.
+
 Vault für Trainingsdaten: Sätze, Wiederholungen (Wdh) und – falls belastet – Gewicht, pro Übung.
 Neue Einträge unten an die passende Übung anhängen. **Rekord** ist immer die höchste bisherige
 Summe der Wiederholungen bei mindestens diesem Gewicht (leichteres Gewicht zählt nicht als Topper).

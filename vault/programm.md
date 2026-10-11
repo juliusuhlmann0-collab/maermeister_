@@ -14,6 +14,11 @@ bis alle Sätze oben in der Spanne stehen (das ist das „Toppen" aus `training.
 erhöhen und unten in der Spanne neu anfangen. Rekorde und Gewichte stehen im Trainings-Log,
 hier steht nur die Struktur.
 
+**Reihenfolge (11.10.2026):** Die Hauptübung kommt zuerst (Dienstag Bankdrücken, Freitag
+Klimmzüge), weil sie die schwerste ist. Der Rest ist flexibel, je nachdem welches Gerät frei ist.
+Nicht warten. Die Werte bleiben damit vergleichbar, kleine Schwankungen durch eine andere
+Reihenfolge sind egal.
+
 ## Dienstag – Brust, Schultern, Bizeps
 
 Volumen (reduziert auf max. 2–3 Sätze/Übung wegen Zeit): Brust 8 Sätze, Schulter 6 Sätze,

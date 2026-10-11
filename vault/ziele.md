@@ -11,6 +11,7 @@ Datei mit 3-Monats-Ziel, Ausgangswerten und einem Verlauf – einfach durchgeben
 | Fitness | [ziel-fitness.md](ziel-fitness.md) | läuft, 3-Monats-Ziel gesetzt |
 | Karriere (Siemens) | [ziel-siemens.md](ziel-siemens.md) | läuft, 3-Monats-Ziel gesetzt |
 | Immobilien (Hauptziel) | [ziel-immobilien.md](ziel-immobilien.md) | 1 Objekt erfasst, Zielmarke offen |
+| **ORVAELI mit Dennis (Hauptprojekt ab 11.10.)** | [ziel-orvaeli.md](ziel-orvaeli.md) | Businessplan 10.10., Pakete live, Phase A: Vermietung |
 | Social-Media-Agentur | [ziel-agentur.md](ziel-agentur.md) | Vehikel für Immobilien, Ziel noch offen |
 | Video-Editing | [ziel-video.md](ziel-video.md) | Ziel noch offen |
 | Weiterbildung | [ziel-weiterbildung.md](ziel-weiterbildung.md) | Ziel noch offen |
