@@ -10,11 +10,12 @@ Zahlen sonst nicht vergleichbar sind.
 
 ## Klimmzüge, mittelbreit
 
-**Rekord:** 27 Wdh – 18.09.2026 (10 / 10 / 7)
+**Rekord:** 30 Wdh – 09.10.2026 (12 / 12 / 6)
 
-| Datum | Sätze | Summe |
-|---|---|---|
-| 18.09.2026 | 10 / 10 / 7 | 27 |
+| Datum | Sätze | Summe | Form |
+|---|---|---|---|
+| 09.10.2026 | 12 / 12 / 6 | 30 | Satz 3 "sehr sauber", Zahl 1-10 nie durchgegeben |
+| 18.09.2026 | 10 / 10 / 7 | 27 | – |
 
 ## Rudern breit, 35 kg (oberer Trapez)
 

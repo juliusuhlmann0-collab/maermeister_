@@ -174,6 +174,34 @@ und was dagegen spricht.
   beantwortet, Health-Export seit 5 Tagen nicht gesynct. Kann heißen, dass das Format nicht
   passt, nicht unbedingt fehlende Disziplin. Klären, ob das weg oder anders soll.
 
+## Einschätzung Claude (11.10.2026, auf Frage nach Stärken/Entwicklung)
+
+**Kernbeobachtung aus den Vault-Daten:** Was einen festen Termin hat, läuft (Gym Di/Fr, Xspecter
+Mo/Mi, Siemens). Was keinen hat, schläft nach dem Start ein. Vault-Änderungen: 18.–22.09. rund
+100 Commits (System aufgebaut), danach stark abgeflacht. Zuletzt geändert: Agentur 20.09.
+(Gewerbeanmeldung war für Woche ab 21.09. geplant, seitdem nichts), Siemens-Ziel und Video 18.09.,
+Ernährung/Gesundheit 23.09., Aufgaben 22.09., Siemens-Merkzettel nie benutzt. Das passt zu den
+Schritten 1–5 des Kreislaufs. Kein Motivationsproblem, sondern ein Strukturproblem.
+
+**Größter Widerspruch:** Immobilien ist das erklärte Hauptziel, die Agentur das Vehikel dafür,
+aber die Agentur ist der Bereich mit der wenigsten Bewegung (nicht gegründet, kein Ziel).
+
+**Stärken (belegt):** Umsetzung bei fester Struktur · Verantwortung übernehmen (Notar-Unterlagen)
+· Urteil bei Qualität (Bankdrücken gehalten) · beruflich anerkannt (Barcelona, "weil der Job gut
+läuft") · ungewöhnlich ehrlicher Blick auf sich selbst · mit 21 schon schuldenfreie Wohnung und
+klarer Zeitplan bis 23.
+
+**Vorgeschlagene Entwicklungsrichtung:**
+1. Eine Baustelle richtig: Agentur als 90-Tage-Hauptprojekt, Video parken oder in die Agentur
+   integrieren, Weiterbildung ist nur eine Entscheidung (Termin wählen), kein Projekt.
+2. Jedes wichtige Projekt bekommt einen festen Termin wie das Gym (Vorschlag: Donnerstag
+   nachmittags, der einzige freie Werktag-Nachmittag, für die Agentur).
+3. Arzttermin (Gedächtnisprobleme + Fast-Ohnmacht seit Skiunfall, offen seit 20.09.) ist die
+   wichtigste offene Aufgabe im ganzen Vault. Gesundheit gehört zum Arzt, nicht in eine
+   Persönlichkeitsanalyse.
+4. Fortschritt anerkennen: der ist real und messbar. Die Unzufriedenheit (ziel-identitaet.md)
+   kommt nicht von fehlenden Ergebnissen.
+
 ## Verlauf
 
-**11.10.2026:** Dokument angelegt, erster Abgleich mit Vault-Daten (s. o.).
+**11.10.2026:** Dokument angelegt, erster Abgleich mit Vault-Daten (s. o.), Einschätzung ergänzt.
