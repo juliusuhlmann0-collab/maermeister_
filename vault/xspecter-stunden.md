@@ -24,4 +24,4 @@ Aufzeichnung. Die Summe unten ist also NICHT der volle September, nur ab Start d
 | 12.10.2026 | 15:18 | 19:34 | 4:16 | 76,80 € | – |
 | 05.10.2026 | 12:57 | 18:15 | 5:18 | 95,40 € | – |
 
-**Oktober bisher:** 9:34h, 172,20 € (Mi 07.10. fehlt noch – offen, ob da gearbeitet wurde)
+**Oktober bisher:** 9:34h, 172,20 € (Mi 07.10. nicht gearbeitet)
