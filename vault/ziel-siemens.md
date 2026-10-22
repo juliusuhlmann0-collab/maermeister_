@@ -31,3 +31,6 @@
 
 **18.09.2026** – Zusage für Barcelona-Einsatz KW 43/44 erhalten. Ziel für die 3 Monate
 festgelegt: Zusatzaufgaben + Gespräch wegen EG6.
+
+**19.10.2026** – Abflug nach Barcelona. Arbeits- und Reisezeiten dort:
+[siemens-spanien.md](siemens-spanien.md).
