@@ -15,7 +15,7 @@ der Flug separat ausgewiesen und nicht in den Überstunden.
 | Mo 19.10.2026 | 14:30 | 23:00 | 8:30 | – | 8:30 | (je nach Anrechnung) | Reise (Flug) | Ob vormittags vor dem Flug gearbeitet wurde: offen |
 | Di 20.10.2026 | 7:30 | 17:00 | 9:30 | 0:45 | 8:45 | +1:45 | Arbeit | – |
 | Mi 21.10.2026 | 6:30 | 16:45 | 10:15 | 0:45 | 9:30 | +2:30 | Arbeit | – |
-| Do 22.10.2026 | 6:30 | 16:00 | 9:30 | 0:45 | 8:45 | +1:45 | Arbeit | Ende voraussichtlich (laut Julius morgens), noch bestätigen |
+| Do 22.10.2026 | 6:30 | 16:00 | 9:30 | 0:45 | 8:45 | +1:45 | Arbeit | Ende unklar: 16:00 oder 16:30 (laut Julius morgens), noch bestätigen. Bei 16:30: 9:15 netto, +2:15 |
 | Fr 23.10.2026 | – | – | – | – | – | – | – | – |
 
 **KW 43 bisher:** Arbeit 27:00 Std netto (Di–Do) · **Überstunden +6:00** · Reise 8:30 Std
