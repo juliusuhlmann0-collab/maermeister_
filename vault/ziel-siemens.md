@@ -24,6 +24,7 @@
 | | Wert |
 |---|---|
 | Gehalt | ca. 2.500 € netto |
+| Wochenarbeitszeit | 35 Std (Vertrag) → 7:00 Std/Tag |
 | Entgeltgruppe | aktuell nicht EG6 |
 | Prämie | volle Prämie erst nach 6 Monaten Betriebszugehörigkeit |
 
