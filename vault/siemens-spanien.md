@@ -19,4 +19,6 @@ der Flug separat ausgewiesen und nicht in den Überstunden.
 | Fr 23.10.2026 | – | – | – | – | – | – | – | – |
 
 **KW 43 bisher:** Arbeit 27:00 Std netto (Di–Do) · **Überstunden +6:00** · Reise 8:30 Std
-(Do noch voraussichtlich)
+(Do noch voraussichtlich, bei Do 16:30 jeweils +0:30)
+**Mit Reisezeit voll angerechnet (Mo 8:30 statt Soll 7:00 → +1:30):** 35:30 Std Mo–Do,
+**Überstunden +7:30** (Annahme: Mo vor dem Flug nicht gearbeitet)
