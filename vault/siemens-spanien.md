@@ -16,7 +16,7 @@ die Summe einmal ohne und einmal mit Flug ausgewiesen.
 | Di 20.10.2026 | 7:30 | 17:00 | 9:30 | 0:45 | 8:45 | +1:45 | Arbeit | – |
 | Mi 21.10.2026 | 6:30 | 16:45 | 10:15 | 0:45 | 9:30 | +2:30 | Arbeit | – |
 | Do 22.10.2026 | 6:30 | 16:45 | 10:15 | 0:45 | 9:30 | +2:30 | Arbeit | bestätigt 23.10. |
-| Fr 23.10.2026 | 6:30 | 16:45 | 10:15 | 0:45 | 9:30 | +2:30 | Arbeit | geplant (eingetragen 23.10. morgens) |
+| Fr 23.10.2026 | 6:30 | 17:00 | 10:30 | 0:45 | 9:45 | +2:45 | Arbeit | Ende 17:00 laut Julius (durchgegeben 16:40) |
 
-**Ohne Flug (Di–Fr):** 37:15 Std netto, Soll 28:00 → **Überstunden +9:15**
-**Mit Flug voll angerechnet (Mo–Fr):** 45:45 Std, Soll 35:00 → **Überstunden +10:45**
+**Ohne Flug (Di–Fr):** 37:30 Std netto, Soll 28:00 → **Überstunden +9:30**
+**Mit Flug voll angerechnet (Mo–Fr):** 46:00 Std, Soll 35:00 → **Überstunden +11:00**
