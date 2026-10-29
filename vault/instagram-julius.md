@@ -116,6 +116,25 @@ fürs Schneiden.
 | Follower | 233 (+35,5 % → vor 30 Tagen ca. 172, also ca. **+61 in 30 Tagen**, ~14/Woche) |
 | Netto-Follower | +234 (passt nicht zu +35,5 %, vermutlich weil die Statistik erst mit der Umstellung startet → nicht verlässlich) |
 
+**Leistung (gleicher Zeitraum):**
+
+| | Wert |
+|---|---|
+| Betrachter (erreichte Konten) | 1.318 (+597,4 %), also ca. 5,7× so viele wie Follower |
+| Aufrufe Stories | 19.803 (87 % aller Aufrufe), ca. halb Follower / halb Nicht-Follower |
+| Aufrufe Beiträge | 3.015, mehr Nicht-Follower als Follower |
+| Reels / Live | 0 / 0 |
+| Interaktionen | Stories 557 · Beiträge 101 · Reels 0 |
+| Profilaufrufe | 1.329 |
+| Link in Bio getippt | 0 (kein Link gesetzt) |
+
+Spitzen in der Aufrufe-Kurve um den 20.10. (~2.300) und 26./27.10. (~3.066) fallen genau in den
+Barcelona-Einsatz → Vermutung: Barcelona-Stories haben gezogen (im Tab "Inhalte" bestätigen).
+
+**Folgequote:** 1.329 Profilaufrufe → ca. 61 neue Follower = ca. 4,6 % (etwa jeder 22.).
+**Rechnung für 1.000:** nötig ~365 neue Follower/Monat. Zum Beispiel: Profilaufrufe von 1.300 auf
+~4.000/Monat (über Reels) und Folgequote von ~5 % auf ~9 % (über Profilbild/Bio).
+
 **Erkenntnis:** Viele Aufrufe, wenig neue Follower (22.818 Aufrufe → ca. 61 Follower). Die
 Inhalte werden gesehen, aber das Profil überzeugt die Besucher nicht zum Folgen. Genau da setzen
 Profilbild, Bio und "worum geht's" an. Für 1.000 bis 31.12. braucht es ~85/Woche, also etwa das
