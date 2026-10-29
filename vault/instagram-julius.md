@@ -32,6 +32,52 @@ nach dem Gym.
 | So 27.12. | 951 | | |
 | Do 31.12. | 1.000 | | |
 
+## Positionierung: Lifestyle-Entrepreneur, aber anders (29.10.2026)
+
+Wunsch Julius: Lifestyle-Entrepreneur, aber nicht das Standardzeug.
+
+**Kern: "not yet." als Konzept.** Die anderen zeigen das Ergebnis. Julius zeigt die Phase davor,
+ehrlich, mit echten Zahlen und Fehlern. Kein Guru, keine Tipps, keine geliehenen Luxus-Kulissen.
+Optik edel (dunkel, clean, Beige/Schwarz), Inhalt ehrlich. Die meisten "Old Money"-Accounts
+sind nur Optik, die meisten "Hustle"-Accounts sind laut und billig. Die Kombination ist selten.
+
+**Was ihn unterscheidet (echt, nicht gespielt):** Industrie-Vollzeitjob statt Laptop-Lifestyle,
+ein echtes Business (ORVAELI, Fotospiegel für Hochzeiten) statt Dropshipping/Coaching, und
+ein System, mit dem er alles trackt (Training, Stunden, Ziele mit KI-Coach).
+Arbeitgeber nicht nennen, nicht im Betrieb filmen.
+
+### Profil-Änderungen
+
+| Was | Jetzt | Ändern zu |
+|---|---|---|
+| Profilbild | Spiegel-Selfie, Gesicht vom Handy verdeckt | Gesicht klar erkennbar, nah, gutes Licht, ruhiger Hintergrund |
+| Name-Feld | Julius Uhlmann | Julius Uhlmann \| Unternehmer (Name-Feld ist durchsuchbar) |
+| Bio | not yet. | `21 · Vollzeitjob + eigenes Business` / `Der Teil vor dem Erfolg.` / `not yet.` |
+| Beitrag Haare | im Grid | **archivieren** (nicht löschen), bricht den Look |
+| Andere 3 Beiträge | – | bleiben. Das Restaurant-Foto ist das einzige mit offenem Gesicht + Lachen, wichtig |
+| Highlights 24/25/26 | Jahre | bleiben (minimal, eigen). Später 1 Highlight "Start hier" dazu |
+
+### Eigene Formate (wiedererkennbar)
+
+1. **"not yet. #Nummer"**: Story, schwarzer Hintergrund, kleine weiße Schrift, ein ehrlicher
+   Satz zum Stand ("#12 – Mietvertrag immer noch nicht fertig."). Immer gleiche Optik.
+2. **Wochenbilanz (Sonntag, Reel 15–20 Sek):** Überstunden, Gym-Rekord, ORVAELI-Fortschritt,
+   1 Fehler der Woche. Zahlen kommen aus dem Vault.
+3. **"Was hat's gekostet, was hat's gebracht":** ORVAELI-Entscheidungen mit echten Zahlen
+   (vorher mit Dennis abstimmen).
+
+### Story-Regeln
+
+- Stories sind für die, die schon folgen: Nähe statt Reichweite. 3–5 am Tag reichen.
+- Rein: Format 1, Behind the Scenes (Spiegel aufbauen, Website, Barcelona, Gym als Zahlen
+  statt Spiegel-Flex), Umfragen zu echten Entscheidungen ("Welches Paket würdest du nehmen?").
+- Raus: Essen ohne Bezug, Party, Memes reposten, alles, was nicht zu den 3 Themen passt.
+
+### Bewusst vermeiden (das Standardzeug)
+
+5-Uhr-Morgenroutine mit Motivationsmusik · Sprüche/Grindset-Zitate · Mietwagen/Luxus-Kulissen ·
+Laptop im Café als Pose · "So verdienst du X €"-Tipps · Erfolg behaupten, der noch nicht da ist.
+
 ## Ansatz: dokumentieren statt neues Projekt
 
 Damit es kein zusätzliches Projekt neben ORVAELI wird ([persoenlichkeitsprofil.md](persoenlichkeitsprofil.md),
