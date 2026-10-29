@@ -14,6 +14,7 @@ Datei mit 3-Monats-Ziel, Ausgangswerten und einem Verlauf – einfach durchgeben
 | **ORVAELI mit Dennis (Hauptprojekt ab 11.10.)** | [ziel-orvaeli.md](ziel-orvaeli.md) | Businessplan 10.10., Pakete live, Phase A: Vermietung |
 | Social-Media-Agentur | [ziel-agentur.md](ziel-agentur.md) | **geparkt seit 11.10.**, Fokus auf ORVAELI |
 | Video-Editing | [ziel-video.md](ziel-video.md) | Ziel noch offen |
+| Instagram persönlich (@julius.uhl) | [instagram-julius.md](instagram-julius.md) | Ausgangswert 29.10., Ziel offen |
 | Weiterbildung | [ziel-weiterbildung.md](ziel-weiterbildung.md) | Ziel noch offen |
 
 ## Wie ich coachen soll (Ansage vom 20.09.2026, gilt dauerhaft)
