@@ -1,7 +1,27 @@
 # Instagram – persönlicher Account (@julius.uhl)
 
 **Start:** 29.10.2026
-**Ziel:** *(offen – "dahin" bezieht sich auf ein Video, dessen Inhalt noch nicht vorliegt)*
+**Ziel (29.10.2026):** Personal Brand als Unternehmer aufbauen, Account dafür Schritt für Schritt
+ausbauen. Vorbild-Reel: https://www.instagram.com/reel/DeISXgSMYV9/ (Inhalt noch nicht bekannt,
+Instagram ist in der Claude-Umgebung gesperrt).
+
+## Ansatz: dokumentieren statt neues Projekt
+
+Damit es kein zusätzliches Projekt neben ORVAELI wird ([persoenlichkeitsprofil.md](persoenlichkeitsprofil.md),
+Entwicklungsziel 1): Der Account zeigt, was sowieso passiert (ORVAELI-Aufbau, Immobilie,
+Vollzeitjob + Business, Gym). Content entsteht an den Tagen, die es schon gibt. Zusatzaufwand nur
+fürs Schneiden.
+
+1. **Auf Creator-Konto umstellen** (kostenlos): Statistik + Supermetrics-Verbindung möglich.
+2. **Bio-Vorschlag** ("not yet." bleibt als Markenzeichen):
+   `21 · Vollzeitjob + eigenes Business · Immobilien` / `Ich zeig den Weg, nicht nur das Ergebnis.` / `not yet.`
+3. **Drei Themen:** Aufbau (ORVAELI, Immobilie) · Disziplin (5:20 aufstehen, Job + Business +
+   Gym) · Stil (bestehender Look als Rahmen).
+4. **Rhythmus:** 1 Reel pro Woche, Gesicht sichtbar, dazu Stories nach Lust. Schneiden z. B.
+   Freitagnachmittag (seit Gym am Wochenende frei).
+5. **Erste Reels:** Intro "21, Vollzeitjob, baue nebenher ein Business auf – warum not yet." ·
+   Barcelona-Einsatz (jetzt Clips filmen) · "Mein Wochenplan: Job, Business, Gym" · ORVAELI von
+   null (Zahlen/Interna vorher mit Dennis absprechen, 50/50-Partner).
 
 ## Ausgangswerte (Screenshot 29.10.2026)
 
@@ -26,5 +46,5 @@ teils Schwarz-Weiß). 3 von 4 Beiträgen passen klar zusammen.
 
 ## Offen
 
-- Was ist das Ziel ("dahin")? → Video-Transkript abwarten.
-- Wie viel Zeit pro Woche neben ORVAELI (Di/Do sind ORVAELI-Tage)?
+- Inhalt des Vorbild-Reels (Julius fasst zusammen oder schickt Screenshots).
+- Wie viel Zeit pro Woche neben ORVAELI (Di/Do sind ORVAELI-Tage)? Vorschlag: 1 Reel/Woche.
