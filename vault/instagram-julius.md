@@ -131,6 +131,24 @@ fürs Schneiden.
 Spitzen in der Aufrufe-Kurve um den 20.10. (~2.300) und 26./27.10. (~3.066) fallen genau in den
 Barcelona-Einsatz → Vermutung: Barcelona-Stories haben gezogen (im Tab "Inhalte" bestätigen).
 
+**Inhalte (neueste, Stand 29.10. morgens):**
+
+| Inhalt | Alter | Aufrufe | Likes | Antworten/Komm. |
+|---|---|---|---|---|
+| Beitrag "Was hast du zu verlieren." (Spiegel-Selfie Laden) | 6 Std | 856 | 62 | 1 Kommentar |
+| Story Spiegel-Selfie Laden | 6 Std | 152 | 8 | 0 |
+| Story Outfit (Beige/Tasche) | 23 Std | 204 | 16 | 0 |
+| Story Barcelona Hochhäuser Nacht | 1 Tag | 203 | 16 | 0 |
+| Story Selfie mit Kopfhörern, Gesicht sichtbar (Barcelona) | 2 Tage | 199 | 18 | **2** |
+| Story Gym/Laufbänder | 2 Tage | 194 | 9 | 0 |
+| Story Skyline Sonnenuntergang | 3 Tage | 166 | 11 | 0 |
+| Story Essen (S/W) | 3 Tage | 182 | 5 | 0 |
+
+- Keine einzelne Story ist eingeschlagen, alle liegen bei 150–200 Aufrufen. Die Spitzen in der
+  Kurve kommen also eher von vielen Stories an einem Tag als von einem Treffer.
+- Die einzige Story mit Antworten ist die mit sichtbarem Gesicht. Die schwächste ist das Essen.
+- Der neue Beitrag ist mit 62 Likes in 6 Std (≈ 27 % der Follower) der bisher stärkste Inhalt.
+
 **Folgequote:** 1.329 Profilaufrufe → ca. 61 neue Follower = ca. 4,6 % (etwa jeder 22.).
 **Rechnung für 1.000:** nötig ~365 neue Follower/Monat. Zum Beispiel: Profilaufrufe von 1.300 auf
 ~4.000/Monat (über Reels) und Folgequote von ~5 % auf ~9 % (über Profilbild/Bio).
