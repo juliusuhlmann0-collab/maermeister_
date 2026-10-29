@@ -107,6 +107,20 @@ fürs Schneiden.
 | Bio | "not yet." |
 | Highlights | 24, 25, 26 |
 
+**29.10.2026: auf professionelles Konto (Creator) umgestellt.** Erstes Dashboard (letzte 30 Tage,
+29.09.–28.10.):
+
+| | Wert |
+|---|---|
+| Aufrufe | 22.818 (+2.649,2 % zum Zeitraum davor), Kurve steigt Ende Oktober stark mit Spitzen |
+| Follower | 233 (+35,5 % → vor 30 Tagen ca. 172, also ca. **+61 in 30 Tagen**, ~14/Woche) |
+| Netto-Follower | +234 (passt nicht zu +35,5 %, vermutlich weil die Statistik erst mit der Umstellung startet → nicht verlässlich) |
+
+**Erkenntnis:** Viele Aufrufe, wenig neue Follower (22.818 Aufrufe → ca. 61 Follower). Die
+Inhalte werden gesehen, aber das Profil überzeugt die Besucher nicht zum Folgen. Genau da setzen
+Profilbild, Bio und "worum geht's" an. Für 1.000 bis 31.12. braucht es ~85/Woche, also etwa das
+6-Fache des aktuellen Tempos.
+
 **Stil:** einheitlicher, cleaner Look (gedeckte Farben, Beige/Schwarz/Braun, Spiegel-Selfies,
 teils Schwarz-Weiß). 3 von 4 Beiträgen passen klar zusammen.
 
