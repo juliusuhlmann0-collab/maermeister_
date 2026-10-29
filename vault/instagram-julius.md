@@ -5,6 +5,33 @@
 ausbauen. Vorbild-Reel: https://www.instagram.com/reel/DeISXgSMYV9/ (Inhalt noch nicht bekannt,
 Instagram ist in der Claude-Umgebung gesperrt).
 
+## Zahlenziel: 1.000 Follower bis 31.12.2026 (gesetzt 29.10.2026)
+
+Von 233 auf 1.000 = **+767 in 63 Tagen** → ca. **12 pro Tag / 85 pro Woche** (mehr als das
+4-Fache des jetzigen Stands in 9 Wochen).
+
+**Ehrliche Einordnung:** machbar, aber nur mit Reels, die Leute außerhalb des eigenen Kreises
+erreichen. Mit 1 Reel/Woche eher unwahrscheinlich, **mindestens 2 Reels/Woche** nötig.
+Realistisch wächst so ein Account nicht gleichmäßig, sondern in Sprüngen, wenn ein Reel zündet.
+
+**Regel:** Instagram nie an Di/Do (ORVAELI-Tage). Filmen nebenbei, Schneiden Fr-Nachmittag + So
+nach dem Gym.
+
+### Wochen-Check (jeden Sonntag Follower-Zahl durchgeben)
+
+| Stichtag | Soll (linear) | Ist | Reels diese Woche |
+|---|---|---|---|
+| So 01.11. | 270 | | |
+| So 08.11. | 355 | | |
+| So 15.11. | 440 | | |
+| So 22.11. | 525 | | |
+| So 29.11. | 610 | | |
+| So 06.12. | 696 | | |
+| So 13.12. | 781 | | |
+| So 20.12. | 866 | | |
+| So 27.12. | 951 | | |
+| Do 31.12. | 1.000 | | |
+
 ## Ansatz: dokumentieren statt neues Projekt
 
 Damit es kein zusätzliches Projekt neben ORVAELI wird ([persoenlichkeitsprofil.md](persoenlichkeitsprofil.md),
@@ -17,8 +44,9 @@ fürs Schneiden.
    `21 · Vollzeitjob + eigenes Business · Immobilien` / `Ich zeig den Weg, nicht nur das Ergebnis.` / `not yet.`
 3. **Drei Themen:** Aufbau (ORVAELI, Immobilie) · Disziplin (5:20 aufstehen, Job + Business +
    Gym) · Stil (bestehender Look als Rahmen).
-4. **Rhythmus:** 1 Reel pro Woche, Gesicht sichtbar, dazu Stories nach Lust. Schneiden z. B.
-   Freitagnachmittag (seit Gym am Wochenende frei).
+4. **Rhythmus:** 2 Reels pro Woche (wegen 1.000-Ziel), Gesicht sichtbar, Untertitel, Hook in den
+   ersten 1–2 Sekunden. Dazu Stories. Schneiden Fr-Nachmittag + So nach dem Gym.
+   Collab-Posts (mit Dennis/ORVAELI, Freunden) erreichen beide Follower-Kreise.
 5. **Erste Reels:** Intro "21, Vollzeitjob, baue nebenher ein Business auf – warum not yet." ·
    Barcelona-Einsatz (jetzt Clips filmen) · "Mein Wochenplan: Job, Business, Gym" · ORVAELI von
    null (Zahlen/Interna vorher mit Dennis absprechen, 50/50-Partner).
