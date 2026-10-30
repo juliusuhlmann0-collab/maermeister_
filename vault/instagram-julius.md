@@ -181,6 +181,13 @@ Schrift passt nicht zum cleanen Look. Entscheidung liegt bei Julius.
 weil sie ihm gefallen. Nicht neu diskutieren. Nach ca. 3 Wochen (ca. 20.11.) Zahlen vergleichen:
 Sprüche-Posts vs. andere Inhalte (Aufrufe, neue Follower).
 
+**Vorlage Sprüche-Post (30.10.2026, so für den ersten Post verwendet):**
+- Bild: Outfit-Foto, Gesicht weich verwischt, Spruch als Text aufs Bild
+- Titel: Frage, die zum Kommentieren einlädt (z. B. "Kennst du das auch?")
+- Text: 1 persönlicher Satz + `not yet.` + 5 Hashtags
+  (`#notyet #unternehmer #mindset #oldmoney #personalbrand`)
+- Standort: Erlangen
+
 ## Offen
 
 - Inhalt des Vorbild-Reels (Julius fasst zusammen oder schickt Screenshots).
