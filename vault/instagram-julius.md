@@ -169,6 +169,14 @@ teils Schwarz-Weiß). 3 von 4 Beiträgen passen klar zusammen.
 - Ohne Statistik (Reichweite, Profilaufrufe) nur ein erster Eindruck. Für echte Zahlen: Wechsel
   auf Creator-Konto + Supermetrics-Verbindung oder Screenshots aus der Statistik.
 
+## TikTok
+
+**30.10.2026:** Erster TikTok-Post vorbereitet: Outfit-Spiegel-Selfie (Gesicht weich verwischt)
+mit Zitat "Some people only support you as long as you're not more successful than they are."
+in gelber Grunge-Schrift. Claude-Einordnung: Zitat ist genau das Spruch-Standardzeug, das
+vermieden werden sollte, und widerspricht "not yet." (unterstellt, schon erfolgreicher zu sein).
+Schrift passt nicht zum cleanen Look. Entscheidung liegt bei Julius.
+
 ## Offen
 
 - Inhalt des Vorbild-Reels (Julius fasst zusammen oder schickt Screenshots).
