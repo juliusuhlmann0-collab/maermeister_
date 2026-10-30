@@ -30,11 +30,12 @@ die Summe einmal ohne und einmal mit Flug ausgewiesen.
 | Mi 28.10.2026 | 6:30 | 15:10 | 8:40 | 0:45 | 7:55 | +0:55 | Arbeit | Start 6:30 angenommen (nur Ende durchgegeben), noch bestätigen |
 | Do 29.10.2026 | 6:40 | 13:50 | 7:10 | 0:45 | 6:25 | −0:35 | Arbeit | Start 6:40 bestätigt (30.10.) |
 | Fr 30.10.2026 | 6:45 | ca. 12:00 | 5:15 | **0:15** | 5:00 | −2:00 | Arbeit | Ende geplant/ungefähr, nur 15 Min Pause (laut Julius) |
-| Sa 31.10.2026 | 6:40 | – | – | – | – | (Sa: kein Soll) | Reise (Rückflug) | Abflug 6:40, Ankunft noch offen |
+| Sa 31.10.2026 | 5:20 | ca. 12:30 | 7:10 | – | 7:10 | +7:10 (Sa kein Soll, nur wenn Reisezeit zählt) | Reise (Rückflug) | geplant (durchgegeben 30.10. früh), Abflug 6:40 |
 
 **KW 44 (Mo–Fr):** 37:40 Std netto, Soll 35:00 → **Überstunden +2:40** (Fr-Ende noch ungefähr)
 
 ## Gesamt Barcelona
 
-**Ohne Flug:** Überstunden **+12:10** · **Mit Hinflug voll angerechnet:** **+13:40**
-Rückflug am Samstag (kein Soll): falls als Reisezeit anrechenbar, zählt die ganze Flugzeit dazu.
+**Ohne Flug:** Überstunden **+12:10** · **Mit Hinflug:** **+13:40** ·
+**Mit Hin- und Rückflug voll angerechnet:** **+20:50**
+Reisezeit gesamt: 8:30 (Hinflug) + 7:10 (Rückflug, geplant) = 15:40.
