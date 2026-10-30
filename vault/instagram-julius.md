@@ -177,6 +177,10 @@ in gelber Grunge-Schrift. Claude-Einordnung: Zitat ist genau das Spruch-Standard
 vermieden werden sollte, und widerspricht "not yet." (unterstellt, schon erfolgreicher zu sein).
 Schrift passt nicht zum cleanen Look. Entscheidung liegt bei Julius.
 
+**Entscheidung Julius (30.10.2026):** Für den Start der Personal Brand bewusst Sprüche-Posts,
+weil sie ihm gefallen. Nicht neu diskutieren. Nach ca. 3 Wochen (ca. 20.11.) Zahlen vergleichen:
+Sprüche-Posts vs. andere Inhalte (Aufrufe, neue Follower).
+
 ## Offen
 
 - Inhalt des Vorbild-Reels (Julius fasst zusammen oder schickt Screenshots).
