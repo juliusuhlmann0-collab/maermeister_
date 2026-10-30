@@ -28,10 +28,12 @@ die Summe einmal ohne und einmal mit Flug ausgewiesen.
 | Mo 26.10.2026 | 6:30 | 16:30 | 10:00 | 0:45 | 9:15 | +2:15 | Arbeit | – |
 | Di 27.10.2026 | 6:30 | 16:20 | 9:50 | 0:45 | 9:05 | +2:05 | Arbeit | – |
 | Mi 28.10.2026 | 6:30 | 15:10 | 8:40 | 0:45 | 7:55 | +0:55 | Arbeit | Start 6:30 angenommen (nur Ende durchgegeben), noch bestätigen |
-| Do 29.10.2026 | 6:40 | – | – | 0:45 | – | – | Arbeit | läuft, Ende noch offen |
+| Do 29.10.2026 | 6:40 | 13:50 | 7:10 | 0:45 | 6:25 | −0:35 | Arbeit | Start am 29.10. morgens als 6:40 durchgegeben, am 30.10. als 6:30 genannt (dann 6:35 / −0:25) – klären |
+| Fr 30.10.2026 | 6:45 | ca. 12:00 | 5:15 | 0:45 | 4:30 | −2:30 | Arbeit | geplant (durchgegeben 6:57), Ende ca. Rückflug-Zeiten noch offen |
 
-**KW 44 bisher (Mo–Mi):** 26:15 Std netto · **Überstunden +5:15**
+**KW 44 (Mo–Fr):** 37:10 Std netto, Soll 35:00 → **Überstunden +2:10** (Fr noch geplant)
 
-## Gesamt Barcelona bisher
+## Gesamt Barcelona
 
-**Ohne Flug:** Überstunden **+14:45** · **Mit Hinflug voll angerechnet:** **+16:15**
+**Ohne Flug:** Überstunden **+11:40** · **Mit Hinflug voll angerechnet:** **+13:10**
+Rückflug (falls als Reisezeit anrechenbar) kommt noch dazu, Zeiten offen.
