@@ -4,9 +4,9 @@ Arbeits- und Reisezeiten während des Spanien-Einsatzes, damit sich später nach
 was angefallen ist (Abgleich mit Abrechnung, Überstunden, Reisezeit).
 
 **Vertrag:** 35 Std/Woche → **Soll 7:00 Std pro Tag** (Mo–Fr).
-**Pause (Regel laut Julius, 30.10.):** über 4:30 Std → 15 Min · ab 6 Std → 30 Min · über 9 Std →
-45 Min (die 45 Min hatte Julius am 22.10. für die langen Tage genannt). Netto = Anwesenheit − Pause.
-Reisetage ohne Pausenabzug. Wie Siemens Reisezeit anrechnet, ist nicht bekannt, deshalb ist
+**Pause (Stand 31.10., laut Julius):** an allen Arbeitstagen 45 Min, nur Fr 30.10. 15 Min.
+(Allgemeine Regel laut Julius: ab 4:30 Std 15 Min, ab 6 Std 30 Min. Für Mi 28. und Do 29.10.
+aber ausdrücklich 45 Min bestätigt.) Netto = Anwesenheit − Pause. Reisetage ohne Pausenabzug. Wie Siemens Reisezeit anrechnet, ist nicht bekannt, deshalb ist
 die Summe einmal ohne und einmal mit Flug ausgewiesen.
 
 ## KW 43
@@ -28,16 +28,17 @@ die Summe einmal ohne und einmal mit Flug ausgewiesen.
 |---|---|---|---|---|---|---|---|---|
 | Mo 26.10.2026 | 6:30 | 16:30 | 10:00 | 0:45 | 9:15 | +2:15 | Arbeit | – |
 | Di 27.10.2026 | 6:30 | 16:20 | 9:50 | 0:45 | 9:05 | +2:05 | Arbeit | – |
-| Mi 28.10.2026 | 6:30 | 15:10 | 8:40 | 0:30 | 8:10 | +1:10 | Arbeit | Start 6:30 angenommen (nur Ende durchgegeben). Pause nach Regel 30 Min (vorher 45) |
-| Do 29.10.2026 | 6:40 | 13:50 | 7:10 | 0:30 | 6:40 | −0:20 | Arbeit | Start 6:40 bestätigt. Pause nach Regel 30 Min (vorher 45) |
+| Mi 28.10.2026 | 6:30 | 15:10 | 8:40 | 0:45 | 7:55 | +0:55 | Arbeit | Start 6:30 angenommen (nur Ende durchgegeben). 45 Min Pause bestätigt (31.10.) |
+| Do 29.10.2026 | 6:40 | 13:50 | 7:10 | 0:45 | 6:25 | −0:35 | Arbeit | Start 6:40 bestätigt. 45 Min Pause bestätigt (31.10.) |
 | Fr 30.10.2026 | 6:45 | ca. 12:00 | 5:15 | **0:15** | 5:00 | −2:00 | Arbeit | Ende geplant/ungefähr, nur 15 Min Pause (laut Julius) |
 | Sa 31.10.2026 | 5:30 | 12:00 | 6:30 | – | 6:30 | +6:30 (Sa kein Soll, nur wenn Reisezeit zählt) | Reise (Rückflug) | Start 5:30 laut Julius (31.10.), Ende voraussichtlich. Abflug 6:40 |
 
-**KW 44 (Mo–Fr):** 38:10 Std netto, Soll 35:00 → **Überstunden +3:10** (Fr-Ende noch ungefähr)
+**KW 44 (Mo–Fr):** 37:40 Std netto, Soll 35:00 → **Überstunden +2:40** (Fr-Ende noch ungefähr)
+Mit Rückreise (Sa 6:30): 44:10 Std → +9:10
 
 ## Gesamt Barcelona
 
-Arbeit gesamt: 75:40 Std netto (KW 43: 37:30 · KW 44: 38:10)
-**Ohne Flug:** Überstunden **+12:40** · **Mit Hinflug:** **+14:10** ·
-**Mit Hin- und Rückflug voll angerechnet:** **+20:40**
+Arbeit gesamt: 75:10 Std netto (KW 43: 37:30 · KW 44: 37:40)
+**Ohne Flug:** Überstunden **+12:10** · **Mit Hinflug:** **+13:40** ·
+**Mit Hin- und Rückflug voll angerechnet:** **+20:10**
 Reisezeit gesamt: 8:30 (Hinflug) + 6:30 (Rückreise) = 15:00.
