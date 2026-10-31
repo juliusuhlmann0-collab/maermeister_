@@ -31,7 +31,7 @@ die Summe einmal ohne und einmal mit Flug ausgewiesen.
 | Mi 28.10.2026 | 6:30 | 15:10 | 8:40 | 0:30 | 8:10 | +1:10 | Arbeit | Start 6:30 angenommen (nur Ende durchgegeben). Pause nach Regel 30 Min (vorher 45) |
 | Do 29.10.2026 | 6:40 | 13:50 | 7:10 | 0:30 | 6:40 | −0:20 | Arbeit | Start 6:40 bestätigt. Pause nach Regel 30 Min (vorher 45) |
 | Fr 30.10.2026 | 6:45 | ca. 12:00 | 5:15 | **0:15** | 5:00 | −2:00 | Arbeit | Ende geplant/ungefähr, nur 15 Min Pause (laut Julius) |
-| Sa 31.10.2026 | 5:20 | ca. 12:30 | 7:10 | – | 7:10 | +7:10 (Sa kein Soll, nur wenn Reisezeit zählt) | Reise (Rückflug) | geplant (durchgegeben 30.10. früh), Abflug 6:40 |
+| Sa 31.10.2026 | 5:30 | 12:00 | 6:30 | – | 6:30 | +6:30 (Sa kein Soll, nur wenn Reisezeit zählt) | Reise (Rückflug) | Start 5:30 laut Julius (31.10.), Ende voraussichtlich. Abflug 6:40 |
 
 **KW 44 (Mo–Fr):** 38:10 Std netto, Soll 35:00 → **Überstunden +3:10** (Fr-Ende noch ungefähr)
 
@@ -39,5 +39,5 @@ die Summe einmal ohne und einmal mit Flug ausgewiesen.
 
 Arbeit gesamt: 75:40 Std netto (KW 43: 37:30 · KW 44: 38:10)
 **Ohne Flug:** Überstunden **+12:40** · **Mit Hinflug:** **+14:10** ·
-**Mit Hin- und Rückflug voll angerechnet:** **+21:20**
-Reisezeit gesamt: 8:30 (Hinflug) + 7:10 (Rückflug, geplant) = 15:40.
+**Mit Hin- und Rückflug voll angerechnet:** **+20:40**
+Reisezeit gesamt: 8:30 (Hinflug) + 6:30 (Rückreise) = 15:00.
