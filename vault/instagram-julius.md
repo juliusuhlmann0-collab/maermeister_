@@ -169,6 +169,14 @@ teils Schwarz-Weiß). 3 von 4 Beiträgen passen klar zusammen.
 - Ohne Statistik (Reichweite, Profilaufrufe) nur ein erster Eindruck. Für echte Zahlen: Wechsel
   auf Creator-Konto + Supermetrics-Verbindung oder Screenshots aus der Statistik.
 
+## Intro-Story "Wer ich bin" (Vorschlag 31.10.2026)
+
+3 Slides, schwarzer Hintergrund oder Foto mit Gesicht, kleine weiße Schrift, danach als
+Highlight "Start hier" speichern:
+1. "Kurz zu mir: 21. Vollzeitjob. Nebenbei bau ich mein eigenes Business auf."
+2. "Hier siehst du nicht das Ergebnis, sondern den Weg dahin. Ehrlich, auch wenn was schiefgeht."
+3. "not yet. #1" + Umfrage "Willst du sehen, wie's weitergeht?" (Ja / Auf jeden Fall)
+
 ## TikTok
 
 **30.10.2026:** Erster TikTok-Post vorbereitet: Outfit-Spiegel-Selfie (Gesicht weich verwischt)
