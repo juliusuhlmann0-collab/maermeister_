@@ -41,4 +41,8 @@ Mit Rückreise (Sa 6:30): 44:10 Std → +9:10
 Arbeit gesamt: 75:10 Std netto (KW 43: 37:30 · KW 44: 37:40)
 **Ohne Flug:** Überstunden **+12:10** · **Mit Hinflug:** **+13:40** ·
 **Mit Hin- und Rückflug voll angerechnet:** **+20:10**
+
+**Regel Julius 31.10.:** über 6 Std → 45 Min Pause, unter 6 Std → 15 Min, "überall". Für die
+Arbeitstage ändert das nichts (deckt sich mit den Werten oben). Falls auch Reisetage: Hinflug
+8:30 → 7:45, Rückreise 6:30 → 5:45 (Reise netto 13:30) → **gesamt inkl. Reise +18:40**.
 Reisezeit gesamt: 8:30 (Hinflug) + 6:30 (Rückreise) = 15:00.
