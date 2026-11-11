@@ -5,6 +5,8 @@ ist, ich setz das Häkchen (`- [ ]` → `- [x]`).
 
 ## Priorität (markiert)
 
+- [ ] **Gewerbe-Rechnung 30 € an VG Heßdorf überweisen – fällig 17.11.2026** (Rechnung Nr.
+      2026-348 vom 03.11., Gewerbeanmeldung, laut Julius für Tecis)
 - [ ] Deka kündigen
 - [ ] Unfall Schäden abklären – zum Arzt gehen, prüfen ob Geld für Langzeitschäden (Skiunfall
       Dezember) von der Versicherung möglich ist. Beim Arzttermin auch die anderen Symptome seit
