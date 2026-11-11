@@ -13,6 +13,7 @@ Datei mit 3-Monats-Ziel, Ausgangswerten und einem Verlauf – einfach durchgeben
 | Immobilien (Hauptziel) | [ziel-immobilien.md](ziel-immobilien.md) | 1 Objekt erfasst, Zielmarke offen |
 | **ORVAELI mit Dennis (Hauptprojekt ab 11.10.)** | [ziel-orvaeli.md](ziel-orvaeli.md) | Businessplan 10.10., Pakete live, Phase A: Vermietung |
 | Social-Media-Agentur | [ziel-agentur.md](ziel-agentur.md) | **geparkt seit 11.10.**, Fokus auf ORVAELI |
+| Tecis (Vertrieb, Nebengewerbe) | [tecis.md](tecis.md) | Gewerbe angemeldet Nov. 2026, Buchhaltung über Ordner + Tabelle |
 | Video-Editing | [ziel-video.md](ziel-video.md) | Ziel noch offen |
 | Instagram persönlich (@julius.uhl) | [instagram-julius.md](instagram-julius.md) | Personal Brand als Unternehmer, Ziel 1.000 Follower bis 31.12. (Start 233) |
 | Weiterbildung | [ziel-weiterbildung.md](ziel-weiterbildung.md) | Ziel noch offen |
