@@ -15,6 +15,10 @@ Kunden, kein Umsatz, das ist der reale Stand (nicht schöngeredet).
 
 **20.09.2026** – Anmeldung für nächste Woche angekündigt.
 
+**27.10.2026** – Finanzamt Mittelfranken-Ost: neue Steuernummer für die Einkommensteuer
+zugeteilt, die bisherige gilt nicht mehr. Erstattungen gehen weiter auf das gespeicherte Konto bei
+der Sparkasse Erlangen.
+
 **29.10.2026** – Schreiben vom Finanzamt Mittelfranken-Ost: Seine Steuernummer gilt jetzt auch
 für eine Gewinnermittlung nach § 4 Abs. 3 EStG (EÜR), Tätigkeit "Erbringung von anderen
 wirtschaftlichen Dienstleistungen". Vermutlich die Folge der Gewerbeanmeldung. Steuerlich als
