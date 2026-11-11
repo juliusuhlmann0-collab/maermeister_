@@ -15,6 +15,12 @@ Kunden, kein Umsatz, das ist der reale Stand (nicht schöngeredet).
 
 **20.09.2026** – Anmeldung für nächste Woche angekündigt.
 
+**29.10.2026** – Schreiben vom Finanzamt Mittelfranken-Ost: Seine Steuernummer gilt jetzt auch
+für eine Gewinnermittlung nach § 4 Abs. 3 EStG (EÜR), Tätigkeit "Erbringung von anderen
+wirtschaftlichen Dienstleistungen". Vermutlich die Folge der Gewerbeanmeldung. Steuerlich als
+Selbstständiger erfasst, auch wenn die Agentur geparkt ist. Mit dem Steuerberater klären
+(Kleinunternehmer? ruhen lassen? für ORVAELI relevant?). Nummern stehen im Original, nicht hier.
+
 **11.10.2026** – **Geparkt.** Entscheidung Julius: Die Agentur ist erstmal raus, voller Fokus
 auf ORVAELI ([ziel-orvaeli.md](ziel-orvaeli.md)), das jetzt die Rolle als Geldquelle für die
 Immobilien übernimmt.
